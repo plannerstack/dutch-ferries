@@ -1,0 +1,337 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+VV241,Gr02,Fiets-/Voetveer,Delfzijl - Emden - Ditzum,Fiets-/Voetveer over Eems,4,http://www.dollard-route.de/index.php?pageId=791,FFFFFF,000000
+VV15,Gr03,Fiets-/Voetveer,Delfzijl - Emden-Knock- Borkum,Fiets-/Voetveer over Eems - Dollard,4,http://www.borkumlijn.nl,FFFFFF,000000
+VV15,Gr04,Autoveer,Eemshaven - Borkum,Autoveer over Waddenzee,4,http://www.borkumlijn.nl,FFFFFF,000000
+VV214,Ge25,Fiets-/Voetveer,Enspijk - Marienwaerdt landgoed,Fiets-/Voetveer over Linge,4,http://www.marienwaerdt.nl/,FFFFFF,000000
+VV39,Ge27,Autoveer,Brakel - Herwijnen,Autoveer over Waal,4,http://www.veerdienstgorinchem.nl,FFFFFF,000000
+VV13,Ge28,Fiets-/Voetveer,Varik - Heerewaarden,Fiets-/Voetveer over Waal,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV195,Ge29,Fiets-/Voetveer,Tiel - Wamel,Fiets-/Voetveer over Waal,4,http://www.tiel.nl/balie/product.asp?id=95D33D1A-97FE-45E5-92FE-BAC99BA84F22,FFFFFF,000000
+VV203,NH63,Voetveer,Amsterdam Schellingwoude (oost),Voetveer over Zijkanaal van IJ,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=365,FFFFFF,000000
+VV13,Ge30,Fiets-/Voetveer,Druten - Dodewaard,Fiets-/Voetveer over Waal,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV238,ZH68 / NB32,Fiets-/Voetveer,Strijensas - Moerdijk,Fiets-/Voetveer over Hollands Diep,4,http://vaardienstendezwart.nl,FFFFFF,000000
+VV18,NH61,Voetveer,Hobrede - Middelie,Voetveer over Wijzend,4,http://static.telegraaf.nl/media/090808.route.pdf,FFFFFF,000000
+VV23,Ge37 / NB19,Autoveer,Alphen - Oijen,Autoveer over Maas,4,http://www.maasveren.nl,FFFFFF,000000
+VV38,Ut11 / Ge13,Autoveer,Wijk bij Duurstede - Rijswijk,Autoveer over Lek,4,http://www.tonpaulusveerbedrijf.nl,FFFFFF,000000
+VV249,Ge33,Autoveer,Nederhemert Noord - Nederhemert Zuid,Autoveer over Afgedamde Maas,4,http://www.hetveernederhemert.nl/,FFFFFF,000000
+VV150,Ge04 / Ov08,Autoveer,Vorchten - Wijhe,Autoveer over IJssel,4,http://www.wijheseveer.nl,FFFFFF,000000
+VV145,Gr09,Fiets-/Voetveer,Blauwe Stad : Beerta - Reiderwolde,Fiets-/Voetveer over Reide,4,http://www.reiderhaven.nl/index.php?p=pontje,FFFFFF,000000
+VV58,NH68,Fiets-/Voetveer,Badhoevedorp - Sloten,Fiets-/Voetveer over Ringvaart Haarlemmermeer,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=374,FFFFFF,000000
+VV89,NH69,Voetveer,Amstelveen Bovenkerkerpolder,Voetveer over Sloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=377,FFFFFF,000000
+VV253,NH66,Voetveer,Amsterdam IJburg - Pampus - Muiden,Voetveer over IJmeer,4,http://www.veerdienstamsterdam.nl/,FFFFFF,000000
+VV16,Gr06,Fiets-/Voetveer,Noordlaren Osdijk - Recreatiegebied Meerwijck,Fiets-/Voetveer over Drentsche Diep,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=11,FFFFFF,000000
+VV236,NH64,Voetveer,Amsterdam Schellingwoude (west),Voetveer over Zijkanaal van het IJ,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=366,FFFFFF,000000
+VV200,NH65,Voetveer,Heemstede Cruquiushaven,Voetveer over Cruquiushaven,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=370,FFFFFF,000000
+VV116,Gr07,Fiets-/Voetveer,Sebaldeburen - Boerakker,Fiets-/Voetveer over Wolddiep,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=261,FFFFFF,000000
+VV116,Gr14,Voetveer,Warfhuizen - Klein Maarslag,Voetveer over Kromme Raken,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=420,FFFFFF,000000
+VV130,Gr12,Fiets-/Voetveer,Lauwersoog - Suyderoogh,Fiets-/Voetveer over Nieuwe Robbengat,4,http://www.rtvnoord.nl/artikel/artikel.asp?p=121728,FFFFFF,000000
+VV96,Gr13,Fiets-/Voetveer,Aduarderzijl - Schaphalsterzijl,Fiets-/Voetveer over Reitdiep,4,http://www.reitdiepveer.nl,,
+VV145,Gr11,Fiets-/Voetveer,Blauwe Stad : Nieuwe Weg - Hidra,Fiets-/Voetveer over Oldambtermeer,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=393,FFFFFF,000000
+VV13,Ut20 / Ge48,Fiets-/Voetveer,Fort Everdingen - Schalkwijk - Werk aan t Spoel,Fiets-/Voetveer over Lek,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV110,ZH75,Fiets-/Voetveer,Rotterdam Feijenoord - Kralingen,Fiets-/Voetveer over Nieuwe Maas,4,http://www.waterbus.nl,,
+VV13,Ge38,Fiets-/Voetveer,Maasbommel Loswal - Gouden Ham (recr.gebied),Fiets-/Voetveer over Maasarm,4,http://www.uitrwaarde.nl,FFFFFF,000000
+VV234,ZH76,Voetveer,Hillegom - De Zilk (1),Voetveer over Leidsevaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=429,,
+VV53,ZH77,Voetveer,Hillegom - De Zilk (2),Voetveer over Leidsevaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=430,,
+VV178,ZH71,Voetveer,Hendrik Ido Ambacht - Sophiapolder,Voetveer over Rietbaan,4,http://www.zuidhollandslandschap.nl/projecten/sophiapolder/,FFFFFF,000000
+VV109,ZH72,Fiets-/Voetveer,Dordrecht Merwekade - Papendrecht,Fiets-/Voetveer over Oude Maas,4,http://www.waterbus.nl,,
+VV109,ZH73,Fiets-/Voetveer,Dordrecht Merwekade - Zwijndrecht,Fiets-/Voetveer over Oude Maas,4,http://www.waterbus.nl,,
+VV29,NH51,Voetveer,Zaandam - Zaanse Schans,Voetveer over Zaan,4,http://www.zaanhopper.nl,FFFFFF,000000
+VV131,NH06 / Fl04,Fiets-/Voetveer,Enkhuizen - Urk,Fiets-/Voetveer over IJselmeer,4,http://www.willem-barentsz.nl/,,
+VV29,NH52,Voetveer,Zaandijk - Zaanse Schans Bonte Hen,Voetveer over Zaan,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=334,FFFFFF,000000
+VV161,Ge11 / Ut09,Autoveer,Culemborg - Schalkwijk,Autoveer over Lek,4,http://www.boekenroute.nl/gasten/gtn1Boek.aspx?BoekID=2529,FFFFFF,000000
+VV32,Ge44,Voetveer,Ubbergen - Persingen,Voetveer over Het Meer,4,http://www.vianatura.nl,FFFFFF,000000
+VV245,Ut03 / NH38,Fiets-/Voetveer,Nigtevecht - Nederhorst den Berg,Fiets-/Voetveer over Vecht,4,http://www.stichtsevecht.nl/inwoners/veel-gestelde-vragen_42575/item/wat-zijn-de-vaartijden-van-pontjes-veerponten-fietsponten-en-voetveren-in-gemeente-stichtse-vecht_2519.html,FFFFFF,000000
+VV172,Ge43,Voetveer,Zevenaar - Aerdt,Voetveer over Oude Rijn,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=264,FFFFFF,000000
+VV248,Ze21,Voetveer,Veere wandelroute Wallen,Voetveer over Vesten van Veere,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=391,FFFFFF,000000
+VV83,Ze22,Fiets-/Voetveer,Kamperland Uithaven - Veere,Fiets-/Voetveer over Veerse Meer,4,http://www.denick.nl,FFFFFF,000000
+VV18,NH58,Voetveer,Texel Eijerlands Kanaal,Voetveer over Eijerlands Kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=348,FFFFFF,000000
+VV182,NH59,Fiets-/Voetveer,IJmuiden - IJmuiden noorderpier,Fiets-/Voetveer over Noordzeekanaal,4,http://www.ijmuidenserondvaart.nl/cms/pages/watertaxi.php,FFFFFF,000000
+VV163,Ze20,Voetveer,Walcheren wandelroute,Voetveer over Domburgse watergang,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=385,FFFFFF,000000
+VV18,NH53,Voetveer,Oosthuizen 1,Voetveer over Poldersloot Oosthuizen 1,4,http://www.recreatienoordholland.nl/v_zoeken/print_route.asp?menu=02100001_000000&n_code=23,FFFFFF,000000
+VV18,NH54,Voetveer,Oosthuizen 2,Voetveer over Poldersloot Oosthuizen 2,4,http://www.recreatienoordholland.nl/v_zoeken/print_route.asp?menu=02100001_000000&n_code=23,FFFFFF,000000
+VV46,Ze23,Voetveer,Vlissingen Watertaxi,Voetveer over Kanaal door Walcheren,4,http://www.watertaxi-vlissingen.nl/,FFFFFF,000000
+VV99,NH55,Voetveer,Amsterdam Slotervaart-Siegerpark,Voetveer over Sloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=340,FFFFFF,000000
+VV255,Ze17,Voetveer,Groede Cletemspolder,Voetveer over kreek in Cletemspolder,4,http://www.rondjepontje.nl/,FFFFFF,000000
+VV235,Ze16,Fiets-/Voetveer,Sluiskil Oost - Sluiskil West,Fiets-/Voetveer over Kanaal van Gent naar Terneuzen,4,http://www.rondjepontje.nl/,FFFFFF,000000
+VV94,Ze19,Voetveer,s Gravenpolder - s Heer Abtskerke,Voetveer over Sloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=368,FFFFFF,000000
+VV160,Ze18,Fiets-/Voetveer,Bruinisse - Anna Jacobapolder,Fiets-/Voetveer over Zijpe,4,http://www.zeehaantje.nl,FFFFFF,000000
+VV17,Ge06,Fiets-/Voetveer,Gorssel - Wilp,Fiets-/Voetveer over IJssel,4,http://www.gorssel.nl/erop-uit/11-erop-uit/17-overkant-ijssel,FFFFFF,000000
+VV135,Ge07,Autoveer,Brummen - Bronkhorst,Autoveer over IJssel,4,http://www.brummen.nl/wonen-en-leven/verkeer/vaartijden-veerpont/,FFFFFF,000000
+VV157,Ge08,Autoveer,Dieren - Olburgen,Autoveer over IJssel,4,http://www.veerpont-dieren.nl,FFFFFF,000000
+VV21,Ge09,Fiets-/Voetveer,Rheden - Rhederlaag,Fiets-/Voetveer over IJssel,4,http://www.veerdienstrheden.nl/,#ff0000,#ff0000
+VV123,Ge10,Voetveer,Lochem Dochterenseweg - Staringkoepel,Voetveer over Berkel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=247,FFFFFF,000000
+VV9,NH40,Fiets-/Voetveer,Aalsmeer - Rijsenhout,Fiets-/Voetveer over Ringvaart Haarlemmermeer,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=94,FFFFFF,000000
+VV89,NH45,Fiets-/Voetveer,Amstelveen Nesserlaan - De Ronde Hoep,Fiets-/Voetveer over Amstel,4,http://www.groengebied-amstelland.nl,,
+VV88,Ze13,Fiets-/Voetveer,Vlissingen - Breskens,Fiets-/Voetveer over Westerschelde,4,https://www.westerscheldeferry.nl/,FFFFFF,000000
+VV175,Ze15,Fiets-/Voetveer,Hansweert - Perkpolder,Fiets-/Voetveer over Westerschelde,4,http://www.de-atol.nl,FFFFFF,000000
+VV89,NH48,Voetveer,Amstelveen Middenweg,Voetveer over Poldertocht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=324,FFFFFF,000000
+VV189,Ze10,Fiets-/Voetveer,Gorishoek - Yerseke - Wemeldinge,Fiets-/Voetveer over Oosterschelde,4,http://rondjepontje.vvvzeeland.nl/,,
+VV14,NH47,Fiets-/Voetveer,Amsterdam Westerdoksdijk - Ms.Van Riemsdijkweg,Fiets-/Voetveer over IJ,4,http://www.gvb.nl,,
+VV3,NH29,Voetveer,Amsterdam CS - Pampus eiland,Voetveer over IJmeer,4,http://www.vaarmij.nl,,
+VV3,NH28,Fiets-/Voetveer,Amsterdam CS - Nieuwendam,Fiets-/Voetveer over IJ,4,http://www.move-amsterdam.nl,FFFFFF,000000
+VV72,Ov09 / Ge05,Fiets-/Voetveer,Fortmond - Veessen,Fiets-/Voetveer over IJssel,4,http://www.kozakkenveer.nl/,FFFFFF,000000
+VV152,Ze09,Fiets-/Voetveer,Kortgene - Wolphaartsdijk,Fiets-/Voetveer over Veerse Meer,4,http://www.hoopsportvisserijfietsveer.nl/,FFFFFF,000000
+VV243,Ze08,Fiets-/Voetveer,Veere - Kamperland,Fiets-/Voetveer over Veerse Meer,4,http://www.rederijdijkhuizen.nl/home.html,FFFFFF,000000
+VV114,Ge42 / NB17,Fiets-/Voetveer,Heerewaarden Jachthaven - Lithse Ham,Fiets-/Voetveer over Maas en Litsche Ham,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=257,,
+VV176,NH72 / Fl06,Fiets-/Voetveer,Enkhuizen - Urk,Fiets-/Voetveer over IJsselmeer,4,http://www.de-zuiderzee.nl,FFFFFF,000000
+VV24,Ze07,Fiets-/Voetveer,Zierikzee - Kamperland Sophiahaven,Fiets-/Voetveer over Oosterschelde,4,http://www.frisiarondvaarten.nl,FFFFFF,000000
+VV24,Ze06,Fiets-/Voetveer,Sint Annaland - Zierikzee,"Fiets-/Voetveer over Mastgat, Krammer, Oosterschelde",4,http://www.frisiarondvaarten.nl,FFFFFF,000000
+VV49,Ge19,Autoveer,Huissen - Loo,Autoveer over Nederrijn,4,http://www.looveer.nl,,
+VV197,Ge17,Autoveer,Wageningen - Randwijk,Autoveer over Nederrijn,4,http://www.wageningen.nl/Wonen_milieu_en_verkeer/Verkeer/Lexkesveer_tarieven_en_vaartijden,FFFFFF,000000
+VV148,Ge18,Fiets-/Voetveer,Driel - Heveadorp,Fiets-/Voetveer over Nederrijn,4,http://www.drielseveer.nl/,FFFFFF,000000
+VV242,Ge16,Autoveer,Opheusden - Wageningen,Autoveer over Nederrijn,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=46,FFFFFF,000000
+VV141,Ge22,Fiets-/Voetveer,Millingerwaard - Doornenburg,Fiets-/Voetveer over Waal,4,http://www.kievitsveerdiensten.com/,FFFFFF,000000
+VV141,Ge21,Fiets-/Voetveer,Millingen aan de Rijn - Pannerden,Fiets-/Voetveer over Rijn,4,http://www.kievitsveerdiensten.com/,FFFFFF,000000
+VV230,Ge20,Autoveer,Pannerden - Doornenburg,Autoveer over Pannerdens kanaal,4,http://www.veerdienstdoornenburg.nl/,FFFFFF,000000
+VV89,Ut14 / NH44,Fiets-/Voetveer,Abcoude - Ouderkerk a/d Amstel,Fiets-/Voetveer over Holendrecht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=272,FFFFFF,000000
+VV67,Ov12 / Fr30,Fiets-/Voetveer,Oldemarkt - Oldetrijne,Fiets-/Voetveer over Linde,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=25,FFFFFF,000000
+VV14,NH30,Fiets-/Voetveer,AmsterdamWesterdoksdijk - Distelweg,Fiets-/Voetveer over IJ,4,http://www.gvb.nl,,
+VV218,ZH44 / NB04,Autoveer,Kop van t Land - Biesbosch Spieringpolder,Autoveer over Nieuwe Merwede,4,http://www.veerdienstbiesbosch.nl/,FFFFFF,000000
+VV105,NH31,Fiets-/Voetveer,Amsterdam Watergraafsmeer - Merwedekanaaldijk,Fiets-/Voetveer over Ringvaart Watergraafsmeer,4,http://www.geheugenvanoost.nl/page/10232/nl,FFFFFF,000000
+VV54,Ze04,Fiets-/Voetveer,Burghsluis - Colijnsplaat / Zierikzee,Fiets-/Voetveer over Oosterschelde,4,http://www.ms-onrust.nl,FFFFFF,000000
+VV224,Dr02 / Ov18,Voetveer,Meppel - Staphorst,Voetveer over Reest,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=402,FFFFFF,000000
+VV159,NH33,Voetveer,Muiden - Pampus eiland,Voetveer over IJmeer,4,http://www.pampus.nl,FFFFFF,000000
+VV140,NH34,Fiets-/Voetveer,Haarlem Schalkwijk - Cruquius,Fiets-/Voetveer over Ringvaart Haarlemmermeer,4,http://www.destroomboot.nl/,FFFFFF,000000
+VV191,NH35,Fiets-/Voetveer,Amsterdam Oeverlanden - Amsterdamse Bos,Fiets-/Voetveer over Nieuwe Meer,4,http://www.rederij-oeverloos.nl/,FFFFFF,000000
+VV89,NH36,Fiets-/Voetveer,Amsterdam Amsteldijk - Ouderkerkerdijk,Fiets-/Voetveer over Amstel,4,http://www.groengebied-amstelland.nl,FFFFFF,000000
+VV138,NH37,Fiets-/Voetveer,Ouderkerk a/d Amstel (Coevertveer),Fiets-/Voetveer over Amstel,4,http://www.pontje.nl,FFFFFF,000000
+VV127,Ge02 / Fl01,Fiets-/Voetveer,Horst strand - Zeewolde,Fiets-/Voetveer over Nuldernauw,4,http://www.feestboot.com/,,
+VV201,NB34 / ZH78,Fiets-/Voetveer,Dintelsas - Ooltgensplaat,Fiets-/Voetveer over Volkerak,4,http://www.waterpoort-rondvaarten.nl,FFFFFF,000000
+VV5,ZH43,Voetveer,Dordrecht Biesboschcentrum - Het Sterlinggriend,Voetveer over Moldiep,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=133,FFFFFF,000000
+VV110,ZH42,Fiets-/Voetveer,Dordrecht - Sliedrecht,Fiets-/Voetveer over Oude Maas / Beneden Merwede,4,http://www.waterbus.nl,,
+VV109,ZH41,Fiets-/Voetveer,Dordrecht Hooikade - Zwijndrecht,Fiets-/Voetveer over Oude Maas,4,http://www.waterbus.nl,,
+VV75,Ut24,Veer in lengterichting,Fietsboot Vecht (Nieuwersluis-Breukelen-Maarssen-Zuilen),Veer in lengterichting over Vecht,4,http://www.defietsboot.nl,FFFFFF,000000
+VV83,Ze01 / ZH24,Fiets-/Voetveer,Port Zelande - Springersdiep - Brouwershaven,Fiets-/Voetveer over Grevelingen,4,http://www.denick.nl/,FFFFFF,000000
+VV162,Ut04 / NH39,Autoveer,Nessersluis - Nes a/d Amstel,Autoveer over Amstel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=69,FFFFFF,000000
+VV101,ZH54 / NB25 / Ge45,Watertaxi,Gorinchem watertaxi,Watertaxi over Waal,4,http://www.veerdienstgorinchem.nl,,
+VV139,NH19,Fiets-/Voetveer,Holysloot - Broek in Waterland,Fiets-/Voetveer over Holysloter Die,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=84,,
+VV132,NH17,Autoveer,Ilpendam Jaagweg - Kanaalweg,Autoveer over Noordhollands Kanaal,4,http://www.veerpontilpendamlandsmeer.nl/,FFFFFF,000000
+VV84,NH18,Autoveer,Landsmeer - Schouw,Autoveer over Noordhollands Kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=85,FFFFFF,000000
+VV14,NH27,Fiets-/Voetveer,Amsterdam CS - Ms.van Riemsdijkweg,Fiets-/Voetveer over IJ,4,http://www.gvb.nl,,
+VV76,Ge01 / Fl03,Fiets-/Voetveer,Nunspeet - Biddinghuizen,Fiets-/Voetveer over Veluwemeer,4,http://www.aquacentrum.nl/nl/,FFFFFF,000000
+VV14,NH25,Fiets-/Voetveer,Amsterdam CS - Buiksloterweg,Fiets-/Voetveer over IJ,4,http://www.gvb.nl,,
+VV14,NH24,Fiets-/Voetveer,Amsterdam CS - IJplein,Fiets-/Voetveer over IJ,4,http://www.gvb.nl,,
+VV14,NH23,Autoveer,Amsterdam Hembrug - Zaandam,Autoveer over Noordzeekanaal,4,http://www.gvb.nl,,
+VV14,NH21,Autoveer,Spaarndam - Buitenhuizen,Autoveer over Noordzeekanaal,4,http://www.gvb.nl,,
+VV14,NH20,Autoveer,Velsen Noord - Velsen Zuid,Autoveer over Noordzeekanaal,4,http://www.gvb.nl,,
+VV110,ZH32,Fiets-/Voetveer,Rotterdam - Dordrecht,Fiets-/Voetveer over Noord,4,http://www.dewaterbus.nl,,
+VV4,ZH31,Voetveer,Rotterdam Leuvehaven - Hotel New York,Voetveer over Nieuwe Maas,4,http://www.watertaxirotterdam.nl,FFFFFF,000000
+VV154,ZH34,Fiets-/Voetveer,Puttershoek - Zwijndrecht Groote Lindt,Fiets-/Voetveer over Oude Maas,4,http://www.veerputtershoek.nl,FFFFFF,000000
+VV63,ZH33,Fiets-/Voetveer,Nieuwerkerk a/d IJssel - Ouderkerk a/d IJssel,Fiets-/Voetveer over Hollandse IJssel,4,http://www.vaarmeerheenenweer.nl,FFFFFF,000000
+VV4,ZH30,Voetveer,Rotterdam Veerhaven - Hotel New York,Voetveer over Nieuwe Maas,4,http://www.watertaxirotterdam.nl,FFFFFF,000000
+VV38,Li15 / Be30,Autoveer,Berg - Meeswijk,Autoveer over Maas,4,http://www.tonpaulusveerbedrijf.nl,FFFFFF,000000
+VV143,Ge14 / Ut12,Autoveer,Eck en Wiel - Amerongen,Autoveer over Nederrijn,4,http://www.veerdiensteckenwiel.nl/,FFFFFF,000000
+VV92,NB14 / Ge34,Autoveer,Herpt - Bern,Autoveer over Bergse Maas,4,http://www.bergschemaasveren.nl,FFFFFF,000000
+VV228,NH08,Fiets-/Voetveer,Volendam - Marken,Fiets-/Voetveer over Gouwzee,4,http://www.markenexpress.nl,FFFFFF,000000
+VV206,ZH49 / NB07,Fiets-/Voetveer,Gorinchem - Sleeuwijk,Fiets-/Voetveer over Boven-Merwede,4,http://www.veerdienstgorinchem.nl,FFFFFF,000000
+VV115,NH09,Autoveer,IJmuiden - Newcastle (Engeland),Autoveer over Noordzee,4,http://www.dfdsseaways.nl,,
+VV91,NH14,Fiets-/Voetveer,Spijkerboor - De Rijp,Fiets-/Voetveer over Noordhollands Kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=88,FFFFFF,000000
+VV62,NH13,Autoveer,Starnmeerplder - De Woude,Autoveer over Markervaart,4,http://www.castricum.nl,FFFFFF,000000
+VV27,NH16,Fiets-/Voetveer,Krommenie - Wormerveer,Fiets-/Voetveer over Nauernasche Vaart,4,http://www.alkmaarder-enuitgeestermeer.nl/,FFFFFF,000000
+VV27,NH15,Fiets-/Voetveer,Oost Knollendam - Starnmeerpolder,Fiets-/Voetveer over Knollendammervaart,4,http://www.alkmaarder-enuitgeestermeer.nl/,FFFFFF,000000
+VV77,NH10,Autoveer,Anna Paulowna - Julianadorp (Den Helder),Autoveer over Noordhollands Kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=92,FFFFFF,000000
+VV62,NH12,Autoveer,Akersloot - Schermerdijk,Autoveer over Noordhollands Kanaal,4,http://www.castricum.nl,FFFFFF,000000
+VV169,NH11,Fiets-/Voetveer,Alkmaar Bierkade - Eilandswal,Fiets-/Voetveer over Noordhollands Kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=91,,
+VV38,Li01 / NB22,Autoveer,Middelaar - Cuijk,Autoveer over Maas,4,http://www.tonpaulusveerbedrijf.nl/,FFFFFF,000000
+VV111,ZH39,Autoveer,Schoonhoven - Gelkenes,Autoveer over Lek,4,http://www.veerdienst-schoonhoven.nl,FFFFFF,000000
+VV216,ZH35,Fiets-/Voetveer,Ridderkerk - Kinderdijk / Krimpen ad Lek,Fiets-/Voetveer over Lek,4,http://www.driehoeksveer.nl,FFFFFF,000000
+VV204,ZH36,Autoveer,Kinderdijk - Krimpen a/d Lek,Autoveer over Lek,4,http://www.veerdienst-krimpen.nl,FFFFFF,000000
+VV42,ZH37,Fiets-/Voetveer,Lekkerkerk - Nieuw Lekkerland,Fiets-/Voetveer over Lek,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=118,FFFFFF,000000
+VV144,ZH38,Autoveer,Bergstoep - Streefkerk,Autoveer over Lek,4,http://www.veerdienst-bergstoep.nl,FFFFFF,000000
+VV98,ZH40 / Ut07,Fiets-/Voetveer,Ameide - Lopik,Fiets-/Voetveer over Lek,4,http://www.voetveer-ameide-lopik.nl,FFFFFF,000000
+VV237,Ut01,Autoveer,Eemdijk - Eemnes,Autoveer over Eem,4,http://www.bunschoten.nl/index.php?simaction=content&mediumid=13&pagid=1363&stukid=10857#titel10857,FFFFFF,000000
+VV250,ZH63,Voetveer,Lisse Poelpolderpad,Voetveer over Sloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=352,FFFFFF,000000
+VV146,ZH62,Fiets-/Voetveer,Ammerstol - Groot-Ammers,Fiets-/Voetveer over Lek,4,http://www.voetveerammerstol.nl/,FFFFFF,000000
+VV251,ZH61,Fiets-/Voetveer,Tiengemeten - Stad aan t Haringvliet - Nieuwendijk,Fiets-/Voetveer over Haringvliet,4,http://www.dehoekschevaart.nl,FFFFFF,000000
+VV190,Be33,Fiets-/Voetveer,Waulsort - Restaurant Waulsort,Fiets-/Voetveer over Maas,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=209,,
+VV12,ZH60,Fiets-/Voetveer,Rotterdam - Heijplaat,Fiets-/Voetveer over Nieuwe Maas,4,http://www.aqualiner.nl,,
+VV81,Be35,Fiets-/Voetveer,Profondeville - Lustin,Fiets-/Voetveer over Maas,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=211,,
+VV103,Ut05,Fiets-/Voetveer,Nieuwer ter Aa - Breukelen,Fiets-/Voetveer over Amsterdam Rijnkanaal,4,http://www.stichtsevecht.nl/inwoners/veel-gestelde-vragen_42575/item/wat-zijn-de-vaartijden-van-pontjes-veerponten-fietsponten-en-voetveren-in-gemeente-stichtse-vecht_2519.html,FFFFFF,000000
+VV59,Be34,Fiets-/Voetveer,Yvoir - Yvoir Eiland,Fiets-/Voetveer over Maas,4,http://www.iledyvoir.com,,
+VV40,Ut06,Fiets-/Voetveer,Woerden - Zegveld,Fiets-/Voetveer over Grecht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=73,FFFFFF,000000
+VV69,Ut08,Fiets-/Voetveer,Nieuwegein - Vianen,Fiets-/Voetveer over Lek,4,http://www.vrevia.nl,FFFFFF,000000
+VV34,ZH64,Voetveer,Zoeterwoude Geerweg - Blankaardpolder,Voetveer over Ommedijkse Watering,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=355,FFFFFF,000000
+VV50,Be36,Autoveer,Zeebrugge - Hull (Engeland),Autoveer over Noordzee,4,http://www.poferries.nl/,,
+VV13,NB30 / Ge49,Fiets-/Voetveer,Ravenstein - Niftrik,Fiets-/Voetveer over Maas,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV38,Ge12 / Ut10,Autoveer,Beusichem - Wijk bij Duurstede,Autoveer over Lek,4,http://www.tonpaulusveerbedrijf.nl,FFFFFF,000000
+VV133,NH01,Autoveer,Den Helder - Texel,Autoveer over Marsdiep,4,http://www.teso.nl,,
+VV55,NH04,Voetveer,Enkhuizen - Zuiderzeemuseum,Voetveer over Krabbengat,4,http://www.zuiderzeemuseum.nl,FFFFFF,000000
+VV158,NH03,Veer in lengterichting,Enkhuizen - Medemblik,Veer in lengterichting over IJsselmeer,4,http://www.msfriesland.nl/,FFFFFF,000000
+VV23,Ge35 / NB16,Autoveer,Alem - Maren / Kessel,Autoveer over Maas,4,http://www.maasveren.nl/,FFFFFF,000000
+VV82,Li02 / NB23,Autoveer,Afferden - Sambeek,Autoveer over Maas,4,http://www.veerdienstafferden.nl/,FFFFFF,000000
+VV23,Ge41 / NB21,Autoveer,Appeltern - Megen,Autoveer over Maas,4,http://www.maasveren.nl,FFFFFF,000000
+VV97,Be40,Voetveer,Namen - Jambes / Salzinnes,Voetveer over Maas / Sambre,4,http://www.wallonie-tourisme.be/informations/wallonie_watertoerisme/NL/A/AF/42765.html,,
+VV65,Be43,Voetveer,Mol - Zilvermeerhaven,Voetveer over Zilvermeer,4,http://www.zilvermeerhaven.be/protovision_001/php/zilvermeerhaven_pdf.php?pagina=ptv_1218715598,,
+VV8,Be42,Fiets-/Voetveer,Rupelmonde - Hingene,Fiets-/Voetveer over Zeeschelde,4,http://www.kruibeke.be/ligging/overzet/inhoud.html,,
+VV164,Be41,Voetveer,Berlare Overmere - Donk,Voetveer over Donkmeer,4,http://www.botenverhuur.be/overzetboot/index.html,,
+VV1,Ut18,Voetveer,Nieuwegein museumwerf - Pr.Hendriklaan,Voetveer over Zijarm van het Merwedekanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=351,FFFFFF,000000
+VV167,Ut19,Voetveer,Woerden - Kamerik,Voetveer over Sloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=356,FFFFFF,000000
+VV47,ZH56,Voetveer,Woerdense Verlaat Pietersenpad,Voetveer over Kavelsloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=323,FFFFFF,000000
+VV183,ZH51 / Ge23,Fiets-/Voetveer,Arkel - Spijk,Fiets-/Voetveer over Linge,4,http://www.carolinge.nl,FFFFFF,000000
+VV41,Be46,Fiets-/Voetveer,Waterbus Brussel - Vilvoorde,Fiets-/Voetveer over Zennekanaal,4,http://www.waterbus.eu,,
+VV174,Ut16,Fiets-/Voetveer,Eemnes Ervenweg,Fiets-/Voetveer over Eemnesservaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=322,,
+VV57,Be45,Voetveer,Brussel Ter Kamerenbos - Chalet Robinson,Voetveer over Vijver in park,4,http://www.chaletrobinson.be,,
+VV196,Ut17,Voetveer,De Meern Alendorp,Voetveer over Alendorper Wetering,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=330,FFFFFF,000000
+VV43,Fr02,Fiets-/Voetveer,Ameland - Schiermonnikoog,Fiets-/Voetveer over Waddenzee,4,http://www.robbenboot.nl/,FFFFFF,000000
+VV192,Fr03,Autoveer,Holwerd - Ameland,Autoveer over Waddenzee,4,http://www.wpd.nl/,,
+VV33,ZH01 / NH43,Autoveer,Kaag - Buitenkaag,Autoveer over Ringvaart Haarlemmermeer,4,http://www.veerpontkaag.nl,FFFFFF,000000
+VV68,Fr09,Voetveer,Harlingen - Vlieland / Terschelling (sneldienst),Voetveer over Waddenzee,4,http://www.rederij-doeksen.nl,,
+VV68,Fr08,Autoveer,Harlingen - Terschelling,Autoveer over Waddenzee,4,http://www.rederij-doeksen.nl,,
+VV68,Fr07,Fiets-/Voetveer,Harlingen - Vlieland,Fiets-/Voetveer over Waddenzee,4,http://www.rederij-doeksen.nl,,
+VV68,Fr06,Fiets-/Voetveer,Vlieland - Terschelling,Fiets-/Voetveer over Vliestroom / Waddenzee,4,http://www.rederij-doeksen.nl,,
+VV45,Li14 / Be29,Fiets-/Voetveer,Grevenbicht - Rotem,Fiets-/Voetveer over Maas,4,http://www.rondjemethetpontje.nl/vaartijden.html,FFFFFF,000000
+VV5,ZH57,Voetveer,Dordreecht Biesboschcentrum - Huiswaard,Voetveer over Moldiep,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=325,FFFFFF,000000
+VV113,ZH58,Voetveer,Strijensas - Esscheplaat,Voetveer over sloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=326,FFFFFF,000000
+VV170,ZH59,Fiets-/Voetveer,Hoek van Holland - Maasvlakte,Fiets-/Voetveer over Nieuwe Waterweg / Calandkanaal,4,http://www.ret.nl/over-ret/organisatie/fast-ferry.aspx,,
+VV217,Ut22,Voetveer,Everdingen - Everdingerwaard,Voetveer over Lek - Uiterwaard,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=373,FFFFFF,000000
+VV221,Ut21,Voetveer,Kockengen - Joostendam,Voetveer over Grote Heicop,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=396,FFFFFF,000000
+VV155,Ov20,Voetveer,Reutum - Weerselo,Voetveer over Almelo-Nordhornkanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=406,FFFFFF,000000
+VV219,Ov21,Fiets-/Voetveer,Dalfsen - Hessum,Fiets-/Voetveer over Overijsselse Vecht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=407,FFFFFF,000000
+VV147,Ut02 / NH56,Veer in lengterichting,Amersfoort - Spakenburg / Huizen,Veer in lengterichting over Eem,4,http://www.eemlijn.nl/,FFFFFF,000000
+VV222,Ov22,Voetveer,Zwartsluis museum-jachthaven,Voetveer over Jachthaven Zwartsluis,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=423,FFFFFF,000000
+VV209,Lu01,Autoveer,Wasserbillig - Oberbillig,Autoveer over Moezel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=216,,
+VV188,Ge58,Voetveer,Heukelum Koornwaard,Voetveer over Linge (zijtak),4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=434,FFFFFF,000000
+VV95,Ge57,Fiets-/Voetveer,Renkum - Heteren,Fiets-/Voetveer over Nederrijn,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV39,Ge32 / NB10,Autoveer,Aalst - Veen,Autoveer over Afgedamde Maas,4,http://www.veerdienstgorinchem.nl,FFFFFF,000000
+VV117,Li23,Fiets-/Voetveer,Arcen - Lottum,Fiets-/Voetveer over Maas,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=418,FFFFFF,000000
+VV70,Li21,Fiets-/Voetveer,Wessem - Stevensweert - Thorn,Fiets-/Voetveer over Maas,4,http://www.rederijcascade.nl,FFFFFF,000000
+VV199,NB05,Fiets-/Voetveer,Werkendam - Biesbosch,Fiets-/Voetveer over Steurgat,4,http://www.vvvaltenabiesbosch.nl/detail/pontje-steur-fietsersvoetgangers/920525bf-d96a-4640-8319-a468ef929006,FFFFFF,000000
+VV181,Li19,Veer in lengterichting,Fietspendelboot Venlo-Steyl-Arcen,Veer in lengterichting over Maas,4,http://www.maashopper.nl,,
+VV87,Fr41,Fiets-/Voetveer,Keimpetille - Dronrijp Dykshoek,Fiets-/Voetveer over Van Harinxmakanaal,4,http://www.fietspontkeimpetille.nl/,FFFFFF,000000
+VV56,Be20,Fiets-/Voetveer,Schelle - Wintam,Fiets-/Voetveer over Rupel,4,http://www.toerismekleinbrabant.be/actief_veerdiensten.htm,,
+VV79,Fr40,Watertaxi,Lauwersoog - Schiermonnikoog (watertaxi),Watertaxi over Waddenzee,4,http://www.wadtaxi.nl,,
+VV56,Be21,Fiets-/Voetveer,Klein Willebroek - Boom,Fiets-/Voetveer over Rupel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=188,,
+VV107,Fr43,Fiets-/Voetveer,Luinjeberd - De Deelen,Fiets-/Voetveer over Hooivaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=435,FFFFFF,000000
+VV30,Be22,Fiets-/Voetveer,Bazel - Hemiksem,Fiets-/Voetveer over Zeeschelde,4,http://www.welkombijvloot.be/veerdiensten,,
+VV229,Fr42,Fiets-/Voetveer,Goingarijp - Jachthaven,Fiets-/Voetveer over Lijkvaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=394,FFFFFF,000000
+VV210,NB03,Fiets-/Voetveer,Terheijden - Breda Haagse Beemden,Fiets-/Voetveer over Mark,4,http://www.vvvbreda.nl/nl/praktisch/bereikbaarheid/markpontje-naar-terheijden/332,FFFFFF,000000
+VV30,Be23,Fiets-/Voetveer,Kruibeke - Hoboken,Fiets-/Voetveer over Zeeschelde,4,http://www.welkombijvloot.be/veerdiensten,,
+VV30,Be25,Fiets-/Voetveer,Lillo - Doel,Fiets-/Voetveer over Zeeschelde,4,http://www.welkombijvloot.be/veerdiensten,,
+VV128,Be26,Fiets-/Voetveer,Idegem - Recr.gebied De Gavers,Fiets-/Voetveer over Dender,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=201,,
+VV198,ZH03,Voetveer,Warmond Koudenhoorn -Zwanburgpolder / Tengnagel,Voetveer over Joppe (zandwinplas),4,http://www.zwanburgerroute.nl/,FFFFFF,000000
+VV79,Fr39,Watertaxi,Holwerd - Ameland (watertaxi),Watertaxi over Waddenzee,4,http://www.wadtaxi.nl,,
+VV231,ZH02,Fiets-/Voetveer,Oud Ade - Kaag,Fiets-/Voetveer over Kager Plassen,4,http://www.fietspontkaag.nl,FFFFFF,000000
+VV74,Fr37,Voetveer,IJlst (wandelroute Ruterpolder),Voetveer over sloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=367,FFFFFF,000000
+VV247,ZH05,Fiets-/Voetveer,Leiden Merenwijk - Warmond Zijldijk,Fiets-/Voetveer over Zijl,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=220,FFFFFF,000000
+VV100,ZH04,Voetveer,Warmond Zijldijk - Warmond soc. de Kaag,Voetveer over Zijp,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=107,FFFFFF,000000
+VV6,ZH07,Autoveer,Rijnsaterwoude - Oude Wetering,Autoveer over Oude Wetering,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=109,FFFFFF,000000
+VV232,ZH06,Fiets-/Voetveer,Woubrugge - Roelofarendsveen,Fiets-/Voetveer over Paddegat,4,http://www.vanleersum.com,FFFFFF,000000
+VV119,ZH09,Fiets-/Voetveer,Valkenburg - Rijnsburg,Fiets-/Voetveer over Oude Rijn,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=106,FFFFFF,000000
+VV193,ZH08,Fiets-/Voetveer,Noorden - Meije,Fiets-/Voetveer over Nieuwkoopse Plassen,4,http://www.zonneveer.nl/,FFFFFF,000000
+VV37,Ge47,Voetveer,Zevenaar - Pannerden,Voetveer over Oude Rijn,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=346,FFFFFF,000000
+VV8,Be18,Fiets-/Voetveer,Tielrode - Hamme Bunt,Fiets-/Voetveer over Durme,4,http://www.bovenzeeschelde-durme.be,,
+VV126,Ge51,Fiets-/Voetveer,Leerdam Diefdijk,Fiets-/Voetveer over Culemborgse Vliet,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=388,FFFFFF,000000
+VV112,Be16,Fiets-/Voetveer,Mariekerke - Moerzeke,Fiets-/Voetveer over Zeeschelde,4,http://www.toerismekleinbrabant.be/actief_veerdiensten.htm,,
+VV13,Ge50,Fiets-/Voetveer,Beuningen - Slijk-Ewijk,Fiets-/Voetveer over Waal,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV61,Be17,Fiets-/Voetveer,Hamme Driegoten - Weert,Fiets-/Voetveer over Zeeschelde,4,http://www.toerismekleinbrabant.be/actief_veerdiensten.htm,,
+VV165,Ge55,Voetveer,Borculo Ribberspad,Voetveer over Slinge,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=424,FFFFFF,000000
+VV168,Ge56,Fiets-/Voetveer,Arnhem Rijnkade - Stadsblokkenwerf,Fiets-/Voetveer over Nederrijn,4,http://www.stadsblokkenwerf.nl,FFFFFF,000000
+VV239,Ge54,Fiets-/Voetveer,Giesbeek - Lathum,Fiets-/Voetveer over Gieseplas,4,http://nl.deveerstal.nl/openingstijden/,FFFFFF,000000
+VV106,Fr32,Fiets-/Voetveer,Broek - Blokslootpolder,Fiets-/Voetveer over Noorder Oudeweg,4,http://www.rufus.nl,FFFFFF,000000
+VV30,Be10,Autoveer,Terdonk - Doornzele,Autoveer over Kanaal van Gent naar Terneuzen,4,http://www.welkombijvloot.be/veerdiensten,,
+VV136,Fr31,Fiets-/Voetveer,Akkrum - Nije Schouw,Fiets-/Voetveer over Het Deel,4,http://www.nyeskou.nl/,FFFFFF,000000
+VV28,NH02 / Fr10,Fiets-/Voetveer,Texel de Cocksdorp - Vlieland,Fiets-/Voetveer over Eijerlandse gat,4,http://www.waddenveer.nl,FFFFFF,000000
+VV64,Fr36,Fiets-/Voetveer,Joure Jachthaven,Fiets-/Voetveer over Jachthaven,4,http://www.schiffartgrou.nl/nw-16598-7-124701/nieuws/zelfbedienings_pont.html,FFFFFF,000000
+VV122,Be14,Fiets-/Voetveer,Baasrode - Moerzeke Kastel,Fiets-/Voetveer over Zeeschelde,4,http://www.bovenzeeschelde-durme.be,,
+VV112,Be15,Fiets-/Voetveer,Sint Amands - Moerzeke,Fiets-/Voetveer over Zeeschelde,4,http://www.toerismekleinbrabant.be/actief_veerdiensten.htm,,
+VV184,Be12,Fiets-/Voetveer,Schellebelle - Uitbergen,Fiets-/Voetveer over Zeeschelde,4,http://www.gemeentewichelen.be/website/index.php?option=com_content&task=view&id=69&Itemid=37,,
+VV142,Be13,Fiets-/Voetveer,Dendermonde Appels - Berlare,Fiets-/Voetveer over Zeeschelde,4,http://www.bovenzeeschelde-durme.be/index.php/veren/veer-appels-berlare,,
+VV7,ZH19,Fiets-/Voetveer,Midden-Delfland Kwakelweg - Broekpolder,Fiets-/Voetveer over Bommeer,4,http://recreatie.middendelfland.net/veerpont/dekwakel.htm,FFFFFF,000000
+VV7,ZH18,Fiets-/Voetveer,Vlaardingen Vlietzicht - Maasland Duifpolder,Fiets-/Voetveer over Vlaardingervaart,4,http://recreatie.middendelfland.net/trekschuit/trekschuit.htm,FFFFFF,000000
+VV120,ZH17,Autoveer,Rotterdam Europoort - Hull (Engeland),Autoveer over Noordzee,4,http://www.poferries.nl/,,
+VV78,ZH16,Autoveer,Hoek van Holland - Harwich (Engeland),Autoveer over Noordzee,4,http://www.stenaline.nl,,
+VV22,Fr27,Veer in lengterichting,Heeg - Balk,Veer in lengterichting over Heegermeer / Slotermeer,4,http://www.skutsjeverhuurhaghe.nl,FFFFFF,000000
+VV220,ZH15,Voetveer,Gouda Goverwelle - Steinse Hout,Voetveer over parkvaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=140,FFFFFF,000000
+VV166,ZH14,Autoveer,Gouderak - Moordrecht,Autoveer over Hollandse IJssel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=114,FFFFFF,000000
+VV2,Fr28,Fiets-/Voetveer,Brekkenpolder - Lemmer,Fiets-/Voetveer over Rijnsloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=27,FFFFFF,000000
+VV11,ZH13,Fiets-/Voetveer,Nieuwerkerk a/d IJssel - Kortenoord scoutinggebouw,Fiets-/Voetveer over Ringvaart Zuidplaspolder,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=121,FFFFFF,000000
+VV67,Fr29,Fiets-/Voetveer,Rotstergaast - Oldelamer,Fiets-/Voetveer over Tjonger,4,http://www.oldelamer.info/tjonger/tjonger.htm,FFFFFF,000000
+VV192,Gr01 / Fr01,Fiets-/Voetveer,Lauwersoog - Schiermonnikoog,Fiets-/Voetveer over Waddenzee,4,http://www.wpd.nl,,
+VV19,Ge15 / Ut13,Autoveer,Ingen - Elst,Autoveer over Nederrijn,4,http://www.veerdienst-ingen-elst.nl/,FFFFFF,000000
+VV121,Ge03 / Ov07,Fiets-/Voetveer,Hattem - Zwolle,Fiets-/Voetveer over IJssel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=32,FFFFFF,000000
+VV30,Be09,Autoveer,Langerbrugge - Oostakker,Autoveer over Kanaal van Gent naar Terneuzen,4,http://www.welkombijvloot.be/veerdiensten,,
+VV225,NB29,Voetveer,Werkendam Bakkerskil,Voetveer over Bakkerskil,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=335,FFFFFF,000000
+VV66,Be06,Fiets-/Voetveer,Deinze - Bachte-Maria-Leerne,Fiets-/Voetveer over Oude Leie,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=215,,
+VV252,NB28,Voetveer,Liempde - Kasteren,Voetveer over Dommel,4,http://www.mijnalbum.nl/Album=VLEVNLSB,FFFFFF,000000
+VV85,Be07,Fiets-/Voetveer,St.Martens Latem - Baarle,Fiets-/Voetveer over Leie,4,http://www.nieuwsblad.be/Article/Detail.aspx?articleID=ik1k0eih,,
+VV8,Be08,Fiets-/Voetveer,Afsnee (Gent) - Drongen,Fiets-/Voetveer over Leie,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=186,,
+VV185,Be01,Fiets-/Voetveer,Hoeke - Hoeke,Fiets-/Voetveer over Kanaal Sluis-Brugge,4,http://www.rondjepontje.nl/,,
+VV35,Fr23,Fiets-/Voetveer,Boornzwaag - Woudfennen,Fiets-/Voetveer over Scharster Rijn,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=230,FFFFFF,000000
+VV244,Fr22,Autoveer,Langweer - De Brekken,Autoveer over Langweerdervaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=18,FFFFFF,000000
+VV171,Be02,Voetveer,Blankenberge haven,Voetveer over Haven Blankenberge,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=206,,
+VV60,ZH12,Fiets-/Voetveer,Bleiswijk - Zevenhuizen,Fiets-/Voetveer over Rotte,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=139,FFFFFF,000000
+VV137,Fr25,Fiets-/Voetveer,Gaastmeer - It Heidenskip,Fiets-/Voetveer over Inthiemasloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=19,FFFFFF,000000
+VV30,Be03,Fiets-/Voetveer,Oostende haven,Fiets-/Voetveer over haven Oostende,4,http://www.welkombijvloot.be/veerdiensten,,
+VV254,Fr24,Fiets-/Voetveer,Gaastmeer - Nijhuizum,Fiets-/Voetveer over Grons,4,http://www.renemarecreatie.nl,FFFFFF,000000
+VV30,Be04,Fiets-/Voetveer,Nieuwpoort - Lombardsijde,Fiets-/Voetveer over IJzer,4,http://www.welkombijvloot.be/veerdiensten,,
+VV108,ZH10,Voetveer,Den Haag Haringkade - Westbroekpark,Voetveer over Haringkade,4,http://www.dewaterkant.nl,FFFFFF,000000
+VV80,Fr21,Fiets-/Voetveer,Tijnje - Nij Beets,Fiets-/Voetveer over Nieuwe Vaart,4,http://www.tynje.nl/toerisme/fietsen/fietsen.htm,FFFFFF,000000
+VV153,Fr20,Fiets-/Voetveer,Sneek - Starteiland,Fiets-/Voetveer over Houkesloot,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=17,FFFFFF,000000
+VV26,ZH29,Fiets-/Voetveer,Rhoon - Oud Beijerland - Spijkenisse,Fiets-/Voetveer over Oude Maas,4,http://www.rhoonsveer.nl,FFFFFF,000000
+VV45,Li13 / Be28,Fiets-/Voetveer,Ohe en Laak - Ophoven,Fiets-/Voetveer over Maas,4,http://www.rondjemethetpontje.nl/vaartijden.html,FFFFFF,000000
+VV25,ZH28,Autoveer,Hekelingen - Nieuw Beijerland,Autoveer over Spui,4,http://www.thequeenjacqueline.nl,,
+VV39,ZH70 / NB33,Fiets-/Voetveer,Gorinchem - Werkendam - Hardinxveld,Fiets-/Voetveer over Boven-Merwede,4,http://www.veerdienstgorinchem.nl,FFFFFF,000000
+VV36,Fr19,Fiets-/Voetveer,Veenhoop - Hooidammen,Fiets-/Voetveer over Grietmans Rak / Wijde Ee,4,http://www.de8vangrou.nl,FFFFFF,000000
+VV202,Fr17,Autoveer,Grouw Yne Lyte - Grouw De Burd,Autoveer over Prinses Margrietkanaal,4,http://www.de8vangrou.nl/,FFFFFF,000000
+VV205,Fr18,Fiets-/Voetveer,Grouw De Burd - Sitebuorren,Fiets-/Voetveer over Greft,4,http://www.de8vangrou.nl/,FFFFFF,000000
+VV223,ZH27,Fiets-/Voetveer,Nieuwendijk - Tiengemeten,Fiets-/Voetveer over Vuile Gat,4,http://www.veerdiensttiengemeten.nl,FFFFFF,000000
+VV20,Fr15,Fiets-/Voetveer,Eernewoude - Wartena,Fiets-/Voetveer over Prinses Margrietkanaal,4,http://www.de8vangrou.nl,FFFFFF,000000
+VV205,Fr16,Fiets-/Voetveer,Grouw Seinpolle - Hellingshaven,Fiets-/Voetveer over Rechte Grouw,4,http://www.de8vangrou.nl,FFFFFF,000000
+VV149,Ut25 / Ge53,Fiets-/Voetveer,Rhenen - Lienden,Fiets-/Voetveer over Nederrijn,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV52,NB15,Fiets-/Voetveer,Den Bosch Stadswal - Bossche Broek,Fiets-/Voetveer over Dommel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=237,FFFFFF,000000
+VV206,ZH50 / NB08 / Ge26,Fiets-/Voetveer,Gorinchem - Woudrichem / Loevestein,Fiets-/Voetveer over Boven-Merwede,4,http://www.veerdienstgorinchem.nl,FFFFFF,000000
+VV211,ZH20,Fiets-/Voetveer,Brielle - Rozenburg,Fiets-/Voetveer over Brielse Meer,4,http://www.watersportcentrumbrielle.nl/,FFFFFF,000000
+VV233,Fr14,Fiets-/Voetveer,Eernewoude - It Wiid,Fiets-/Voetveer over Eernewoudsterwiid,4,http://www.de8vangrou.nl,FFFFFF,000000
+VV92,NB12,Autoveer,Sprang-Capelle - Dussen,Autoveer over Bergse Maas,4,http://www.bergschemaasveren.nl,FFFFFF,000000
+VV44,ZH21,Autoveer,Maassluis - Rozenburg,Autoveer over Nieuwe Waterweg,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=124,FFFFFF,000000
+VV212,Fr13,Fiets-/Voetveer,Garijp - Suawoude,Fiets-/Voetveer over Prinses Margrietkanaal,4,http://www.zonnepont.nl,FFFFFF,000000
+VV124,Fr12,Fiets-/Voetveer,Leeuwarden Noordersingel - Prinsentuin,Fiets-/Voetveer over Noordersingel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=23,FFFFFF,000000
+VV86,ZH22,Fiets-/Voetveer,Hellevoetsluis - Middelharnis,Fiets-/Voetveer over Haringvliet,4,http://www.klipperaak-linquenda.nl/,FFFFFF,000000
+VV4,ZH23,Watertaxi,Rotterdam - watertaxi (Spijkenisse - Rotterdam - Krimpen),Watertaxi over Nieuwe Maas,4,http://www.watertaxirotterdam.nl,FFFFFF,000000
+VV92,NB13,Autoveer,Waalwijk - Drongelen,Autoveer over Bergse Maas,4,http://www.bergschemaasveren.nl,FFFFFF,000000
+VV187,Fr11,Fiets-/Voetveer,Wijns - Britsum,Fiets-/Voetveer over Dokkumer Ee,4,http://www.dewinze.nl/inhoud/wynser-oerset.html,FFFFFF,000000
+VV129,NB09 / Ge31,Fiets-/Voetveer,Woudrichem - Loevestein,Fiets-/Voetveer over Afgedamde Maas,4,http://www.voetveerwoudrichem.nl/,FFFFFF,000000
+VV194,Dr01,Voetveer,Fort - Bloemberg,Voetveer over Reestvervangende leiding (Riegmeer),4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=395,FFFFFF,000000
+VV10,Li17 / Be32,Fiets-/Voetveer,Eijsden - Lanaye,Fiets-/Voetveer over Maas,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=241,FFFFFF,000000
+VV40,ZH74 / Ut23,Fiets-/Voetveer,Zegveld - Kamerik,Fiets-/Voetveer over Grecht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=408,FFFFFF,000000
+VV23,Ge36 / NB18,Autoveer,Alphen - Lith,Autoveer over Maas,4,http://www.maasveren.nl,FFFFFF,000000
+VV179,Dr04,Voetveer,Hijken Oranjekanaal,Voetveer over Oranjekanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=416,,
+VV227,Dr03,Fiets-/Voetveer,Klazienaveen,Fiets-/Voetveer over Scholtenskanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=414,FFFFFF,000000
+VV45,Li16 / Be31,Fiets-/Voetveer,Geulle - Uikhoven,Fiets-/Voetveer over Maas,4,http://www.rondjemethetpontje.nl/vaartijden.html,FFFFFF,000000
+VV93,Fr38 / NH67,Veer in lengterichting,Terschelling - Ameland - Schiermonnikoog - Lauwersoog,Veer in lengterichting over Waddenzee,4,http://www.eilandhopper.nl,FFFFFF,000000
+VV23,Ge39 / NB20,Autoveer,Maasbommel - Megen,Autoveer over Maas,4,http://www.maasveren.nl,FFFFFF,000000
+VV208,Ov02,Voetveer,Sint Jansklooster - laarzenpad,Voetveer over De Wieden,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=228,FFFFFF,000000
+VV71,Ov01,Fiets-/Voetveer,Blokzijl - Jonen,Fiets-/Voetveer over Vaartsloot,4,http://www.stellingwerven.dds.nl/dorpen/jonen%20en%20dwarsgracht/jonen.htm,FFFFFF,000000
+VV213,Ov04,Fiets-/Voetveer,Kampen Kampereiland - Mandjeswaard,Fiets-/Voetveer over Ganzendiep,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=246,FFFFFF,000000
+VV48,Ov03,Autoveer,Genemuiden - Zwartsluis,Autoveer over Zwarte Water,4,http://www.veerpontgenemuiden.nl/,FFFFFF,000000
+VV207,NH79,Fiets-/Voetveer,Den Helder Fort Westoever,Fiets-/Voetveer over Industriehaven,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=436,FFFFFF,000000
+VV151,Ov06,Fiets-/Voetveer,Haerst - Zwolle Agnietenberg,Fiets-/Voetveer over Overijsselse Vecht,4,http://pontpoezie.nl/index.html,FFFFFF,000000
+VV104,NH78,Voetveer,Texel Oosterend (Schorreweg),Voetveer over Eijerlands kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=422,FFFFFF,000000
+VV14,NH77,Fiets-/Voetveer,Amsterdam Azartplein - Zamenhofstraat,Fiets-/Voetveer over IJ,4,http://www.gvb.nl,,
+VV226,Ov05,Fiets-/Voetveer,Zalk - s Heerenbroek,Fiets-/Voetveer over IJssel,4,http://www.zalkerveer.nl,FFFFFF,000000
+VV246,NH76,Voetveer,Recr.gebied Geestmerambacht,Voetveer over watergang in het recreatiegebied,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=410,FFFFFF,000000
+VV186,NH75,Fiets-/Voetveer,Haarlem Belgielaan-Spaarnelaan,Fiets-/Voetveer over Spaarne,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=401,FFFFFF,000000
+VV156,NH74,Voetveer,Hoofddorp Liniepad - Geniedijk,Voetveer over Sloot naast Geniedijk,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=397,,
+VV3,NH73,Fiets-/Voetveer,Amsterdam CS - Hembrug - Zaandam,Fiets-/Voetveer over Zaan - IJ,4,http://www.zaanboot.nl,,
+VV125,NH70,Fiets-/Voetveer,Nieuwe Meer - Amsterdamse Bos,Fiets-/Voetveer over Ringvaart Haarlemmermeer,4,http://www.nieuwemeer.info/veerpont/index.html,FFFFFF,000000
+VV173,NH05 / Fr26,Fiets-/Voetveer,Enkhuizen - Stavoren,Fiets-/Voetveer over IJsselmeer,4,http://www.veerboot.info/,FFFFFF,000000
+VV51,ZH67 / NB31,Fiets-/Voetveer,Willemstad - Numansdorp,Fiets-/Voetveer over Hollands Diep,4,http://www.veerdienstanna.nl/index.php?id=3,FFFFFF,000000
+VV90,Li10,Autoveer,Kessel - Beesel,Autoveer over Maas,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=176,FFFFFF,000000
+VV102,Ov15,Fiets-/Voetveer,Loozen - Loozensche Linie,Fiets-/Voetveer over Overijsselse Vecht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=345,FFFFFF,000000
+VV118,NB24 / Li03,Autoveer,Vierlingsbeek - Bergen,Autoveer over Maas,4,http://www.vierlingsbeek-bergen.nl,FFFFFF,000000
+VV256,Ov14,Voetveer,Kalenberg Weerribben,Voetveer over vaart,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=344,FFFFFF,000000
+VV45,Li11,Fiets-/Voetveer,Neer - Rijkel,Fiets-/Voetveer over Maas,4,http://www.rondjemethetpontje.nl/vaartijden.html,FFFFFF,000000
+VV215,Li12,Fiets-/Voetveer,Ool - Marina Oolderhuuske,Fiets-/Voetveer over Maas,4,http://www.oolderhuuske.nl/,FFFFFF,000000
+VV102,Ov13,Fiets-/Voetveer,Rheeze - Oud-Bergentheim,Fiets-/Voetveer over Overijsselse Vecht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=314,FFFFFF,000000
+VV240,Ov19,Fiets-/Voetveer,Heeten,Fiets-/Voetveer over Overijssels kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=403,FFFFFF,000000
+VV177,Ov17,Fiets-/Voetveer,Rijssen Zuna - Wierden Notter,Fiets-/Voetveer over Regge,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=398,#ff0000,000000
+VV13,Ge46 / NB27,Fiets-/Voetveer,Batenburg - Demen,Fiets-/Voetveer over Maas,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV92,Ov16,Voetveer,Zwolle Goertjesweg,Voetveer over Zandwetering,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=380,FFFFFF,000000
+VV13,Ge24 / ZH52,Fiets-/Voetveer,Heukelum - Galgenwaard,Fiets-/Voetveer over Linge,4,http://www.uiterwaarde.nl,FFFFFF,000000
+VV134,Ov11,Fiets-/Voetveer,Deventer De Welle - De Worp,Fiets-/Voetveer over IJssel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=35,FFFFFF,000000
+VV73,Ov10,Autoveer,Olst - Welsum,Autoveer over IJssel,4,http://www.olsterveer.nl,FFFFFF,000000
+VV38,Li08,Autoveer,Grubbenvorst - Velden,Autoveer over Maas,4,http://www.tonpaulusveerbedrijf.nl,FFFFFF,000000
+VV38,Li07,Autoveer,Lottum - Lomm,Autoveer over Maas,4,http://www.tonpaulusveerbedrijf.nl,FFFFFF,000000
+VV38,Li09,Autoveer,Baarlo - Steyl,Autoveer over Maas,4,http://www.tonpaulusveerbedrijf.nl,,
+VV180,Li04,Voetveer,Reinderslooi natuurgebied,Voetveer over Reindersmeer,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=254,FFFFFF,000000
+VV38,Li06,Autoveer,Arcen - Broekhuizen,Autoveer over Maas,4,http://www.tonpaulusveerbedrijf.nl,FFFFFF,000000
+VV31,Li05,Fiets-/Voetveer,Blitterswijck - Wellerlooi,Fiets-/Voetveer over Maas,4,http://www.veerbootkobus.nl,FFFFFF,000000

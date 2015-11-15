@@ -1,0 +1,556 @@
+route_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,bikes_allowed,wheelchair_accessible,service_id
+ZH44 / NB04,aeaaaa37-cc0b-4e2e-9956-b5756e5d5a5f_trip,,Kop van t Land - Biesbosch Spieringpolder,0,,aeaaaa37-cc0b-4e2e-9956-b5756e5d5a5f,0,0,88671ae2-179b-4f44-bf94-4fa579fe2a8c
+NB09 / Ge31,27817646-09b9-4a29-a3d7-841d7725009e_trip,,Woudrichem - Loevestein,0,,27817646-09b9-4a29-a3d7-841d7725009e,0,0,d48b5061-692d-4d3b-8841-b53a7ec16bdb
+NH05 / Fr26,5bf445f3-b400-44cd-b1a3-9664aa56b9c4_trip,,Enkhuizen - Stavoren,0,,5bf445f3-b400-44cd-b1a3-9664aa56b9c4,0,0,3e8a2319-4e63-40b2-ba4f-89ae9e9f936c
+ZH36,c92d0805-3634-4240-b671-943cb74842a6_trip,,Kinderdijk - Krimpen a/d Lek,0,,c92d0805-3634-4240-b671-943cb74842a6,0,0,0ef06ce9-e337-43b3-a9d7-0f5398a413ad
+Ut02 / NH56,0cd788d0-7a0f-43c5-acc8-2604064e2c29_trip,,Amersfoort - Spakenburg,0,,0cd788d0-7a0f-43c5-acc8-2604064e2c29,0,0,c7a85ebc-337b-433f-aa1e-172c05d423e3
+Fr37,796962ac-3f29-4b07-b9a4-f38dfbc94ef1_trip,,IJlst Eegracht - Ruterpolder,0,,796962ac-3f29-4b07-b9a4-f38dfbc94ef1,0,0,d5b01ba1-e1d5-4917-9646-7a3cdc5979f5
+Ge55,d5952b2f-6df9-4b26-b028-304eb6f6e9b1_trip,,Borculo Ribberspad,0,,d5952b2f-6df9-4b26-b028-304eb6f6e9b1,0,0,67b2c1d4-a6a8-43c2-9566-194e4eff0b7b
+Ge41 / NB21,acc627e1-9822-4ead-9886-0a0238b8f553_trip,,Appeltern - Megen,0,,acc627e1-9822-4ead-9886-0a0238b8f553,0,0,01bd62bf-86be-493a-ae8d-4c7821898820
+NH02 / Fr10,6c8df1e7-3ea0-42ce-b321-959fa49a712c_trip,,Vlieland - Texel de Cocksdorp,0,,6c8df1e7-3ea0-42ce-b321-959fa49a712c,0,0,997fddb2-39a4-4b12-98d1-ae0bf2742dad
+ZH40 / Ut07,b166f6fa-619d-4baa-9a2a-2d18fb576548_trip,,Ameide - Lopik,0,,b166f6fa-619d-4baa-9a2a-2d18fb576548,0,0,8830e50b-6f29-4100-8ff5-362e63132b41
+ZH77,30db1347-31da-4623-a6dc-48c71d8ba819_trip,,De Zilk (2) - Hillegom,0,,30db1347-31da-4623-a6dc-48c71d8ba819,0,0,90430319-2a53-4226-99ac-e0fda756276e
+ZH13,04f4c19f-5387-48ff-886d-d26933074444_trip,,Nieuwerkerk a/d IJssel - Kortenoord,0,,04f4c19f-5387-48ff-886d-d26933074444,0,0,fcafd8df-751c-472f-b712-cd8460db9011
+Ut17,4f2dd6f8-f554-44e9-a668-164448f95a79_trip,,Alendorp De Meern,0,,4f2dd6f8-f554-44e9-a668-164448f95a79,0,0,1b8e81cf-faed-4ad2-bf18-1df6c07cab99
+Ze09,b13d23ef-e7f3-45bb-9d52-ef432f73a8d1_trip,,Wolphaartsdijk - Kortgene,0,,b13d23ef-e7f3-45bb-9d52-ef432f73a8d1,0,0,d77c5192-f493-4174-8acb-d6e6a2735c9c
+ZH23,c1f666d2-a56b-4ac0-8864-847d189d51e1_trip,,Spijkenisse - Krimpen,0,,c1f666d2-a56b-4ac0-8864-847d189d51e1,0,0,789e77df-0f2b-44af-9190-30de840f84e0
+NH70,4242d8cd-2d5e-4149-80f2-b2ecffc732cf_trip,,Amsterdamse Bos - Nieuwe Meer,0,,4242d8cd-2d5e-4149-80f2-b2ecffc732cf,0,0,08c847cc-ccdc-4199-8d0d-5cb039d007e8
+ZH67 / NB31,1131242a-b3bc-4344-836d-b567c4587d31_trip,,Willemstad - Numansdorp,0,,1131242a-b3bc-4344-836d-b567c4587d31,0,0,be536190-eef4-451c-84ff-fccb84d591c0
+Ov22,0d16cd80-914b-4921-81ae-f33236ec3561_trip,,Zwartsluis museum-jachthaven,0,,0d16cd80-914b-4921-81ae-f33236ec3561,0,0,6106df58-6ea5-4558-8122-2e2f454f31e6
+Ze15,85962e56-242f-479f-a3a4-39a2a4625219_trip,,Perkpolder - Hansweert,0,,85962e56-242f-479f-a3a4-39a2a4625219,0,0,9a13c23c-c093-4542-b796-c0f03446ad70
+Fr14,2563771f-86b7-4c73-a8f5-8804dfc361d3_trip,,Eernewoude - It Wiid,0,,2563771f-86b7-4c73-a8f5-8804dfc361d3,0,0,a1610f8d-801f-41ac-9b87-33b5663fc079
+ZH12,3a680ff4-79e9-4d38-a73d-6202ca827e28_trip,,Zevenhuizen - Bleiswijk,0,,,0,0,9c3b1759-1f1d-4e84-b417-7c21b7c60738
+Ge10,db604ec1-0071-4f91-962c-1e7c41e7b83a_trip,,Staringkoepel - Lochem Dochterenseweg,0,,db604ec1-0071-4f91-962c-1e7c41e7b83a,0,0,cb25d6df-505d-4aee-be55-829168be0320
+NB03,739a37f2-4950-4059-9d99-4ef056cb0ae9_trip,,Terheijden - Breda Haagse Beemden,0,,739a37f2-4950-4059-9d99-4ef056cb0ae9,0,0,e588353b-3198-4a88-9e23-5d3982d5bb82
+NB28,48c0c531-d7b5-40f0-bbb5-c88b79f557b0_trip,,Kasteren - Liempde,0,,48c0c531-d7b5-40f0-bbb5-c88b79f557b0,0,0,72b822d8-7ba5-4ff4-9ed8-f8b59798f582
+Ge46 / NB27,2413d4b9-0a01-4bd7-8415-5af39b0e02ea_trip,,Batenburg - Demen,0,,2413d4b9-0a01-4bd7-8415-5af39b0e02ea,0,0,205dae1d-d1b0-49bd-8744-ccd864137f5e
+ZH03,c41dfaa9-b6c4-431a-b362-969fb828a417_trip,,Zwanburgpolder - Koudenhoorn,0,,c41dfaa9-b6c4-431a-b362-969fb828a417,0,0,85691211-6d76-421b-815c-35570a701bac
+Ov15,f9b470da-1c83-4a09-81ae-6a428015934c_trip,,Loozen - Loozensche Linie,0,,f9b470da-1c83-4a09-81ae-6a428015934c,0,0,7e3fa25d-22cd-4caa-ab8a-3ba9090ae3c4
+ZH77,8ea1a8db-290a-4849-a0b5-b50dfabd3c19_trip,,Hillegom - De Zilk (2),0,,8ea1a8db-290a-4849-a0b5-b50dfabd3c19,0,0,336a770c-f9ba-454d-a263-28fd85d44cba
+Ov20,9865ee4f-aefb-42a3-966c-e10a1d9f4096_trip,,Reutum - Weerselo,0,,9865ee4f-aefb-42a3-966c-e10a1d9f4096,0,0,2346105e-df48-42e2-8848-bcf889c41405
+Fr02,dbc9fd5f-e4f8-4507-a640-8f9fcff17647_trip,,Ameland - Schiermonnikoog,0,,dbc9fd5f-e4f8-4507-a640-8f9fcff17647,0,0,3a8407ac-9e8d-4a54-a0b8-4c78da5438a3
+Fr22,7cc08445-0ffe-4d0e-8e5b-307db4eef5a1_trip,,Langweer - De Brekken,0,,7cc08445-0ffe-4d0e-8e5b-307db4eef5a1,0,0,1a81ac7f-d2d9-4342-8991-f257de64167e
+NH10,1e3c905f-c414-448c-8afd-3986aa858221_trip,,Julianadorp - Anna Paulowna,0,,1e3c905f-c414-448c-8afd-3986aa858221,0,0,66d3ca88-409b-403e-9b87-0738e31d1d75
+Li11,8e6fa73d-9bd1-4de8-a520-e68453f09001_trip,,Rijkel - Neer,0,,8e6fa73d-9bd1-4de8-a520-e68453f09001,0,0,e8ea2194-b1d1-4cdd-87c7-21dded6a6d24
+ZH61,8a79a162-90cd-42f8-a873-4a7d4744f2c9_trip,,Stad aan t Haringvliet - Tiengemeten - Nieuwendijk,0,,8a79a162-90cd-42f8-a873-4a7d4744f2c9,0,0,e4e59c25-69cf-4e99-8c9f-5cc32194f0bc
+Ge25,d0e04be4-cbc8-4ddd-a7d3-9270f7cb01f8_trip,,Enspijk - Marienwaerdt landgoed,0,,d0e04be4-cbc8-4ddd-a7d3-9270f7cb01f8,0,0,153af604-f9af-4812-a7af-f8b433ae2291
+NH65,5bc625e2-f1ab-4d57-848b-90049f44e583_trip,,Heemstede Cruquiushaven Zuid - Noord,0,,5bc625e2-f1ab-4d57-848b-90049f44e583,0,0,82f1bcc0-51cc-4f8e-833c-17b764d7759e
+ZH03,d014aba8-8efa-45b4-aae7-8ed16ebcd216_trip,,Warmond Koudenhoorn -Zwanburgpolder,0,,d014aba8-8efa-45b4-aae7-8ed16ebcd216,0,0,fc3cc316-b447-49c4-a25c-9f4b90f038ed
+Ge12 / Ut10,aff8d98c-4d98-4fa2-a454-09e19c29696a_trip,,Beusichem - Wijk bij Duurstede,0,,aff8d98c-4d98-4fa2-a454-09e19c29696a,0,0,45f6420a-aa45-4680-bbdb-ca065e77ac96
+Ge14 / Ut12,4831e788-e314-4f37-acac-8f2722f4bdb8_trip,,Eck en Wiel - Amerongen,0,,,0,0,a3ae3477-0540-45a3-b7c9-ca1166a365c6
+NH17,87886cbe-97c1-420c-b751-4ddb8382548b_trip,,Ilpendam Kanaalweg - Jaagweg,0,,87886cbe-97c1-420c-b751-4ddb8382548b,0,0,5b060b2f-fc3b-4947-8355-a635a5c13937
+ZH63,63668efe-a5c1-4ba4-87f9-7285b36d2107_trip,,Lisse 2e Poellaan oz - Lisse 2e Poellaan wz,0,,63668efe-a5c1-4ba4-87f9-7285b36d2107,0,0,0e62412d-d76f-4eb7-8713-2b5acc55bec5
+Gr04,e1637d19-1e8e-486c-9752-380b7ed41c5f_trip,,Borkum - Eemshaven,0,,e1637d19-1e8e-486c-9752-380b7ed41c5f,0,0,c422c16e-1db8-4a84-8b25-b1bccc1afb86
+ZH31,7b356bb4-c900-468e-8dbe-5553e7d3a873_trip,,Hotel NY - Leuvehaven,0,,7b356bb4-c900-468e-8dbe-5553e7d3a873,0,0,f6108ce1-c1a2-4ad0-adee-9ff29dac30e6
+Ze01 / ZH24,3a7aeaf8-6ce3-4426-8dde-491782f143c4_trip,,Springersdiep - Brouwershaven - Port Zelande,0,,,0,0,caec184d-fce7-4a01-b32b-36b8fecc40c7
+Ze09,a09e4387-12d1-421a-ac8d-9e3a3cf4ccd9_trip,,Kortgene - Wolphaartsdijk,0,,a09e4387-12d1-421a-ac8d-9e3a3cf4ccd9,0,0,eabe5977-e99a-4e3a-99b9-f89b35a1b092
+Ov05,1cde4c79-56a8-47e5-b35b-b34742c8d1e8_trip,,s Heerenbroek - Zalk,0,,1cde4c79-56a8-47e5-b35b-b34742c8d1e8,0,0,2be02ac7-e9e1-4ed2-b540-f2845ed0be6f
+ZH20,6854bbee-32ac-48db-8e40-657c4c3b9a10_trip,,Brielle - Rozenburg,0,,6854bbee-32ac-48db-8e40-657c4c3b9a10,0,0,c233887f-41bf-4496-a006-44848b622981
+ZH58,d3fccc43-d726-45b6-9e95-dbe0c109429b_trip,,Esscheplaat - Strijensas,0,,d3fccc43-d726-45b6-9e95-dbe0c109429b,0,0,2bb28c57-c953-4eca-a21f-eec7e0478f44
+ZH10,c1df9ec4-db20-491b-9ebd-b43bab2bf22a_trip,,Westbroekpark - Den Haag Haringkade,0,,c1df9ec4-db20-491b-9ebd-b43bab2bf22a,0,0,cfa4ff56-ed44-4367-93f1-82d1f7e1dd2f
+Ge50,7b32c28f-24ee-4776-9c20-1a87e2dad300_trip,,Slijk-Ewijk - Beuningen,0,,7b32c28f-24ee-4776-9c20-1a87e2dad300,0,0,fd02e850-48c6-45d9-940f-cfa79ff2cd13
+ZH57,0a4ef836-762f-4889-a476-6fde84be9195_trip,,Huiswaard - Biesboschcentrum,0,,0a4ef836-762f-4889-a476-6fde84be9195,0,0,c5935e10-bd5b-4bc8-8e81-9158a5e438cd
+Ut06,6ef555af-a820-420b-87f1-25fe83da2dc5_trip,,Zegveld - Woerden,0,,6ef555af-a820-420b-87f1-25fe83da2dc5,0,0,00d370ae-87ae-41bb-82c4-777abc690e82
+Ge51,4b2af2b6-947f-4177-bb0f-b50ee355d736_trip,,Leerdam Diefdijk - Acquoy,0,,4b2af2b6-947f-4177-bb0f-b50ee355d736,0,0,7267253e-33a9-4037-80e1-eb6dc57e073f
+Gr06,26f5ff3a-f014-40c0-b2ad-ab65a3bbd948_trip,,Recreatiegebied Meerwijck - Noordlaren Osdijk,0,,26f5ff3a-f014-40c0-b2ad-ab65a3bbd948,0,0,d6b64b90-ce9e-49b8-9871-ca1aa76a169a
+Ge43,18f91e17-44df-4aa1-b29a-244fb1c70c2e_trip,,Aerdt - Zevenaar,0,,18f91e17-44df-4aa1-b29a-244fb1c70c2e,0,0,dddb86a8-86db-423c-93f2-c5512b6ae389
+Gr02,155d8208-3f9d-41fe-b3a8-b81a120982b2_trip,,Delfzijl - Emden - Ditzum,0,,155d8208-3f9d-41fe-b3a8-b81a120982b2,0,0,aed230d8-bc63-4be3-85ab-4536482b047c
+NH08,7a130a98-49ad-44f9-a2cd-2f49b751a4d9_trip,,Volendam - Marken,0,,7a130a98-49ad-44f9-a2cd-2f49b751a4d9,0,0,6d88e3d1-dd09-4533-91a5-08aae38489bd
+ZH04,8e159d3c-1f7c-4e66-9b6a-11347fde4fff_trip,,Warmond soc. de Kaag - Warmond Zijldijk,0,,8e159d3c-1f7c-4e66-9b6a-11347fde4fff,0,0,46af4b00-2c60-4b83-892a-dc967522095a
+Gr14,6370e7c5-19e3-45f8-b9ef-1e1b646036a1_trip,,Warfhuizen - Klein Maarslag,0,,6370e7c5-19e3-45f8-b9ef-1e1b646036a1,0,0,0e185594-abd2-4c13-8f07-303f631e3d6b
+Li06,ade2a694-c4b8-4d36-81e2-2aa7b41435bf_trip,,Arcen - Broekhuizen,0,,ade2a694-c4b8-4d36-81e2-2aa7b41435bf,0,0,b57385bd-1d54-4249-afef-28658a171e35
+ZH50 / NB08 / Ge26,898cc3c2-b1ce-4623-8dff-012b17cdf4c3_trip,,Loevestein - Woudrichem,0,,898cc3c2-b1ce-4623-8dff-012b17cdf4c3,0,0,b49237fb-47f0-41de-819a-cd8213aa3472
+Ge10,99b0a1e6-480c-4805-8656-1e04b0a83468_trip,,Lochem Dochterenseweg - Staringkoepel,0,,99b0a1e6-480c-4805-8656-1e04b0a83468,0,0,70517fb9-73b2-4488-96fe-90d359459ce7
+Gr12,04676e43-07a5-48e7-ad10-0b1ffa93a9e1_trip,,Suyderoogh - Lauwersoog,0,,04676e43-07a5-48e7-ad10-0b1ffa93a9e1,0,0,a49226af-f3ce-4660-b4b9-3fd518c534dd
+Ut14 / NH44,5992b3b1-06b8-4c9f-b319-24f905988cb0_trip,,Abcoude - Ouderkerk a/d Amstel,0,,5992b3b1-06b8-4c9f-b319-24f905988cb0,0,0,50b1c3b8-933e-4907-aed5-c5d7e611105c
+Ge29,6f05f5da-5a38-4555-bb9d-1a1144608ed5_trip,,Wamel - Tiel,0,,6f05f5da-5a38-4555-bb9d-1a1144608ed5,0,0,6e500f5e-afb1-4416-a588-eac995c92652
+Ov19,3c70a701-7943-4043-94bb-66da8e6744a3_trip,,Heeten - Oosterenkweg,0,,3c70a701-7943-4043-94bb-66da8e6744a3,0,0,a10d0ef0-c899-43aa-a26f-0931619dad28
+NH61,859f4a81-5811-456b-896b-0f8f2447c054_trip,,Middelie - Hobrede,0,,859f4a81-5811-456b-896b-0f8f2447c054,0,0,0f1a0860-ddf4-4808-8770-f49bc04dfc3c
+Ge28,3094cbc6-20c0-47a0-91bd-a23c142ee0d8_trip,,Varik - Heerewaarden,0,,3094cbc6-20c0-47a0-91bd-a23c142ee0d8,0,0,311c224c-b8a1-40d6-b930-23241ebd65cf
+Ge37 / NB19,e60ebe43-4c89-44ab-9f9e-2f1a7bfe859b_trip,,Alphen - Oijen,0,,e60ebe43-4c89-44ab-9f9e-2f1a7bfe859b,0,0,ba86df6f-953f-4022-a920-e0aa2572db52
+Ge47,b7062ab1-2f9e-4dd4-8a05-f00cdd231ee0_trip,,Zevenaar - Pannerden,0,,b7062ab1-2f9e-4dd4-8a05-f00cdd231ee0,0,0,ff137149-05c4-48f0-bd0e-8965d3ca3353
+Ge08,aa6deb8a-6aa7-4d8d-a3e7-bc289316eab9_trip,,Olburgen - Dieren,0,,aa6deb8a-6aa7-4d8d-a3e7-bc289316eab9,0,0,376794f9-c4ba-488a-b885-ce460e6d4fd1
+Ge58,5567e560-d38d-4ed2-840b-b19751947a4f_trip,,Heukelum Koornwaard (zuid) - Heukelum Koornwaard (noord),0,,5567e560-d38d-4ed2-840b-b19751947a4f,0,0,e22c4d03-4bcc-43b6-bb48-524413a97f2b
+Ov12 / Fr30,a6c936df-5dae-4c14-9c9c-73a84c13a004_trip,,Oldemarkt - Oldetrijne,0,,a6c936df-5dae-4c14-9c9c-73a84c13a004,0,0,d495bcd4-e2d0-48b0-ae99-93bc4e16ebc2
+Gr11,e505a9f8-b179-4053-b32d-ea8ad8691133_trip,,Nieuwe Weg - Hidra,0,,e505a9f8-b179-4053-b32d-ea8ad8691133,0,0,1b62670a-2810-4a16-96e2-6900cc5a34cf
+NH35,f12966be-e652-4198-a298-eb9abde65d37_trip,,Amsterdam Oeverlanden - Amsterdamse Bos,0,,f12966be-e652-4198-a298-eb9abde65d37,0,0,447ce2b4-fd04-4331-b9d1-0fe6b9023489
+ZH05,e43e735e-8459-42bc-a7d2-451f391dd26c_trip,,Leiden Merenwijk - Warmond Zijldijk,0,,e43e735e-8459-42bc-a7d2-451f391dd26c,0,0,1ffea8f4-ece9-47ff-be1b-0c420fb02fae
+ZH33,a591ff47-2665-438c-a63c-e6b6afd9c915_trip,,Ouderkerk a/d IJssel - Nieuwekerk a/d IJssel,0,,a591ff47-2665-438c-a63c-e6b6afd9c915,0,0,6a7bb9d6-c65c-4c06-a1b6-54c78086bcb1
+ZH14,b155b0d3-67d6-40c2-87e5-f2a5f9729bac_trip,,Moordrecht - Gouderak,0,,b155b0d3-67d6-40c2-87e5-f2a5f9729bac,0,0,9f256db7-2888-46da-8a10-703de733d341
+Fr23,df1370d8-9cdf-4b42-a591-f32aefa7e4c3_trip,,Woudfennen - Boornzwaag,0,,df1370d8-9cdf-4b42-a591-f32aefa7e4c3,0,0,cc2dda8f-0917-4186-bde0-668913764a1f
+NH03,50a63344-202b-43e2-8939-2fab74a18f7c_trip,,Enkhuizen - Medemblik,0,,50a63344-202b-43e2-8939-2fab74a18f7c,0,0,61555cf8-338e-4f7f-a266-9bf35a648f4f
+Ze20,203d48fe-6d04-4397-8779-e0728654f416_trip,,2 - Walcheren 2,0,,203d48fe-6d04-4397-8779-e0728654f416,0,0,4c53e995-8644-4cbe-b771-01539b8c4b7d
+ZH27,0c86c282-e859-4e5e-b7d6-66fdf3b579c0_trip,,Nieuwendijk - Tiengemeten,0,,0c86c282-e859-4e5e-b7d6-66fdf3b579c0,0,0,b4761f50-f64a-4733-9151-79d327f6c29a
+NH76,477c54e8-abd5-4e2b-86e1-d4015c703da9_trip,,recr.geb.Geestmerambacht - recr.geb.Geestmerambacht,0,,477c54e8-abd5-4e2b-86e1-d4015c703da9,0,0,364fb320-f670-4cbb-92cb-add0f78ec82e
+ZH38,df733725-786a-469e-bff1-75f0b0334e70_trip,,Streefkerk - Bergstoep,0,,df733725-786a-469e-bff1-75f0b0334e70,0,0,1f47a1c4-e98a-4ec9-b753-dc4918042d19
+NH34,76a87504-9b09-43f9-beab-d4d7406a9b3e_trip,,Haarlem Schalkwijk - Cruquius,0,,76a87504-9b09-43f9-beab-d4d7406a9b3e,0,0,586357c5-7921-4a40-9de5-b9c78ec35f10
+NH36,c92ba6d1-0370-4c50-a722-e841b4a3239f_trip,,Amsterdam Amsteldijk - Ouderkerkerdijk,0,,c92ba6d1-0370-4c50-a722-e841b4a3239f,0,0,777ddb0d-2e7f-4d71-8ce0-86242f69e664
+NH53,85fd7cb3-993d-4e3e-a0f0-d2411bbcd2e8_trip,,Oosthuizen Warder - Molen Etersheim,0,,85fd7cb3-993d-4e3e-a0f0-d2411bbcd2e8,0,0,eefce356-edbe-4aec-98a2-99b670d39029
+Fr40,75fd52d4-aad8-4f39-bc17-b97e9eaef469_trip,,Schiermonnikoog - Lauwersoog (watertaxi),0,,75fd52d4-aad8-4f39-bc17-b97e9eaef469,0,0,cbfcec7b-a5bd-4b66-a138-bea3af2302e1
+ZH13,b4fcbad0-4a18-458b-9844-2cea64495dd5_trip,,Nieuwerkerk a/d IJssel - Kortenoord,0,,,0,0,7fb5b912-faa5-4c1c-9277-bd907239a137
+Fr18,3972ca18-9b48-4857-93ec-6a8fe9d2a5b2_trip,,Sitebuorren - Grouw De Burd,0,,3972ca18-9b48-4857-93ec-6a8fe9d2a5b2,0,0,035527ac-ad8e-4b42-87d0-10d0af1f2586
+ZH51 / Ge23,e2d70d9e-4fd0-4c43-b0d8-d5da16b88872_trip,,Spijk - Arkel,0,,e2d70d9e-4fd0-4c43-b0d8-d5da16b88872,0,0,7ba67397-c0a6-4468-89fb-cad6981b1d6e
+Ov16,ad6f70ff-bc8c-45f4-a8ec-bc963b102cb7_trip,,Zwolle Doepark Nooterhof - Leo Majoorlaan,0,,ad6f70ff-bc8c-45f4-a8ec-bc963b102cb7,0,0,9a8b04f9-2b29-4db2-bca1-040cf1c3dd51
+NH48,fb1851d0-1886-497e-bdf4-2a622efb88f3_trip,,Amstelveen Middenweg - Bovenkerker polder,0,,,0,0,206a5ec6-9700-4c49-9622-c62d998a6439
+Li10,5ae6238f-d6c5-4871-b271-c62e749e447e_trip,,Kessel - Beesel,0,,5ae6238f-d6c5-4871-b271-c62e749e447e,0,0,929e2daa-fa9f-417b-aee0-e5368eeec9f2
+Li01 / NB22,413d8ce6-7456-4892-915c-f3fb3d9ee97c_trip,,Middelaar - Cuijk,0,,413d8ce6-7456-4892-915c-f3fb3d9ee97c,0,0,ece83710-11ba-44ce-85c1-f89d3d808726
+Gr04,aa5330db-3d53-4588-9393-e5a973777db1_trip,,Eemshaven - Borkum,0,,aa5330db-3d53-4588-9393-e5a973777db1,0,0,1ca27c32-f0c1-460e-b67f-79c8569c9adf
+Ze20,09092fe3-e2d6-448e-b66b-033a5081dc5c_trip,,3 - Walcheren 3,0,,09092fe3-e2d6-448e-b66b-033a5081dc5c,0,0,ebfdb5de-c72e-4c7a-abbc-35558d5ee145
+ZH49 / NB07,e4e9fa1e-4c72-4239-94df-05eeee7ba993_trip,,Sleeuwijk - Gorinchem,0,,e4e9fa1e-4c72-4239-94df-05eeee7ba993,0,0,3cb5a2c5-5835-40d8-98ab-9a70e48d306f
+Ut11 / Ge13,b3592090-2a8d-4215-8d5c-624899d3d8aa_trip,,Rijswijk - Wijk bij Duurstede,0,,b3592090-2a8d-4215-8d5c-624899d3d8aa,0,0,4fe85984-9a1a-4c1b-9772-21fed57eb7fb
+Ge12 / Ut10,0c4b7c76-5926-4692-97a0-ce969525c4c8_trip,,Wijk bij Duurstede - Beusichem,0,,0c4b7c76-5926-4692-97a0-ce969525c4c8,0,0,75601eb3-5bd9-4cf2-b502-95342de1a4aa
+ZH39,fa7ffae8-56a4-4fa8-b00d-296a9718dc7e_trip,,Schoonhoven - Gelkenes,0,,fa7ffae8-56a4-4fa8-b00d-296a9718dc7e,0,0,ba9be906-dc43-439e-8bc0-4d0fe5ad349e
+NH53,3c9ac378-a91e-4fca-a07b-ee31fd752d5a_trip,,Molen Etersheim - Oosthuizen Warder 1,0,,3c9ac378-a91e-4fca-a07b-ee31fd752d5a,0,0,370b79f4-5ed4-40ff-a415-59008e056955
+Ut22,2671f80d-fa8b-4157-94a7-8d2cfba03d0a_trip,,Everdingen - Everdingerwaard,0,,2671f80d-fa8b-4157-94a7-8d2cfba03d0a,0,0,755daea2-ca79-430b-97b1-cc4d3f66cb5a
+Fr28,14810203-ebf6-4ae9-9d06-cf40ecca1d34_trip,,Brekkenpolder - Lemmer,0,,14810203-ebf6-4ae9-9d06-cf40ecca1d34,0,0,a5cf9e05-fe3a-4cdf-83c5-1832a366062c
+Ge47,3760eb0e-4eb6-4133-b8a8-e205f117c47d_trip,,Pannerden - Zevenaar,0,,3760eb0e-4eb6-4133-b8a8-e205f117c47d,0,0,5ed974d3-9505-44fa-8aa7-66e205656589
+Dr01,978fadc9-5f43-485e-8bb7-4e77958aac33_trip,,Fort - Bloemberg,0,,978fadc9-5f43-485e-8bb7-4e77958aac33,0,0,2f5c6c9e-5324-40be-9a29-71a1e8299f6b
+Fr13,fefd00ed-667c-46aa-890d-927c3ab25d61_trip,,Garijp - Suawoude,0,,fefd00ed-667c-46aa-890d-927c3ab25d61,0,0,cf9e2bd3-a7af-43e7-afb3-34d070822e22
+Ge04 / Ov08,dd14dd8b-962f-4a86-9370-f2cc0cc5773b_trip,,Wijhe - Vorchten,0,,dd14dd8b-962f-4a86-9370-f2cc0cc5773b,0,0,b71f2aa1-3d26-4ae5-9238-30621e9c39a1
+Ge38,520bfa14-7f17-4139-bac5-583b1c6e651d_trip,,Gouden Ham (recr.gebied) - Maasbommel Loswal,0,,520bfa14-7f17-4139-bac5-583b1c6e651d,0,0,ca13a769-2b52-4c90-b56e-2c444158d771
+Ge06,5e4f22c3-e628-4d8e-85cf-d92bd5560f7c_trip,,Gorssel - Wilp,0,,5e4f22c3-e628-4d8e-85cf-d92bd5560f7c,0,0,0f6e6b0a-f92d-4967-97f2-837274d544f4
+NH64,b13cac7b-699e-4de8-ac42-32124c37d9cf_trip,,Amsterdam Schellingwoude (west) - Amsterdam Schellingwouder park (west),0,,b13cac7b-699e-4de8-ac42-32124c37d9cf,0,0,b026cc96-387d-4806-a108-f63823d42178
+ZH71,48d71589-d32e-43a3-a909-015326dbd385_trip,,Sophiapolder - Hendrik Ido Ambacht,0,,48d71589-d32e-43a3-a909-015326dbd385,0,0,2eb07380-d6ee-4017-8346-984b59178439
+ZH35,2261cc53-0766-48f8-83e3-4ba2d045a832_trip,,Ridderkerk - Kinderdijk / Krimpen ad Lek,0,,2261cc53-0766-48f8-83e3-4ba2d045a832,0,0,db237c5f-4738-4771-a1e7-a83aa9146d27
+Ge02 / Fl01,17e7523a-203d-4754-b45d-8d3ef5408815_trip,,Zeewolde - Horst strand,0,,17e7523a-203d-4754-b45d-8d3ef5408815,0,0,4395c744-8641-4300-ab60-fc748b276227
+Gr14,1004521b-174e-49d9-bc06-8b298ff3b0e5_trip,,Klein Maarslag - Warfhuizen,0,,1004521b-174e-49d9-bc06-8b298ff3b0e5,0,0,820e2b85-b59d-4ad1-9630-6390e221ea33
+Li15 / Be30,a1dc82d0-951f-45ee-8cd7-a762a4d7d88a_trip,,Berg - Meeswijk,0,,a1dc82d0-951f-45ee-8cd7-a762a4d7d88a,0,0,5a3d79b3-4139-4468-b497-c1b55016d606
+NH72 / Fl06,14a90a26-2645-4356-ac7b-3243bf3017a8_trip,,Enkhuizen - Urk,0,,14a90a26-2645-4356-ac7b-3243bf3017a8,0,0,7dafc849-ef4d-46ef-bda5-244e81235c67
+Ge18,e51b5d78-f372-4f0a-9470-66368f9edea6_trip,,Heveadorp - Driel,0,,e51b5d78-f372-4f0a-9470-66368f9edea6,0,0,090a0d3a-c564-45e0-a151-6f7a4c85cf77
+NH12,9594cd46-b629-44f8-95c9-3dcb3824fcda_trip,,Schermerdijk - Akersloot,0,,9594cd46-b629-44f8-95c9-3dcb3824fcda,0,0,3dc81260-9d0f-403a-8ed1-8456a2b290de
+Li19,d97f3289-8ce0-44a4-a1f2-13b4179bf2ab_trip,,Arcen - Venlo,0,,d97f3289-8ce0-44a4-a1f2-13b4179bf2ab,0,0,0087a0f3-dc32-47b9-9de6-ff06703fbd5a
+ZH70 / NB33,e1b790c3-313f-4e69-b45f-987d31acba02_trip,,Gorinchem - Werkendam - Hardinxveld,0,,e1b790c3-313f-4e69-b45f-987d31acba02,0,0,ce6e3572-cc00-44f9-b685-1871a95954a1
+Fr02,6c7edc8b-8d10-4318-8fc4-fb31cd8965ac_trip,,Schiermonnikoog - Ameland,0,,6c7edc8b-8d10-4318-8fc4-fb31cd8965ac,0,0,07556538-9742-4add-a007-7dac04843258
+ZH22,434a0189-541e-4367-b3ee-8cbd54f5de73_trip,,Hellevoetsluis - Middelharnis,0,,434a0189-541e-4367-b3ee-8cbd54f5de73,0,0,3fcddce1-bede-4c6e-8327-f58ca32bce2a
+Fr40,ab39f978-828c-41c0-896b-ad6cd20aaf26_trip,,Lauwersoog - Schiermonnikoog (watertaxi),0,,ab39f978-828c-41c0-896b-ad6cd20aaf26,0,0,b6d3ca41-e02e-4dc8-9dca-d28eb9346dba
+Dr02 / Ov18,65c77aad-d8f8-448e-a94b-1efa940e0223_trip,,Staphorst - Meppel,0,,65c77aad-d8f8-448e-a94b-1efa940e0223,0,0,b3ec02a2-158c-4a0b-b107-3ac325a1d93d
+ZH34,d7c5f3d3-ac65-468a-ad84-9e3bf2666baf_trip,,Puttershoek - Zwijndrecht Groote Lindt,0,,d7c5f3d3-ac65-468a-ad84-9e3bf2666baf,0,0,349a6d4e-5c62-4174-aa7b-59a54b1bb6cc
+Ov04,12a47641-bcba-4351-b511-10f18f1209ee_trip,,Kampen Mandjeswaard - Kampereiland,0,,12a47641-bcba-4351-b511-10f18f1209ee,0,0,46103f10-1279-484b-84be-2db2add0ee9c
+Ge37 / NB19,02ca1d91-422f-4d35-8586-573d3dac7533_trip,,Oijen - Alphen,0,,02ca1d91-422f-4d35-8586-573d3dac7533,0,0,063af646-b20c-4b6a-8183-5220be77bb98
+ZH71,64ad5727-bbd8-4e24-9fa9-31ba02108919_trip,,Hendrik Ido Ambacht - Sophiapolder,0,,64ad5727-bbd8-4e24-9fa9-31ba02108919,0,0,fe666c49-cf0c-4c12-b75a-174d0ac23514
+Ze20,8574fd13-f9e2-4ab7-8f48-d57eef66bb77_trip,,Walcheren 4 - 4,0,,8574fd13-f9e2-4ab7-8f48-d57eef66bb77,0,0,f80093a3-507f-431e-b7c2-be44d4671234
+ZH18,3726b9b7-d4eb-4fd2-990f-a36ec597c60b_trip,,Vlaardingen Vlietzicht - Maasland Duifpolder,0,,3726b9b7-d4eb-4fd2-990f-a36ec597c60b,0,0,d985fd4e-6116-4bf2-b146-3b37de6a5ad7
+Ge14 / Ut12,7fc3e817-d756-4588-b177-4202d62f81f0_trip,,Eck en Wiel - Amerongen,0,,7fc3e817-d756-4588-b177-4202d62f81f0,0,0,ac6291d4-e7ca-4c9a-9a4d-fff66b051341
+Ze04,30655f84-00a0-4cea-9df8-f881555dcc11_trip,,Zierikzee - Colijnsplaat - Burghsluis,0,,30655f84-00a0-4cea-9df8-f881555dcc11,0,0,2b9593ef-08b9-42f7-9279-7bda5db45d7f
+ZH27,a346b63a-ce04-49ba-b6ac-71275a4d6008_trip,,Tiengemeten - Nieuwendijk,0,,a346b63a-ce04-49ba-b6ac-71275a4d6008,0,0,e2a74770-415e-425f-84d9-dba2b9c35c54
+Ze18,9fa57b1c-b366-4191-b7db-03e1cc450a23_trip,,Bruinisse - Anna Jacobapolder,0,,9fa57b1c-b366-4191-b7db-03e1cc450a23,0,0,09e95080-e038-42fa-a912-0640ac8edb34
+Ov11,7b2c0296-bc63-4075-a3af-c824af8fe706_trip,,Deventer De Welle - De Worp,0,,7b2c0296-bc63-4075-a3af-c824af8fe706,0,0,00b3948e-ce68-414c-abc8-b7b759f95dec
+Fr25,32f83fd4-ecc5-41ff-9ba1-932716d7024a_trip,,Gaastmeer - It Heidenskip,0,,,0,0,cecd5c08-9100-48eb-a30e-13197625a98a
+NB13,ca225347-141e-4da8-914b-0c6b064fdcd1_trip,,Drongelen - Waalwijk,0,,ca225347-141e-4da8-914b-0c6b064fdcd1,0,0,126f4ee4-85e7-4417-a43f-d6ca3d745171
+ZH09,0d93bc15-8ca9-4b37-b5cf-6a1e38ba298d_trip,,Rijnsburg - Valkenburg,0,,0d93bc15-8ca9-4b37-b5cf-6a1e38ba298d,0,0,558358cd-c393-4944-8ed3-a5327cf0fb55
+Ge39 / NB20,87a61586-40ae-4a40-b7fc-78a1248785ad_trip,,Megen - Maasbommel,0,,87a61586-40ae-4a40-b7fc-78a1248785ad,0,0,bd0c76b3-2a12-4709-858b-c8030cf47e01
+Fr29,daba2a68-f7a5-47eb-8287-c13abb59a13d_trip,,Rotstergaast - Oldelamer,0,,daba2a68-f7a5-47eb-8287-c13abb59a13d,0,0,2a8cfc45-0e5c-4a1f-972d-15516f06c546
+Fr23,15a8d603-5843-4c2e-86f4-9e83faeba2e1_trip,,Boornzwaag - Woudfennen,0,,15a8d603-5843-4c2e-86f4-9e83faeba2e1,0,0,6f9c9584-661a-4a9b-8319-e8f9536d7476
+Gr03,6f097ccf-1b4c-45e0-8d37-707eea1f6c76_trip,,Delfzijl - Emden-Knock- Borkum,0,,6f097ccf-1b4c-45e0-8d37-707eea1f6c76,0,0,8966d493-b3ee-40bc-be93-a7d558458d5a
+Fr42,cff2ddc3-f49e-4caf-8143-71ed86c8a168_trip,,Jachthaven - Goingarijp,0,,cff2ddc3-f49e-4caf-8143-71ed86c8a168,0,0,30e88541-2867-415d-9dd4-803cde34809d
+Li17 / Be32,5a0034dd-4635-4a9d-ad2a-d6a9320bdcd7_trip,,Eijsden - Lanaye,0,,5a0034dd-4635-4a9d-ad2a-d6a9320bdcd7,0,0,a72dcabd-f558-4ae2-9cd7-bec3bcdfe77a
+NH11,af8e6073-d2e5-4911-91d4-fbdfebcfabb4_trip,,Alkmaar Bierkade - Eilandswal,0,,af8e6073-d2e5-4911-91d4-fbdfebcfabb4,0,0,7a0ae899-6405-4a26-9b31-462cf7318cf1
+ZH29,26b63313-5327-4554-b8d8-342560953e52_trip,,Spijkenisse - Oud Beijerland - Rhoon,0,,26b63313-5327-4554-b8d8-342560953e52,0,0,b4ff7ae7-d161-4cbd-8f57-bdb0246ca7aa
+Ut08,0b7b5f22-d2eb-485e-be97-89b78f89d9c6_trip,,Nieuwegein - Vianen,0,,0b7b5f22-d2eb-485e-be97-89b78f89d9c6,0,0,8d88c047-aeb6-4f95-940d-8fa340d510a6
+Ov17,0b6d10b3-9da4-434e-88e1-0feffd3315bd_trip,,Rijssen Zuna - Wierden Notter,0,,0b6d10b3-9da4-434e-88e1-0feffd3315bd,0,0,4d50b018-a94b-474a-8bde-636f816c795b
+Ge25,da447bd4-27e0-4bac-889d-b29558f5e21d_trip,,Marienwaerdt landgoed - Enspijk,0,,da447bd4-27e0-4bac-889d-b29558f5e21d,0,0,babc1e5d-3126-4af2-a069-51ef6610ff1b
+ZH08,79218dc6-7a95-4a1b-a25f-f53daaf2c360_trip,,Noorden - Meije,0,,79218dc6-7a95-4a1b-a25f-f53daaf2c360,0,0,6c50fb4b-0b45-45c1-be83-387f7a4e4cdb
+Fr31,a42d1efc-a5c2-412e-9f3d-ddecea1893fa_trip,,Nije Schouw - Akkrum,0,,a42d1efc-a5c2-412e-9f3d-ddecea1893fa,0,0,86d0bd59-3885-4616-b6e6-bc07a4489bc7
+ZH09,36b68ce9-6d1c-4b3c-a280-d62153f04ba6_trip,,Valkenburg - Rijnsburg,0,,36b68ce9-6d1c-4b3c-a280-d62153f04ba6,0,0,e0ab008a-cd74-45b9-b2c8-b626ff3147ac
+NH37,20683d84-6f7e-465a-ade0-3ba6058955e4_trip,,Amstelzijde - Ouderkerk a/d Amstel,0,,20683d84-6f7e-465a-ade0-3ba6058955e4,0,0,33218e5c-75e0-492f-b70c-f46f37157b82
+NH16,082e5b0b-48e3-4758-87eb-7e6005650e97_trip,,Krommenie - Wormerveer,0,,,0,0,c248de51-fb52-4d64-8d4d-e3bb0d0481bb
+NB30 / Ge49,15d5b58b-a62b-45b5-a55c-45be5ce82fc0_trip,,Niftrik - Ravenstein,0,,15d5b58b-a62b-45b5-a55c-45be5ce82fc0,0,0,7533a936-1c16-461a-8b1d-66f2148a6d65
+ZH40 / Ut07,959a25b8-7112-43c4-a845-a1d933b86f70_trip,,Ameide - Lopik,0,,959a25b8-7112-43c4-a845-a1d933b86f70,0,0,81fde7ca-ac79-4ce5-819d-7389b567ba57
+NH40,f08bdcab-f735-4525-9ede-ae75eb5daa3f_trip,,Aalsmeer - Rijshout,0,,f08bdcab-f735-4525-9ede-ae75eb5daa3f,0,0,adda916f-f6eb-415b-ac5a-5b88b89fa501
+Ge28,245224ce-d0e1-428c-bc5b-31c56a52b9af_trip,,Heerewaarden - Varik,0,,245224ce-d0e1-428c-bc5b-31c56a52b9af,0,0,73944142-b536-4806-b72f-b2a80c576464
+Ov14,f02b7fa1-ece6-4f52-9c11-d8488fdc2ee1_trip,,Laarzenpad - Kalenbergerpad,0,,f02b7fa1-ece6-4f52-9c11-d8488fdc2ee1,0,0,33941cf8-805d-45f4-9add-5d9a55e05a31
+Ge11 / Ut09,8c252254-7e04-4977-a8b0-cedbba39bc8a_trip,,Schalkwijk - Culemborg,0,,8c252254-7e04-4977-a8b0-cedbba39bc8a,0,0,47d7d66f-dc5a-40c1-aed7-9562f62334c7
+NH78,32142e88-8b57-4eae-a66f-2fbcfa329942_trip,,Texel Oosterend Hogezandskil - Schorreweg,0,,32142e88-8b57-4eae-a66f-2fbcfa329942,0,0,343208b1-e1b9-4a54-b650-1ae650d8598c
+Ge44,f5b0720b-ffc5-4ddf-9a9e-5545bfa9765c_trip,,Persingen - Ubbergen,0,,f5b0720b-ffc5-4ddf-9a9e-5545bfa9765c,0,0,20a6bae1-2cf2-447b-b0d5-56d437a1098c
+Fr36,ed6097df-793b-49b8-9a5c-6cbcf2dbfa20_trip,,Joure Slachtedijk - Jachthaven,0,,ed6097df-793b-49b8-9a5c-6cbcf2dbfa20,0,0,c2b79e73-293e-47b7-86ba-cf0c0b71f633
+Fr11,59ea50b0-3604-4ca5-a4a0-8763de1d8915_trip,,Britsum - Wijns,0,,59ea50b0-3604-4ca5-a4a0-8763de1d8915,0,0,bd41ab59-c7d3-4d9b-8ee6-2fb69dfb4c04
+Li19,37d370a9-7887-45f9-85c0-9f2b46a7f876_trip,,Venlo - Arcen,0,,37d370a9-7887-45f9-85c0-9f2b46a7f876,0,0,6d2366f0-6b74-431f-967b-6384415e46d3
+ZH15,fe17360e-d077-4ac0-a2b1-3e198b781f4d_trip,,Gouda Steinse Hout - Goverwelle,0,,fe17360e-d077-4ac0-a2b1-3e198b781f4d,0,0,c90605dd-9400-4c7e-b0ce-131375557dc6
+Ut11 / Ge13,3e75c227-098d-4236-952b-271e1a8c8a52_trip,,Wijk bij Duurstede - Rijswijk,0,,3e75c227-098d-4236-952b-271e1a8c8a52,0,0,f9c9bd71-505a-4947-9f3f-a819c8ae5fae
+Ze16,0f6bd619-ee18-4898-94d8-f9c0ea6a9e98_trip,,Sluiskil West - Sluiskil Oost,0,,0f6bd619-ee18-4898-94d8-f9c0ea6a9e98,0,0,0898d120-6cd9-4895-a208-42efcda51f80
+Ge42 / NB17,7f5c6a87-9591-4f3e-bbfa-a05edf057bca_trip,,Heerewaarden Jachthaven - Lithse Ham,0,,7f5c6a87-9591-4f3e-bbfa-a05edf057bca,0,0,bf985173-0cfa-442a-a78a-5d95fe99c85c
+Fr19,e1f0d2ab-59e8-4d47-b0b7-60b286e02b3b_trip,,Veenhoop - Hooidammen,0,,e1f0d2ab-59e8-4d47-b0b7-60b286e02b3b,0,0,e6519ac6-3455-4e29-9a8f-6a6f9b269ef8
+NB05,8c916952-ad56-4848-b466-3fffe36796cc_trip,,Werkendam - Biesbosch,0,,8c916952-ad56-4848-b466-3fffe36796cc,0,0,760e1580-d313-4e98-aed6-02ac26918366
+ZH15,7c1c198a-d07f-4cc6-a10c-681a89ddb231_trip,,Gouda Goverwelle - Steinse Hout,0,,7c1c198a-d07f-4cc6-a10c-681a89ddb231,0,0,d3a5f3ad-29bf-4fb6-a42a-dc6c0f8338fd
+Gr07,4000ad10-937d-42d3-a6e4-2174cd6385ee_trip,,Boerakker - Sabaldeburen,0,,4000ad10-937d-42d3-a6e4-2174cd6385ee,0,0,9d4028b3-ccd6-4544-a1af-9cd6f260b080
+NB15,4f31d255-b1ca-4cf1-a928-d9d54041f592_trip,,Den Bosch Stadswal - Bossche Broek,0,,4f31d255-b1ca-4cf1-a928-d9d54041f592,0,0,a583806d-a682-46a3-a171-1fbf360cc346
+Ut19,bac1562f-5e8f-4c8e-98c3-05f295a63711_trip,,Kamerik - Woerden,0,,bac1562f-5e8f-4c8e-98c3-05f295a63711,0,0,a7902e62-8953-40c4-b931-34245d3344be
+Ge15 / Ut13,8826f281-a73f-4929-95ee-792623065ffe_trip,,Ingen - Elst,0,,8826f281-a73f-4929-95ee-792623065ffe,0,0,1430b475-94dd-4e58-90a2-244376031c1e
+NH66,a84ecd5f-a71f-4da3-817a-1a9dfd8eeb65_trip,,Muiden - Pampus- IJburg,0,,a84ecd5f-a71f-4da3-817a-1a9dfd8eeb65,0,0,247db205-2639-4340-8382-30f1e088f587
+ZH03,8bbfd90d-e64f-4850-ba8e-bed43c1b3eef_trip,,Koudenhoorn - Tengnagel,0,,8bbfd90d-e64f-4850-ba8e-bed43c1b3eef,0,0,c093079d-1979-4cd0-83ee-ff9aa924c6bb
+Fr16,976b7190-00b1-4ff4-a3e5-8414af8400f0_trip,,Grouw Seinpolle - Hellingshaven,0,,976b7190-00b1-4ff4-a3e5-8414af8400f0,0,0,5f19d66b-5653-435d-b134-0e777b05cac3
+NH15,d84839a9-2768-4277-96b6-8c710fdb9723_trip,,Starnmeerpolder - Oost Knollendam,0,,d84839a9-2768-4277-96b6-8c710fdb9723,0,0,6e33aa46-05ff-4905-937d-6aae55f54c6d
+Ge27,9d096278-65c0-4ccc-b9e6-dae70f0293fe_trip,,Herwijnen - Brakel,0,,9d096278-65c0-4ccc-b9e6-dae70f0293fe,0,0,0c48c0e4-5437-4bc3-add7-6ddc9534aeb5
+Fr32,f53b20cc-9bfb-43f4-abfe-e397712b7c75_trip,,Blokslootpolder - Broek,0,,f53b20cc-9bfb-43f4-abfe-e397712b7c75,0,0,3878aeb0-ef1c-4b08-af09-e5befd30364c
+NH18,65afae31-839b-4e3c-b577-5cfc683776ce_trip,,Schouw - Landsmeer,0,,65afae31-839b-4e3c-b577-5cfc683776ce,0,0,e6346ff2-e44c-4f32-96a9-033725b242e0
+Ge21,68aa75bd-9cce-492e-9043-e164050c92ab_trip,,Pannerden - Millingen aan de Rijn,0,,68aa75bd-9cce-492e-9043-e164050c92ab,0,0,1a2c49ac-551d-4921-8f29-9680d71d2cd7
+Li12,cff898f3-f4f2-49e3-b874-6977a03e44d3_trip,,Ool - Marina Oolderhuuske,0,,cff898f3-f4f2-49e3-b874-6977a03e44d3,0,0,7ae8ba95-63d0-417b-8406-c7d2475f4bb5
+ZH29,aab85127-b57f-4b0a-83b8-76d841047c7a_trip,,Rhoon - Oud Beijerland - Spijkenisse,0,,aab85127-b57f-4b0a-83b8-76d841047c7a,0,0,4ce5a832-ec4b-400e-92d9-65e3ab411ee9
+NH33,c571fd24-d929-4836-982f-a5276c89f038_trip,,Pampus eiland - Muiden,0,,c571fd24-d929-4836-982f-a5276c89f038,0,0,86c32f43-93b3-4444-89ee-fcff59239e68
+Li12,fe5d1b91-1a94-4590-9181-eb1d4a09fd7e_trip,,Marina Oolderhuuske - Ool,0,,fe5d1b91-1a94-4590-9181-eb1d4a09fd7e,0,0,5acef093-7b37-4442-bf2f-88b5aa969352
+Gr09,38ad183f-1593-4bdf-b998-bf15671930ed_trip,,Blauwe Stad Reiderwolde - Beerta,0,,38ad183f-1593-4bdf-b998-bf15671930ed,0,0,ed8007b0-a73b-445b-9df1-303464343d1b
+Ov02,febd9177-a3ef-4971-858a-0a7638b27eda_trip,,Sint Jansklooster Natuurmonumenten 2 - Sint Jansklooster Natuurmonumenten,0,,febd9177-a3ef-4971-858a-0a7638b27eda,0,0,97f6c046-4cc1-4aec-9b89-509c02870387
+ZH51 / Ge23,53177b72-a9c1-43f3-b45f-bcd4cd2bc877_trip,,Arkel - Spijk,0,,53177b72-a9c1-43f3-b45f-bcd4cd2bc877,0,0,e85ac804-4a42-42b5-b6cb-0c7a103db350
+Li09,60e695aa-b4f1-4448-b0d0-77f272be0358_trip,,Baarlo - Steyl,0,,60e695aa-b4f1-4448-b0d0-77f272be0358,0,0,7d549cc0-720f-467d-a59d-f5690705bd3d
+Ge02 / Fl01,0f53d8b7-599d-4e6b-8efd-b803fbca0e6e_trip,,Horst strand - Zeewolde,0,,0f53d8b7-599d-4e6b-8efd-b803fbca0e6e,0,0,7fde25ca-5237-40ce-ac25-6f63eaf46713
+Li02 / NB23,e24b691e-9c03-4db8-b063-f3dbd91434fb_trip,,Afferden - Sambeek,0,,,0,0,16aa6450-6ed5-4333-b272-2db41171dd33
+Fr22,33e8eb53-e46a-4ca0-b923-e58286f94d96_trip,,De Brekken - Langweer,0,,33e8eb53-e46a-4ca0-b923-e58286f94d96,0,0,a8cadb7f-21e5-47f7-aba0-8686264ef162
+NB13,bfdea0fc-d170-4688-b202-20666bcdbc46_trip,,Waalwijk - Drongelen,0,,bfdea0fc-d170-4688-b202-20666bcdbc46,0,0,1a192744-a5ec-400c-a432-76bf9d7e255f
+Gr12,38b96e70-86fa-48ba-aa8d-e3a2a374b069_trip,,Lauwersoog - Suyderoogh,0,,38b96e70-86fa-48ba-aa8d-e3a2a374b069,0,0,29fd0f5c-1288-47ca-b11b-141f305950c0
+NH04,29f13552-b48d-429a-962b-b431b004a8a9_trip,,Enkhuizen - Zuiderzeemuseum,0,,29f13552-b48d-429a-962b-b431b004a8a9,0,0,a086fce8-800e-4ae5-a6ca-2b343991932b
+Ge56,5de5ce53-db21-40f4-adc5-58665db34bb3_trip,,Arnhem Rijnkade - Stadsblokkenwerf,0,,5de5ce53-db21-40f4-adc5-58665db34bb3,0,0,481ac906-aa3c-4535-b83d-9b2bf4162d27
+NH13,a2019144-1db0-4876-973f-c2f560da7889_trip,,De Woude - Starnmeerplder,0,,a2019144-1db0-4876-973f-c2f560da7889,0,0,3be7a116-d21b-4b0e-aff0-e2ff89e6cc38
+Li07,8c1410f7-fda7-491d-bc41-f83f1a5aace7_trip,,Lottum - Lomm,0,,8c1410f7-fda7-491d-bc41-f83f1a5aace7,0,0,2d6bd935-29be-4c09-abf7-bd1879720a16
+NH75,73a3642c-ef0a-47d5-add2-4c1e4ccef621_trip,,Haarlem Belgielaan-Spaarnelaan,0,,73a3642c-ef0a-47d5-add2-4c1e4ccef621,0,0,e0aa75a2-8f00-47ab-89da-af3f4a4a1c06
+Ut03 / NH38,82d166a4-cba9-4831-bf70-a56752749766_trip,,Nigtevecht - Nederhorst den Berg,0,,82d166a4-cba9-4831-bf70-a56752749766,0,0,e7a0980c-2228-4efd-a4d7-ca41b7602fb2
+Ut24,8b84c65a-c6e3-4423-90cc-3867b5489e8f_trip,,Zuilen - Maarssen-Breukelen-Nieuwersluis,0,,8b84c65a-c6e3-4423-90cc-3867b5489e8f,0,0,ed04953e-35ed-464b-a8ab-f087a2521877
+NH31,c522e99e-6725-4038-9952-fb3322562c12_trip,,Amsterdam Watergraafsmeer - Merwedekanaaldijk,0,,c522e99e-6725-4038-9952-fb3322562c12,0,0,e727d82c-e617-41fd-a9b5-8dab988978fb
+NB29,eff1ad79-8736-42a1-8745-0b5df5ee4d60_trip,,Bakkerskil - Werkendam,0,,eff1ad79-8736-42a1-8745-0b5df5ee4d60,0,0,021895e7-fab4-41ff-af8d-42ff74cca352
+Ge24 / ZH52,e6edee7a-c62f-466d-bc1c-65dcecf88c0a_trip,,Galgenwaard - Heukelum,0,,e6edee7a-c62f-466d-bc1c-65dcecf88c0a,0,0,4b5c6a80-3cbc-4b9a-a4c7-c424f3f68a7d
+Ut03 / NH38,0eff28e8-f245-4048-862a-c7423af5fb8b_trip,,Nederhorst den Berg - Nigtevecht,0,,0eff28e8-f245-4048-862a-c7423af5fb8b,0,0,80db8a36-d6dd-4364-a28a-5ea6c0b2acf6
+NH16,96360907-ef47-446f-b18f-f10c90a4d334_trip,,Wormerveer - Krommenie,0,,,0,0,22296a56-b35d-4b35-84c0-710d6d4ce212
+Ov03,3cefd856-badc-4169-9afc-09a6a55afd8e_trip,,Genemuiden - Zwartsluis,0,,3cefd856-badc-4169-9afc-09a6a55afd8e,0,0,55f2c4ca-c329-4646-b749-de33c90b1745
+Ze20,420b7009-8049-4e05-878b-99eae7584c67_trip,,Walcheren 2 - 2,0,,420b7009-8049-4e05-878b-99eae7584c67,0,0,103b9d96-a0e1-47db-a9d3-408474fa4833
+Fr24,0d6d7499-7df8-4145-bb80-5d4782a544ad_trip,,Gaastmeer - Nijhuizum,0,,0d6d7499-7df8-4145-bb80-5d4782a544ad,0,0,48c6ac6e-1eb7-4717-833d-34b633b06a0b
+Ge22,8e9d5a7f-3a42-42fb-af65-7f5ac1957306_trip,,Millingerwaard - Doornenburg,0,,8e9d5a7f-3a42-42fb-af65-7f5ac1957306,0,0,fa94e9bb-45a1-4362-a4d0-cc6b1279ff25
+Ge01 / Fl03,65bd6baf-8a72-427e-837b-299d912d2b9c_trip,,Nunspeet - Biddinghuizen,0,,65bd6baf-8a72-427e-837b-299d912d2b9c,0,0,22a67e3b-7a15-499d-89b3-380676849f1c
+Fr20,08b7548d-327b-4d86-afab-32aafaf3b8fe_trip,,Sneek - Starteiland,0,,08b7548d-327b-4d86-afab-32aafaf3b8fe,0,0,0f561dd9-39cf-48ea-9877-20ba0f768bc7
+NH72 / Fl06,fcbf4689-9208-4839-ba62-469b7daf7633_trip,,Urk - Enkhuizen,0,,fcbf4689-9208-4839-ba62-469b7daf7633,0,0,9dc11f47-2164-405f-adf9-7581e95aedb4
+ZH40 / Ut07,74df4f7d-9b3e-4195-9895-5aa29cfc56a3_trip,,Lopik - Ameide,0,,74df4f7d-9b3e-4195-9895-5aa29cfc56a3,0,0,1efc2d5b-ff43-49fc-bddd-9e52cb5fbe0d
+ZH64,10124590-54ee-4181-97ba-43fb71a777a6_trip,,Zoeterwoude Geerweg - Blankaardpolder,0,,10124590-54ee-4181-97ba-43fb71a777a6,0,0,895de7e1-facc-43c9-aca2-15c6d26665f9
+ZH40 / Ut07,0cdf82a5-51e1-4dd5-9187-cb54c02fa6f5_trip,,Lopik - Ameide,0,,0cdf82a5-51e1-4dd5-9187-cb54c02fa6f5,0,0,d684b894-c043-47e6-8670-d703d2df0a0c
+Ge36 / NB18,f5a9e20d-a7d3-4d17-9ace-14cfd697c2d4_trip,,Alphen - Lith,0,,f5a9e20d-a7d3-4d17-9ace-14cfd697c2d4,0,0,c4d16f50-b257-48ac-ae70-f26d3637cd1e
+Ge33,ba22c59e-a155-4440-b27c-8183b716e97b_trip,,Nederhemert Noord - Nederhemert Zuid,0,,ba22c59e-a155-4440-b27c-8183b716e97b,0,0,8dad5712-8f4c-4968-8566-03cbba232ce7
+NH06 / Fl04,3f58409e-4543-4df6-acba-055731003fd3_trip,,Urk - Enkhuizen,0,,3f58409e-4543-4df6-acba-055731003fd3,0,0,f836f9b2-a9c2-47e5-9f3e-3197cf10f308
+NH54,71e4790b-d1ea-4719-864a-ae8d3b519f8c_trip,,Oosthuizen Warder 2 - Oosthuizen Molen Etersheim 2,0,,71e4790b-d1ea-4719-864a-ae8d3b519f8c,0,0,06a2886d-4ec7-4e35-86d0-9ff6669ce234
+NH66,4a549f8d-4986-4e98-adf1-ecc60c050c35_trip,,Amsterdam IJburg - Pampus - Muiden,0,,4a549f8d-4986-4e98-adf1-ecc60c050c35,0,0,081ccbe8-0310-44e4-9313-5ea7abfde6c4
+Fr32,a1014a1b-499c-47c5-8392-581a06a1252d_trip,,Broek - Blokslootpolder,0,,a1014a1b-499c-47c5-8392-581a06a1252d,0,0,4a4e0625-08dd-452f-9d24-2eb22dbe7907
+Ze20,849d5be7-d18c-4354-983b-16cf6d3715de_trip,,Walcheren 5 - 5,0,,849d5be7-d18c-4354-983b-16cf6d3715de,0,0,ed599c0b-7781-43f8-9862-7c2020e57579
+Li13 / Be28,1f28079e-5c60-4daf-9e08-35d8cdd7ecdc_trip,,Ohe en Laak - Ophoven,0,,1f28079e-5c60-4daf-9e08-35d8cdd7ecdc,0,0,2daf8411-d894-4e4b-a7b1-4bbf70fa586e
+ZH50 / NB08 / Ge26,c01caab1-3d01-4dac-8d58-db9927da4386_trip,,Woudrichem -Gorinchem,0,,c01caab1-3d01-4dac-8d58-db9927da4386,0,0,9bab5f61-e614-4aca-95c3-fde4584396da
+ZH20,bf6c9bbf-0ea2-470d-a111-c2546eb91a5f_trip,,Rozenburg - Brielle,0,,bf6c9bbf-0ea2-470d-a111-c2546eb91a5f,0,0,d2ca200a-6d07-431d-a4bf-8398bbda0c89
+Li09,4c7bf998-5d5a-4d63-b4cd-825130faedfb_trip,,Steyl - Baarlo,0,,4c7bf998-5d5a-4d63-b4cd-825130faedfb,0,0,3ebea058-6bb5-444f-b2f2-a1b1ada9a4d1
+Li14 / Be29,09e2a8fe-4987-4bb1-ad3f-023d67d1a0c0_trip,,Rotem - Grevenbicht,0,,09e2a8fe-4987-4bb1-ad3f-023d67d1a0c0,0,0,fa1b7c55-6b07-4162-b814-0f93b55efdc5
+ZH01 / NH43,9a0be1ca-1351-4d44-8398-165ad474f613_trip,,Kaag - Buitenkaag,0,,9a0be1ca-1351-4d44-8398-165ad474f613,0,0,dbb020a5-9058-4031-9031-64bf8892f828
+Fr12,452878d4-fd94-47a3-87b4-94b3c2db9cf5_trip,,Leeuwarden Noordersingel - Prinsentuin,0,,452878d4-fd94-47a3-87b4-94b3c2db9cf5,0,0,bad8fca2-0b09-4855-b645-7aef4096e621
+Fr15,d8c3ebae-8077-4667-8927-9764da3aa318_trip,,Eernewoude - Wartena,0,,d8c3ebae-8077-4667-8927-9764da3aa318,0,0,a0fda16c-b966-4e40-b79f-75d35b86d434
+ZH21,2c4063ae-4620-4cc0-94c7-93f20ddc6f5c_trip,,Maassluis - Rozenburg,0,,2c4063ae-4620-4cc0-94c7-93f20ddc6f5c,0,0,e0e75ed9-ee95-4df9-8fa8-08a0c346b349
+NB34 / ZH78,705df0d7-9483-4247-98ec-847f2e60814d_trip,,Dintelsas - Ooltgensplaat - Benedensas,0,,705df0d7-9483-4247-98ec-847f2e60814d,0,0,589f9d57-a48c-424a-9b44-86df13040d8d
+Ge08,f4386172-933e-4e18-aaf1-3fa5531075a0_trip,,Dieren - Olburgen,0,,f4386172-933e-4e18-aaf1-3fa5531075a0,0,0,440b8411-be50-462c-ab43-0d6451ff269a
+Ov06,50d663eb-0dd3-4280-a34b-f5f06345f3a8_trip,,Zwolle Agnietenberg - Haerst,0,,50d663eb-0dd3-4280-a34b-f5f06345f3a8,0,0,b52aad14-ca83-4549-9dd3-496673712f97
+NH36,b1384b88-05e5-4126-be1a-dc94c1e00323_trip,,Ouderkerkerdijk - Amsterdam Amsteldijk,0,,b1384b88-05e5-4126-be1a-dc94c1e00323,0,0,7c4320c6-5771-4bfc-8592-2297702047e4
+Fr12,c7eb8aba-7b41-4b91-8e08-1d320e07c73c_trip,,Prinsentuin - Leeuwarden Noordersingel,0,,c7eb8aba-7b41-4b91-8e08-1d320e07c73c,0,0,3d85bd95-07ab-4aff-b921-a1a93a340206
+Fr27,32acf5b2-d85c-498e-80c7-c972eb335f7f_trip,,Heeg - Balk,0,,32acf5b2-d85c-498e-80c7-c972eb335f7f,0,0,50d0e086-99e4-4fd6-a67f-5208cf81ff1f
+Ze06,824ca353-d6d8-426f-a274-2ed6cfcc2004_trip,,Sint Annaland - Zierikzee,0,,824ca353-d6d8-426f-a274-2ed6cfcc2004,0,0,008af583-62a7-45d4-8566-5faf551df89b
+Ov11,a18b2a8e-ed5c-4850-92b3-9d31fb77f9fd_trip,,Deventer De Worp - De Welle,0,,a18b2a8e-ed5c-4850-92b3-9d31fb77f9fd,0,0,01912089-b9cf-4efb-a6bd-5f26de4b7d6a
+Ov04,49cf3899-668e-4fad-9e7d-d8b7786dd96c_trip,,Kampen Kampereiland - Mandjeswaard,0,,49cf3899-668e-4fad-9e7d-d8b7786dd96c,0,0,db5fc90f-baa9-45f3-9e88-6b1ed1f963a3
+NH08,07f8aa1e-c087-4f4a-8803-05182464538e_trip,,Marken - Volendam,0,,07f8aa1e-c087-4f4a-8803-05182464538e,0,0,e9f7c5cc-7daf-4b20-81d9-0003e5e55596
+Fr17,4f512dc0-7a0b-4ac6-ba64-ef0cc1f08ac3_trip,,Grouw Yne Lyte - Grouw De Burd,0,,4f512dc0-7a0b-4ac6-ba64-ef0cc1f08ac3,0,0,8d561870-00cf-413a-9858-dc68beaa3a51
+NH18,bc92d3ed-7af9-4b5d-bb9f-4a42de7d97df_trip,,Landsmeer - Schouw,0,,bc92d3ed-7af9-4b5d-bb9f-4a42de7d97df,0,0,41866d59-4308-41fc-a051-e3ab4e502454
+ZH19,52c9b284-3f3e-4173-a7ec-a222d1bb258f_trip,,Midden-Delfland Kwakelweg - Broekpolder,0,,52c9b284-3f3e-4173-a7ec-a222d1bb258f,0,0,971f9f40-1b25-4630-9cbd-86dd02a6e9e9
+Ge14 / Ut12,05759751-9927-422e-9bd8-3bdc8eb4e1a1_trip,,Amerongen - Eck en Wiel,0,,05759751-9927-422e-9bd8-3bdc8eb4e1a1,0,0,74901dbf-962f-4026-a19a-dd9652a64632
+Ge56,6ef6aa5f-c407-43d4-a7ee-5aaee42d73c5_trip,,Stadblokkenwerf - Arnhem Rijnkade,0,,6ef6aa5f-c407-43d4-a7ee-5aaee42d73c5,0,0,3985d8f6-e284-4b77-82bb-e5932c96edfc
+NH58,604401a3-e3bd-45a7-af7a-37e0cd2c7b90_trip,,De Cocksdorp Eendrachtweg - De Cocksdorp,0,,604401a3-e3bd-45a7-af7a-37e0cd2c7b90,0,0,10a0a5a8-932e-4408-a794-2df8540550a2
+NB12,141a2771-b3e5-4486-8709-7a32ba98bc4e_trip,,Dussen - Sprang-Capelle,0,,141a2771-b3e5-4486-8709-7a32ba98bc4e,0,0,3056aa89-86da-48b8-b492-ed757998eea7
+Ge21,7d6122ac-9bb3-4a54-959d-35f0b5015e2c_trip,,Millingen aan de Rijn - Pannerden,0,,7d6122ac-9bb3-4a54-959d-35f0b5015e2c,0,0,586c8cc8-0f27-457f-abb8-d68c6758c74b
+ZH23,48c54d0d-8ce5-4506-b68a-bf9f0151d6dc_trip,,Krimpen - Spijkenisse,0,,48c54d0d-8ce5-4506-b68a-bf9f0151d6dc,0,0,84b0ede4-a40d-49dc-af29-6eb469ddd91b
+Ge30,f86bf303-6cc4-4606-ba82-f49f56daee59_trip,,Druten - Dodewaard,0,,f86bf303-6cc4-4606-ba82-f49f56daee59,0,0,34b9d36e-05c2-49ec-b816-fa7f91d0c9f1
+Ut24,0b36fb24-2b9e-42c0-b479-1b8ac8372aea_trip,,Nieuwersluis-Breukelen-Maarssen-Zuilen,0,,0b36fb24-2b9e-42c0-b479-1b8ac8372aea,0,0,cf435aad-7663-4990-b381-f8e002d7c193
+Li04,651bc650-5859-4c0b-b1e1-da58014029b6_trip,,Reinderslooi - Reinderslooi natuurgebied,0,,651bc650-5859-4c0b-b1e1-da58014029b6,0,0,0a1c1709-fbfe-4998-b0d9-fbfa5828f041
+NH59,64d05e62-7d00-4018-b88c-6716b5d90bbd_trip,,Jmuiden - IJmuiden noorderpier,0,,64d05e62-7d00-4018-b88c-6716b5d90bbd,0,0,e0b231db-dc68-4a2c-aceb-a5c04631f2d1
+Gr11,ca7abf2b-fef8-437e-93f6-d30fff49aa7c_trip,,Hidra - Nieuwe Weg,0,,ca7abf2b-fef8-437e-93f6-d30fff49aa7c,0,0,271666ca-941e-49c2-9f20-4d051b65c5e9
+Ge54,201e2bf7-5c80-41d1-9d25-29e889b14534_trip,,Giesbeek - Lathum,0,,201e2bf7-5c80-41d1-9d25-29e889b14534,0,0,9ff6a4d8-8e48-4d4e-960b-6e7c98651fa6
+Ze22,8565a6e5-e425-42a5-ba04-091d6d576c38_trip,,Kamperland Uithaven - Veere,0,,8565a6e5-e425-42a5-ba04-091d6d576c38,0,0,b121fc3c-1421-4fb9-ad56-a7e5b6b28fe9
+NB29,95c265fb-ffb0-4c5d-b963-0e8bf9e2085a_trip,,Werkendam - Bakkerskil,0,,95c265fb-ffb0-4c5d-b963-0e8bf9e2085a,0,0,91eeacc0-2507-48a8-a656-bf3102b37edb
+ZH68 / NB32,1656eb21-e2bc-4141-a1b5-82b688dae02c_trip,,Moerdijk - Strijensas,0,,1656eb21-e2bc-4141-a1b5-82b688dae02c,0,0,61e3a7ed-4137-4014-8fbe-89b468d0f07e
+NB15,e56d4516-b730-4d3a-9321-08944d3c5ed2_trip,,Bossche Broek - Den Bosch Stadswal,0,,e56d4516-b730-4d3a-9321-08944d3c5ed2,0,0,73596c91-9ab7-4c67-9a12-3f1fee6b2c49
+ZH04,428e4dd8-bff1-4073-9700-e45750a61cbc_trip,,Warmond Zijldijk - Warmond soc. de Kaag,0,,428e4dd8-bff1-4073-9700-e45750a61cbc,0,0,8ba8e34a-cc72-447b-b4e4-81c528dbd0d7
+ZH06,bcacbc74-a4f1-4e7f-af5b-b6137a41547e_trip,,Roelofarendsveen - Woubrugge,0,,bcacbc74-a4f1-4e7f-af5b-b6137a41547e,0,0,7d76e00a-0be4-4445-b2ec-10552f0f7c61
+Ov15,c2bf3e49-6765-4b42-8013-4f4266452e4a_trip,,Loozensche Linie - Loozen,0,,c2bf3e49-6765-4b42-8013-4f4266452e4a,0,0,22032503-c91e-45ae-b204-641891a2aecf
+Ge06,e9276bad-38bf-4862-915b-504019cf9b58_trip,,Wilp - Gorssel,0,,e9276bad-38bf-4862-915b-504019cf9b58,0,0,116e9c72-3aa2-442a-89f8-039a71b66862
+Ov22,adc112a9-4b21-49f2-93e7-0ce899265069_trip,,Zwartsluis Jachthaven - Museum,0,,adc112a9-4b21-49f2-93e7-0ce899265069,0,0,52b26483-b82e-4f19-ae30-e0bfdffb2636
+NH64,610fdd58-7b70-43c1-af5c-9c6ccc433fbc_trip,,Amsterdam Schellingwouder park (west) -  Amsterdam Schellingwoude (west),0,,610fdd58-7b70-43c1-af5c-9c6ccc433fbc,0,0,08b6b317-14b7-41dd-aa9b-05f9ae23e316
+Ut21,a28f47e9-8797-492e-a0b5-a29407227f5d_trip,,Joostendam - Kockengen,0,,a28f47e9-8797-492e-a0b5-a29407227f5d,0,0,b8a418f3-e537-41e1-8e40-8deb45817af1
+Ze20,76a69fcf-c08c-4a5d-a74b-1f2d8fa3b1a5_trip,,1 - Walcheren 1,0,,76a69fcf-c08c-4a5d-a74b-1f2d8fa3b1a5,0,0,122bd85e-7596-4ff5-ada7-f012ba8fb1ae
+Li13 / Be28,7c7a53f9-ac89-4f75-a344-591152d2711e_trip,,Ophoven - Ohe en Laak,0,,7c7a53f9-ac89-4f75-a344-591152d2711e,0,0,5abcf361-8358-48b5-b62e-cd23534409e3
+NH02 / Fr10,66881ec5-fafe-4de3-8d01-c1d6a06bc7a1_trip,,Texel de Cocksdorp - Vlieland,0,,66881ec5-fafe-4de3-8d01-c1d6a06bc7a1,0,0,aa38220f-c97a-493b-98c2-f1e449c044d4
+Ov13,ed180a46-6409-4923-a20f-892c46f84c87_trip,,Oud-Bergentheim - Rheeze,0,,ed180a46-6409-4923-a20f-892c46f84c87,0,0,caa67eb2-1ff8-4bcd-be70-b0018d19f312
+NH51,65a59ab1-662a-4ce8-a46f-a07ec1adcc4b_trip,,Zaanse Schans - Zaandam,0,,65a59ab1-662a-4ce8-a46f-a07ec1adcc4b,0,0,f30c041d-050c-47ea-970a-58aa1928ed86
+NH75,d722c425-315b-4220-a67e-9396c60ec73e_trip,,Haarlem Spaarnelaan - Belgielaan,0,,d722c425-315b-4220-a67e-9396c60ec73e,0,0,19b16248-fb93-4162-8459-a2b50de92689
+Li05,fa683720-b1a4-4e1c-a37e-4e49f3ae24ad_trip,,Blitterswijck - Wellerlooi,0,,fa683720-b1a4-4e1c-a37e-4e49f3ae24ad,0,0,1ecffa8f-9bb8-45b6-9ba0-c222618987d5
+NH54,6d1ba2d7-45ba-417f-a010-d6ce2e524f81_trip,,Oosthuizen Molen Etersheim 2 - Oosthuizen Warder 2,0,,6d1ba2d7-45ba-417f-a010-d6ce2e524f81,0,0,9c5a0590-2ff9-424a-8d13-224ce8964c3f
+ZH76,2d50deb8-7433-4685-9c59-0427cbf61755_trip,,Hillegom - De Zilk (1),0,,2d50deb8-7433-4685-9c59-0427cbf61755,0,0,f3af5e5a-cb20-4f9a-aca3-d7f23e705d58
+Ge16,efffe8d2-39e5-4576-ab30-e3a4da058d6f_trip,,Opheusden - Wageningen,0,,efffe8d2-39e5-4576-ab30-e3a4da058d6f,0,0,69afffef-4ff8-4b4f-a2e2-b7a4f2db25fa
+Fr41,884fa812-838b-452b-acd8-ab3da4d31502_trip,,Dronrijp Dykshoek - Keimpetille,0,,884fa812-838b-452b-acd8-ab3da4d31502,0,0,a532e530-df57-4538-9115-c54afd1af159
+Ge44,badd4b1d-60f1-4f0e-b58c-094aea2aff6c_trip,,Ubbergen - Persingen,0,,badd4b1d-60f1-4f0e-b58c-094aea2aff6c,0,0,d7110615-7584-4515-92f7-c794c5eea0c2
+Ov16,4b2900a3-7fec-4ed6-8c63-d01e9d8ab7be_trip,,Leo Majoorlaan - Zwolle Doepark Nooterhof,0,,4b2900a3-7fec-4ed6-8c63-d01e9d8ab7be,0,0,9450f512-817c-430f-8b8c-ff74339b2f16
+ZH43,31c86130-6cfc-4b28-a3c5-5f3792201406_trip,,Het Sterlinggriend - Dordrecht Biesboschcentrum,0,,31c86130-6cfc-4b28-a3c5-5f3792201406,0,0,fc4d5c51-cfdb-45cd-adc0-c4e015937c5a
+NH19,c2fb4ceb-8517-42cc-b122-30da69037145_trip,,Holysloot - Broek in Waterland,0,,c2fb4ceb-8517-42cc-b122-30da69037145,0,0,29f62fe4-9a77-4502-a54a-63b430d80860
+Ze20,011f1468-c604-4a75-9b2d-61c3c8241075_trip,,Walcheren 3 - 3,0,,011f1468-c604-4a75-9b2d-61c3c8241075,0,0,badb2674-e66c-441b-857d-c3b39eb9e076
+NH13,93b9ceb6-9d36-4b4f-bb86-e1f9a64deeda_trip,,Starnmeerplder - De Woude,0,,93b9ceb6-9d36-4b4f-bb86-e1f9a64deeda,0,0,f9b5ee42-bc0c-4f0d-b570-bebc65ef9cf4
+Ge35 / NB16,d31cb77a-5717-449b-a438-18f6ac6fac69_trip,,Alem - Maren / Kessel,0,,d31cb77a-5717-449b-a438-18f6ac6fac69,0,0,43974d3e-bb21-49a1-8175-f92cd0b68c70
+ZH07,65f5d792-d5ca-4422-a26b-fcf0ad8f538d_trip,,Rijnsaterwoude - Oude Wetering,0,,65f5d792-d5ca-4422-a26b-fcf0ad8f538d,0,0,12cb0230-d12f-443b-963c-4b7764a8c91b
+Li10,96bc02ba-30b5-4bf1-a202-3ac549f29f61_trip,,Beesel - Kessel,0,,96bc02ba-30b5-4bf1-a202-3ac549f29f61,0,0,71becdb7-d5a9-40f9-9316-a2e727acce79
+Ov12 / Fr30,469e2a82-c42d-445c-b457-3a6dc7204dc6_trip,,Oldetrijne - Oldemarkt,0,,469e2a82-c42d-445c-b457-3a6dc7204dc6,0,0,3908c363-9c07-4ef8-a75d-e443c96106e6
+ZH06,40a81532-f58b-48a5-803c-c71ec3d89381_trip,,Woubrugge - Roelofarendsveen,0,,40a81532-f58b-48a5-803c-c71ec3d89381,0,0,619b46a3-886f-41bb-a919-95463c7563b8
+Ze01 / ZH24,3e10eb25-3fcd-4ca7-81df-029d1526f5a6_trip,,Brouwershaven - Springersdiep - Port Zelande,0,,3e10eb25-3fcd-4ca7-81df-029d1526f5a6,0,0,a3149975-26e8-4e70-a762-3641e8262617
+NH45,b317a5d1-2cbe-434c-aeb9-e7173fbbb810_trip,,De Ronde Hoep- Amstelveen Nesserlaan,0,,b317a5d1-2cbe-434c-aeb9-e7173fbbb810,0,0,01461782-8a8a-4b26-99af-3de7f275894c
+ZH30,ff5409b5-2ee5-4eca-9a78-af1c4dacb188_trip,,Hotel New York - Rotterdam Veerhaven,0,,ff5409b5-2ee5-4eca-9a78-af1c4dacb188,0,0,d4d9ec1d-9c7e-4e31-a1e2-7d372680c0bd
+Ge22,0cf6013e-d9c7-4d16-aed4-b45694dcaba7_trip,,Doornenburg - Millingerwaard,0,,0cf6013e-d9c7-4d16-aed4-b45694dcaba7,0,0,73013dad-fb9b-446a-bbfd-1e1a542d28e2
+Ze20,e72dcfec-d50d-429b-87a9-29e7dd181506_trip,,5 - Walcheren 5,0,,e72dcfec-d50d-429b-87a9-29e7dd181506,0,0,d86b4ff6-f767-4972-816d-e5cd91fe26c8
+NB14 / Ge34,8e7c98c0-f228-41e8-9c45-53d835dff180_trip,,Herpt - Bern,0,,8e7c98c0-f228-41e8-9c45-53d835dff180,0,0,c11d2921-5ca7-47d2-9f59-ae0876344734
+ZH57,825dc0cd-8b9a-469f-b9df-03bb597222eb_trip,,Biesboschcentrum - Huiswaard,0,,825dc0cd-8b9a-469f-b9df-03bb597222eb,0,0,0f00c571-f9bb-43ea-810d-cd0b15c042f3
+NH19,9e1d15ec-9063-4ef7-9fc5-4fc60528d086_trip,,Broek in Waterland - Holysloot,0,,9e1d15ec-9063-4ef7-9fc5-4fc60528d086,0,0,936f0ff7-ce57-44b5-b9b0-f07831bc4ff9
+Fr18,7160c7db-eafc-4ae9-9899-a33d74a6f283_trip,,Grouw De Burd - Sitebuorren,0,,7160c7db-eafc-4ae9-9899-a33d74a6f283,0,0,70baf52c-d0e7-4dd9-9809-78d1a1ebb30e
+Ze10,17a05fac-c687-4323-b61f-e1472a1f1b07_trip,,Wemeldinge - Gorishoek - Yerseke,0,,17a05fac-c687-4323-b61f-e1472a1f1b07,0,0,a0b1396d-0220-4f15-98c5-d45f8e385028
+ZH50 / NB08 / Ge26,8dbc1c03-9a68-43f7-9c39-2955e0ef27e0_trip,,Woudrichem - Loevestein,0,,8dbc1c03-9a68-43f7-9c39-2955e0ef27e0,0,0,359d3a28-c020-4e0c-b4f3-5418dcf03956
+NH65,8a211092-262a-41d1-bd3a-975a7d0985cb_trip,,Heemstede Cruquiushaven Noord - Zuid,0,,8a211092-262a-41d1-bd3a-975a7d0985cb,0,0,b66baa9e-518d-4444-acbd-f78a17470a51
+Fr39,565fa488-cbf7-40d1-be1c-68afa60eb32b_trip,,Holwerd - Ameland (watertaxi),0,,565fa488-cbf7-40d1-be1c-68afa60eb32b,0,0,44549b69-071c-4934-8f6e-9e4ffd2e85e8
+Gr13,974b4575-7b15-4afe-be87-54d4f0fc3191_trip,,Schaphalsterzijl - Aduarderzijl,0,,974b4575-7b15-4afe-be87-54d4f0fc3191,0,0,2ccb1e54-1f32-4630-b07e-f5461111388a
+Ut05,587cc5fd-00f9-4066-b499-2d24e5eb9ba9_trip,,Nieuwer ter Aa - Breukelen,0,,587cc5fd-00f9-4066-b499-2d24e5eb9ba9,0,0,6f19d335-80da-4033-a9f4-8a583518af2a
+ZH56,ec8809f1-fb32-45a5-b8e0-f8260ddd401e_trip,,Woerdense Verlaat Pietersenpad oz - Woerdense Verlaat Pietersenpad wz,0,,ec8809f1-fb32-45a5-b8e0-f8260ddd401e,0,0,ab429887-4187-4ecf-ab01-a6bdebb7e605
+ZH22,41d32c07-0185-4031-b6ed-b08da8282312_trip,,Middelharnis - Hellevoetsluis,0,,41d32c07-0185-4031-b6ed-b08da8282312,0,0,b36a7be9-e6e3-424f-9b33-3fb80495c599
+Ge54,a50634ff-5233-44e1-a6fb-b0ce712a8b60_trip,,Lathum - Giesbeek,0,,a50634ff-5233-44e1-a6fb-b0ce712a8b60,0,0,902b11ef-81dd-452c-8ad3-aa74082346cb
+Ge33,f5b2bbf5-8417-4acc-9df4-85d90cbdb7df_trip,,Nederhemert Zuid - Nederhemert Noord,0,,f5b2bbf5-8417-4acc-9df4-85d90cbdb7df,0,0,92485133-c630-443b-9cc6-4aad23bb7f4d
+Ge19,d31073e5-ffac-4724-bfee-c0c537bc6115_trip,,Huissen - Loo,0,,d31073e5-ffac-4724-bfee-c0c537bc6115,0,0,e44500ca-11a9-4ba0-8ad4-66817ca062c6
+Li11,8a33b9d5-fae3-4129-8f13-37c5eee38d10_trip,,Neer - Rijkel,0,,8a33b9d5-fae3-4129-8f13-37c5eee38d10,0,0,977cad33-80d3-4b57-8179-ff184649c996
+NH33,08ea2104-898a-4255-9bff-4d1710affed3_trip,,Muiden - Pampus eiland,0,,08ea2104-898a-4255-9bff-4d1710affed3,0,0,eebf1ee6-250f-4b1e-ab0f-926d35f66bac
+Li05,bd0e8fd3-c40d-48a3-9733-2b3c11de1c3c_trip,,Wellerlooi - Blitterswijck,0,,bd0e8fd3-c40d-48a3-9733-2b3c11de1c3c,0,0,eb432f64-b02f-43fd-8f99-031ee66c7a65
+Li04,8e8b7ef7-106b-4510-ab8b-c2b1771f40b2_trip,,Reinderslooi natuurgebied - Reinderslooi,0,,8e8b7ef7-106b-4510-ab8b-c2b1771f40b2,0,0,36e80498-714e-4078-ad52-4be1bf0f1350
+Ge42 / NB17,3bfc7d12-db02-4069-ad16-7320a4409619_trip,,Lithse Ham - Heerewaarden Jachthaven,0,,3bfc7d12-db02-4069-ad16-7320a4409619,0,0,e913abc3-cf5c-4ccd-94c5-a0d21770044f
+Ge27,4686c00f-4a18-4fb5-bc67-ae92cd4bb5fb_trip,,Brakel - Herwijnen,0,,4686c00f-4a18-4fb5-bc67-ae92cd4bb5fb,0,0,05bbe95f-da87-44b3-91c4-bce7a6bc9867
+Ge07,0228076f-e4a9-4718-a12c-049ed79005ca_trip,,Brummen - Bronkhorst,0,,0228076f-e4a9-4718-a12c-049ed79005ca,0,0,8180364e-2024-425b-adec-2b42dba7e6fd
+ZH67 / NB31,a23995ae-2236-4267-9141-0a04f3fb9466_trip,,Numansdorp - Willemstad,0,,a23995ae-2236-4267-9141-0a04f3fb9466,0,0,4bc258e3-52b2-41d7-9402-ee9eed6910f0
+Fr31,043405be-1cad-4ff8-807c-ea30155b3ea0_trip,,Akkrum - Nije Schouw,0,,043405be-1cad-4ff8-807c-ea30155b3ea0,0,0,68320f9a-e393-4a43-873a-9a0931e6c5da
+ZH74 / Ut23,da4638ca-6875-4308-99f9-72f37a8ff36e_trip,,Zegveld - Kamerik,0,,da4638ca-6875-4308-99f9-72f37a8ff36e,0,0,7009dd2f-c848-4ff8-8386-7c8832f8b3df
+Ge04 / Ov08,c9b1b09b-7485-45a4-a021-187530ca8d51_trip,,Vorchten - Wijhe,0,,c9b1b09b-7485-45a4-a021-187530ca8d51,0,0,b1adcb05-c312-4261-8a94-62944b59e7e6
+NH79,12485ff4-f35d-4136-a006-647a45ddf6c7_trip,,Handelskade - Fort Westoever,0,,12485ff4-f35d-4136-a006-647a45ddf6c7,0,0,dd880ddc-7c5e-4b55-9dcb-6c22b6be39eb
+ZH76,3b43ce6d-3b2e-4028-93a0-5cb2dff3aaa4_trip,,De Zilk (1) - Hillegom,0,,3b43ce6d-3b2e-4028-93a0-5cb2dff3aaa4,0,0,1bba7d25-eb01-4a7c-8623-4316221050e8
+ZH02,d782f8f0-b2e6-47a2-be7e-1be5c28a32f9_trip,,Kaag - Oud Ade,0,,d782f8f0-b2e6-47a2-be7e-1be5c28a32f9,0,0,35f12c93-e0c1-483b-9a3b-47a303a7ccc5
+NH37,cb45d70e-248a-4dc7-9f51-385455627e05_trip,,Ouderkerk a/d Amstel - Amstelzijde,0,,cb45d70e-248a-4dc7-9f51-385455627e05,0,0,77a21549-8d46-4d34-a888-802869b4b2e0
+Gr13,3e7c3642-3325-4792-9e5a-3de048905c1f_trip,,Aduarderzijl - Schaphalsterzijl,0,,3e7c3642-3325-4792-9e5a-3de048905c1f,0,0,9fc68b2e-ba08-4e8a-a8a6-eef1251d40fb
+Ge17,aff10d13-42d9-455f-aa68-3ff6ee7ea912_trip,,Wageningen - Randwijk,0,,aff10d13-42d9-455f-aa68-3ff6ee7ea912,0,0,b99b1108-1be1-4fe2-ad8b-aeb7e7573015
+Dr02 / Ov18,55037435-f2c7-4482-8721-41ab91aedddf_trip,,Meppel - Staphorst,0,,55037435-f2c7-4482-8721-41ab91aedddf,0,0,26ef1661-e283-42e1-be97-1f16642a93b2
+Ze04,d74d74b0-cc32-4559-bfc6-59c7824f0ef8_trip,,Burghsluis - Colijnsplaat - Zierikzee,0,,d74d74b0-cc32-4559-bfc6-59c7824f0ef8,0,0,c75dabca-a775-4e9e-81b8-22b7dd0b054d
+Li23,1d39335b-8236-495a-b5d2-5f730eddc711_trip,,Lottum - Arcen,0,,1d39335b-8236-495a-b5d2-5f730eddc711,0,0,b0ec05cc-bec7-45f5-bd54-51d0d54035b4
+NH58,47126c6a-c954-4632-93e9-2dea48772738_trip,,De Cocksdorp - De Cocksdorp Eendrachtweg,0,,47126c6a-c954-4632-93e9-2dea48772738,0,0,c5cf9b3c-a19b-47ed-97da-ea2e9d130ded
+NH51,6bb4b1ec-86ca-4eea-a8b5-d7c085dc105e_trip,,Zaandam - Zaanse Schans,0,,6bb4b1ec-86ca-4eea-a8b5-d7c085dc105e,0,0,8e4aa2a5-f5a2-4c9b-b352-b98b4e439e4f
+ZH03,6c796c02-e817-4a12-bde2-23f7d01588bd_trip,,Tengnagel - Zwanenburgpolder,0,,6c796c02-e817-4a12-bde2-23f7d01588bd,0,0,c4cb274e-2eb5-4ce0-984a-02c9903d3ddb
+Ut18,943951d0-ce64-4a0b-9521-9798e0f0e28c_trip,,Nieuwegein Pr.Hendriklaan - Museumwerf,0,,943951d0-ce64-4a0b-9521-9798e0f0e28c,0,0,7e7363fd-4c85-4595-8f4f-7ce0a0e762e0
+Ze19,725db62b-816d-4e89-add9-1fe61ca249fb_trip,,s Heer Abtskerke Zuidweg - s Gravenpolder,0,,725db62b-816d-4e89-add9-1fe61ca249fb,0,0,5c87d9bb-721f-464d-8e33-5029243d1c3f
+ZH43,43526ef7-b817-4cd2-8e1c-fd2364ee9f79_trip,,Dordrecht Biesboschcentrum - Het Sterlinggriend,0,,43526ef7-b817-4cd2-8e1c-fd2364ee9f79,0,0,78722d2f-9bad-4348-8fa4-31d07c37c7c2
+Ze22,adcddce9-370e-49a3-a7f2-9b3a8527dc4a_trip,,Veere - Kamperland Uithaven,0,,adcddce9-370e-49a3-a7f2-9b3a8527dc4a,0,0,2531a7e1-a4df-41ca-99cb-de7b911ad61f
+NH52,eaf858c9-156f-47b5-8d91-a1d2179ff63b_trip,,Zaanse Schans Bonte Hen - Zaandijk,0,,eaf858c9-156f-47b5-8d91-a1d2179ff63b,0,0,d8a5d7e4-7496-4f1a-9b84-d986dbc54f3c
+Ge46 / NB27,c3511ab1-e188-481f-9967-97937e83e4ce_trip,,Demen - Batenburg,0,,c3511ab1-e188-481f-9967-97937e83e4ce,0,0,edcf0a02-6f47-4c9a-af46-85288c2e9dcc
+ZH74 / Ut23,c54d4647-9254-45a5-9212-566df1d6d130_trip,,Kamerik - Zegveld,0,,c54d4647-9254-45a5-9212-566df1d6d130,0,0,b9c8df17-1db1-4d77-9a46-7d2b89ec56ff
+NB28,084811a3-0616-4716-97d3-f783def8f48d_trip,,Liempde - Kasteren,0,,084811a3-0616-4716-97d3-f783def8f48d,0,0,fff215af-21ab-4529-ae7e-b6abb7ee456e
+Fr16,f300879b-35d0-4ae1-b483-f30603ca340b_trip,,Hellingshaven - Grouw Seinpolle,0,,f300879b-35d0-4ae1-b483-f30603ca340b,0,0,863ef977-d71b-48d7-805d-b38534725598
+Fr17,0e8eb842-42ab-4242-9704-079fc8bead6b_trip,,Grouw De Burd - Grouw Yne Lyte,0,,0e8eb842-42ab-4242-9704-079fc8bead6b,0,0,fb77914c-82f6-4a20-b771-dd7167659cdb
+Ov14,f468d148-846c-4e90-a654-e56fe14530f0_trip,,Kalenbergerpad - Laarzenpad,0,,f468d148-846c-4e90-a654-e56fe14530f0,0,0,c72c2945-b812-4935-bbc0-4184f47fb2a9
+Ut04 / NH39,8ef5092e-fbda-454e-abf3-ea2724699309_trip,,Nessersluis - Nes a/d Amstel,0,,8ef5092e-fbda-454e-abf3-ea2724699309,0,0,8098ad12-f462-4355-a84d-1ce0d3055814
+Ze18,77d5766f-ed1c-405f-b508-30c9d78b28f6_trip,,Anna Jacobapolder - Bruinisse,0,,77d5766f-ed1c-405f-b508-30c9d78b28f6,0,0,df295865-45c9-4999-9733-da8e5676530f
+Ze23,48445026-afc6-42b2-8e0b-8376f4dd77e5_trip,,Vlissingen station - centrum - koningsweg,0,,48445026-afc6-42b2-8e0b-8376f4dd77e5,0,0,3c922b1d-0677-4c11-bfd5-3e2593085d83
+ZH19,894f2898-eb6b-41b8-8985-393964223591_trip,,Broekpolder - Midden-Delfland Kwakelweg,0,,894f2898-eb6b-41b8-8985-393964223591,0,0,671aa743-258c-4734-93f4-04d5aec8c777
+NH74,d97ec18d-8096-46e7-8235-23ab853210a9_trip,,Geniedijk - Hoofddorp Liniepad,0,,d97ec18d-8096-46e7-8235-23ab853210a9,0,0,158d396c-6c11-439a-a147-6a59353a8b13
+ZH34,001817a9-673a-4bdf-8c99-8385877f6fad_trip,,Zwijndrecht Groote Lindt - Puttershoek,0,,001817a9-673a-4bdf-8c99-8385877f6fad,0,0,be250146-fd71-4bb0-aa8b-da3499707785
+ZH31,62da2e3d-492e-4dbb-ad0c-aff45cf0d752_trip,,Rotterdam Leuvehaven - Hotel New York,0,,62da2e3d-492e-4dbb-ad0c-aff45cf0d752,0,0,d0c81538-2865-4d23-9af7-cf75e31e945b
+Fr28,619fb1c4-b84f-47e8-9743-d1a9360c2c05_trip,,Lemmer - Brekkenpolder,0,,619fb1c4-b84f-47e8-9743-d1a9360c2c05,0,0,46042874-43fd-4264-a371-bb81ff0edd22
+NH40,dd18de77-813b-41cb-b97c-44978686a257_trip,,Rijsenhout -Aalsmeer,0,,dd18de77-813b-41cb-b97c-44978686a257,0,0,dd3e8e57-5ad5-4d8f-92d8-f90952567e22
+NB30 / Ge49,9e9e304a-1aca-4d9f-9404-23932602f783_trip,,Ravenstein - Niftrik,0,,9e9e304a-1aca-4d9f-9404-23932602f783,0,0,2781c148-9c68-43d2-9785-6462e3f47ffb
+Fr24,a1db3220-153a-4b61-870a-61b868e64d57_trip,,Nijhuizum - Gaastmeer,0,,a1db3220-153a-4b61-870a-61b868e64d57,0,0,050e5167-0e56-4ec6-9a9a-33747fa7864f
+Li21,a90a5907-26ac-4d1c-9f00-d0999be4bf37_trip,,Wessem - Stevensweert - Thorn,0,,a90a5907-26ac-4d1c-9f00-d0999be4bf37,0,0,2aeb2ffa-951e-4b78-b7b9-51bed89f5279
+Fr43,767cb044-bf8d-443c-8708-8d0e2abfc35e_trip,,De Deelen - Luinjeberd,0,,767cb044-bf8d-443c-8708-8d0e2abfc35e,0,0,b1056f49-33af-4d2f-b10c-397157b069fa
+Dr03,be9965e8-55e7-425a-8f14-2dd6478fd7c3_trip,,Klazienaveen WZ - Klazienaveen OZ,0,,be9965e8-55e7-425a-8f14-2dd6478fd7c3,0,0,06450f8b-761d-4ea7-8e02-71c7cfd03151
+Ze01 / ZH24,327ab9e3-0dea-41c1-8ce6-f1becb2b8b56_trip,,Port Zelande - Springersdiep - Brouwershaven,0,,327ab9e3-0dea-41c1-8ce6-f1becb2b8b56,0,0,b93c6fe0-b205-43ba-9053-6a9f872c445a
+Li23,b52e47ac-f06b-431f-b6f5-34b6660df165_trip,,Arcen - Lottum,0,,b52e47ac-f06b-431f-b6f5-34b6660df165,0,0,b7f07974-cb13-4be3-be50-5ead73ac011a
+Ge17,e519d3b5-fd0b-4fb3-928a-035a321b2697_trip,,Randwijk - Wageningen,0,,e519d3b5-fd0b-4fb3-928a-035a321b2697,0,0,e4d26ac3-680c-4a4e-a534-0c924f06548c
+NH14,be6c62ee-f4d0-4dc7-96ad-a9413b68b4a4_trip,,De Rijp - Spijkerboor,0,,be6c62ee-f4d0-4dc7-96ad-a9413b68b4a4,0,0,97149509-ecf7-4799-9ed7-0e4863dfced4
+NH03,36357e74-4dcf-44cc-b406-cb4602cd8150_trip,,Medemblik - Enkhuizen,0,,36357e74-4dcf-44cc-b406-cb4602cd8150,0,0,caaa1e28-3d46-4597-b357-2b2d7304f8eb
+Ge29,8295f808-1468-4fc7-b07a-c33dae99861d_trip,,Tiel - Wamel,0,,8295f808-1468-4fc7-b07a-c33dae99861d,0,0,6af57ff8-5294-43d1-b0b5-114de9783fb2
+ZH68 / NB32,a2ea44e6-4256-447a-aeb7-bf556a1ca54c_trip,,Strijensas - Moerdijk,0,,a2ea44e6-4256-447a-aeb7-bf556a1ca54c,0,0,0869231b-3eaa-4079-8baf-ea9f77a4e054
+NH63,caf4a2f2-1a5d-49bf-bd9e-737eb3e89d50_trip,,Amsterdam Schellingwouder park (oost) - Amsterdam Schellingwoude (oost),0,,caf4a2f2-1a5d-49bf-bd9e-737eb3e89d50,0,0,35fc6ed5-b355-4708-9d04-56af7b4e9e53
+Ge20,fefc6def-6298-4e0b-b46e-6900dd9561b5_trip,,Pannerden - Doornenburg,0,,fefc6def-6298-4e0b-b46e-6900dd9561b5,0,0,e7a19ef2-2682-4fbd-833a-22dbc11f795c
+Ge30,0ab2c617-906e-4f82-8f78-e11933eef2d4_trip,,Dodewaard - Druten,0,,0ab2c617-906e-4f82-8f78-e11933eef2d4,0,0,d5a296f1-d87e-4ece-accb-ff0dc1eb9d86
+NH34,ff7f4c4c-53cd-4460-bd6e-764390eb2360_trip,,Cruquius - Haarlem Schalkwijk,0,,ff7f4c4c-53cd-4460-bd6e-764390eb2360,0,0,94439ce0-96b2-4785-9acb-63775e2e1614
+NB24 / Li03,41ae9198-0e6d-4f84-9d24-65e7812a8219_trip,,Vierlingsbeek - Bergen,0,,41ae9198-0e6d-4f84-9d24-65e7812a8219,0,0,93a917c0-f36b-469f-a6b5-62e86cef4be8
+Ze01 / ZH24,d726787e-6012-4aac-b884-2942adacc19d_trip,,Brouwershaven - Port Zelande - Springersdiep,0,,,0,0,a6a5d8d4-8219-4083-a2ba-6b7065b522f2
+NB05,7e8f3924-3c32-474a-9930-171bb869256e_trip,,Biesbosch - Werkendam,0,,7e8f3924-3c32-474a-9930-171bb869256e,0,0,7ce8312c-6541-4dd2-b489-91014dd815d2
+Ov19,b8599cc9-dd8b-49f5-9d9c-a19a5dd63b31_trip,,Oosterenkweg - Heeten,0,,b8599cc9-dd8b-49f5-9d9c-a19a5dd63b31,0,0,41e201fa-466a-410d-a1da-350d4caae66b
+ZH03,17942bc1-d0d9-4c6d-97a7-b075187e9e12_trip,,Zwanenburgpolder - Tengnagel,0,,17942bc1-d0d9-4c6d-97a7-b075187e9e12,0,0,06b3f2f5-fea0-4af0-9153-8effbd5000e8
+Ut21,0bd28232-7333-4612-8a46-7b4693b8da4f_trip,,Kockengen - Joostendam,0,,0bd28232-7333-4612-8a46-7b4693b8da4f,0,0,27320d51-5bd0-449f-8987-6293519cc6b2
+ZH39,130bde54-7487-4230-b030-7e0576eac69f_trip,,Gelkenes - Schoonhoven,0,,130bde54-7487-4230-b030-7e0576eac69f,0,0,dadc7f23-ab9b-46af-ba9a-b13fa3e67eab
+NH04,e6467d32-d763-4f52-872a-780121ce734d_trip,,Zuiderzeemuseum - Enkhuizen,0,,e6467d32-d763-4f52-872a-780121ce734d,0,0,a0cdd53d-ff7f-4c22-acbd-8552ed23ce1f
+NB24 / Li03,77093463-286a-488f-a080-cf30f0fa8184_trip,,Bergen - Vierlingsbeek,0,,77093463-286a-488f-a080-cf30f0fa8184,0,0,e245d71f-6a1e-440e-8adb-0267de2c52d2
+Ze17,64a36e81-3267-438c-a0ad-1bf667a4be4f_trip,,Clementspolder Groede,0,,64a36e81-3267-438c-a0ad-1bf667a4be4f,0,0,7338b272-aca1-4a86-9cc1-29a22755abc4
+Ge09,07b1d6a1-c793-4d04-a85c-0db4cfa385a2_trip,,Rhederlaag - Rheden,0,,07b1d6a1-c793-4d04-a85c-0db4cfa385a2,0,0,91613eec-09b8-4acc-94d1-c7e7ca712572
+ZH28,28a7622a-2728-46c5-8300-4714a25e949f_trip,,Hekelingen - Nieuw Beijerland,0,,28a7622a-2728-46c5-8300-4714a25e949f,0,0,9ffe20bc-7360-4406-b0fa-7ab0a400914c
+Ze07,c64edeaa-8a6f-4748-b25f-81d334444815_trip,,Zierikzee - Kamperland Sophiahaven,0,,c64edeaa-8a6f-4748-b25f-81d334444815,0,0,efd76318-1795-4764-950f-873afd59484e
+Fr42,e21379a1-646d-4357-ac40-9b80a8bcab1a_trip,,Goingarijp - Jachthaven,0,,e21379a1-646d-4357-ac40-9b80a8bcab1a,0,0,9ed1cf69-cb89-420f-8e9d-f495c0e35996
+Ut01,01f42104-4338-41db-9dfb-cbfd97cb5baa_trip,,Eemdijk - Eemnes,0,,01f42104-4338-41db-9dfb-cbfd97cb5baa,0,0,be9bb9cc-6ab1-447e-9d82-13140288e36a
+Li08,e2956531-c6e3-458b-8c41-cdb52bb5696f_trip,,Grubbenvorst - Velden,0,,e2956531-c6e3-458b-8c41-cdb52bb5696f,0,0,f52e7d08-6ca9-44c3-b947-b6da0fa4e9fb
+ZH14,387996aa-e2c6-4a90-8a1f-b2d3eab17f06_trip,,Gouderak - Moordrecht,0,,387996aa-e2c6-4a90-8a1f-b2d3eab17f06,0,0,12cd040e-cf0a-40b1-8e4e-27e9494818a7
+ZH64,5d6966d7-def1-447e-a7ba-371c2f637a75_trip,,Blankaardpolder - Geerweg,0,,5d6966d7-def1-447e-a7ba-371c2f637a75,0,0,1a12ec2d-4359-402d-85dd-a2ca813aa27c
+ZH50 / NB08 / Ge26,8506a93a-6e4a-4094-b2de-de8e94092754_trip,,Gorinchem - Woudrichem,0,,8506a93a-6e4a-4094-b2de-de8e94092754,0,0,11c525dc-8d2c-4f3c-b36b-e480a221ad72
+NH70,a36cf7f6-2a2d-4eb9-acd8-1a2d60d35b68_trip,,Nieuwe Meer - Amsterdamse Bos,0,,a36cf7f6-2a2d-4eb9-acd8-1a2d60d35b68,0,0,59ba397e-e174-4c09-b72f-46a4180d12ff
+Ut25 / Ge53,44e09605-addc-4b5a-86dd-430aec54cce7_trip,,Rhenen - Lienden,0,,44e09605-addc-4b5a-86dd-430aec54cce7,0,0,b8bb22d9-36a5-436e-8746-fff0a0d7950a
+NH59,2f2f472e-c92e-4c08-a296-7c5be3cbddfb_trip,,IJmuiden noorderpier - IJmuiden,0,,2f2f472e-c92e-4c08-a296-7c5be3cbddfb,0,0,ccd352df-2a74-4189-a85b-33f113d38843
+ZH63,2d917457-3327-42d8-8133-b39d6af77082_trip,,Lisse 2e Poellaan wz - Lisse 2e Poellaan oz,0,,2d917457-3327-42d8-8133-b39d6af77082,0,0,818a1f1c-5da6-4fc1-a502-6f307d8cb86b
+ZH01 / NH43,1bb647f0-1d4b-4abb-8be4-884a810c5c1a_trip,,Buitenkaag - Kaag,0,,1bb647f0-1d4b-4abb-8be4-884a810c5c1a,0,0,6843053b-bc41-40c3-aacd-d71383fe562b
+Fr13,735ceaa3-9caa-481b-b086-9fb5f2d7d2ce_trip,,Suawoude - Garijp,0,,735ceaa3-9caa-481b-b086-9fb5f2d7d2ce,0,0,b2ec6af3-8593-41bd-8e8f-b83e7c2cbe16
+NH76,5d06bab6-22e4-432a-95fb-f8eb1f445b90_trip,,recr.geb.Geestmerambacht- recr.geb.Geestmerambacht,0,,5d06bab6-22e4-432a-95fb-f8eb1f445b90,0,0,045801f8-4284-42c4-96b6-ce2756f91ed3
+Ge16,c31b083c-c7be-4d8f-bb4a-f4bce39a8999_trip,,Wageningen - Opheusden,0,,c31b083c-c7be-4d8f-bb4a-f4bce39a8999,0,0,ee2d040d-4e7d-484d-8c3e-1c1031092985
+NH61,a18890b5-cc0f-4554-906d-2d7932e56394_trip,,Hobrede - Middelie,0,,a18890b5-cc0f-4554-906d-2d7932e56394,0,0,ded5b95e-f3aa-459a-bae8-4dc2482cee61
+Fr20,0963fec8-95bb-48ac-b8bf-1535fdada9c2_trip,,Starteiland - Sneek,0,,0963fec8-95bb-48ac-b8bf-1535fdada9c2,0,0,85c749df-8120-49c7-995b-b264d8c4c0a6
+Ut06,0377b13f-aaa4-4dba-a653-77633d37c154_trip,,Woerden - Zegveld,0,,0377b13f-aaa4-4dba-a653-77633d37c154,0,0,d3bbbe26-1b97-403a-b7da-eb5fe55b887b
+Li02 / NB23,f1a31e33-5bb2-4e57-bc0e-b810c2aebd9e,,,1,,,0,0,0407561b-f573-4bf7-951f-91215ffc29f7
+ZH70 / NB33,edd335c1-5c8b-49c3-9f1a-4b21738ed645_trip,,Hardinxveld - Werkendam -Gorinchem,0,,edd335c1-5c8b-49c3-9f1a-4b21738ed645,0,0,8f7aabd4-80c9-46ff-9ca9-c99ed3cfa154
+ZH12,26c02c36-45e8-4b4f-9359-ea9d4e9610b2_trip,,Bleiswijk - Zevenhuizen,0,,26c02c36-45e8-4b4f-9359-ea9d4e9610b2,0,0,9d7c8d2d-8557-4eb3-be9e-093ddaef8194
+Ge50,d7fb9533-44a7-4904-a647-a9b421d79d32_trip,,Beuningen - Slijk-Ewijk,0,,d7fb9533-44a7-4904-a647-a9b421d79d32,0,0,32a68ca6-4522-49a0-935b-779979be1637
+ZH33,0897bbad-e140-4596-ae66-6a500bba442e_trip,,Nieuwerkerk a/d IJssel - Ouderkerk a/d IJssel,0,,0897bbad-e140-4596-ae66-6a500bba442e,0,0,080a69e9-b9f7-498d-af76-d6db7133d0bb
+ZH62,ca45744c-c285-437a-8ac4-bcfa1a4a9176_trip,,Groot-Ammers - Ammerstol,0,,ca45744c-c285-437a-8ac4-bcfa1a4a9176,0,0,b84e343b-013a-4685-9ad1-708fd97cb161
+ZH37,878d53f4-abdb-4504-b2a1-4944306a63ff_trip,,Lekkerkerk - Nieuw Lekkerland,0,,878d53f4-abdb-4504-b2a1-4944306a63ff,0,0,d604debf-865d-4794-84b9-499d1c34d19b
+NH78,348ebc83-66a8-4a65-9c6d-4af74da3eaf4_trip,,Oosterend (Schorreweg) - Texel Oosterend Hogezandskil,0,,348ebc83-66a8-4a65-9c6d-4af74da3eaf4,0,0,6ffa2f10-7852-4d9d-be09-58e456dea35a
+Ze16,7ebf69c9-e540-44a1-9eb8-fefc936d368c_trip,,Sluiskil Oost - Sluiskil West,0,,7ebf69c9-e540-44a1-9eb8-fefc936d368c,0,0,17947dbc-d4b3-417f-b3f7-126137ac3965
+ZH07,1c68a2bb-1b5d-43ba-ab75-0d7fa06087af_trip,,Oude Wetering - Rijnsaterwoude,0,,1c68a2bb-1b5d-43ba-ab75-0d7fa06087af,0,0,42f8c9b6-d460-4722-a73d-77438e047984
+Ge32 / NB10,7523224f-8969-4d4e-b947-35947e34c981_trip,,Aalst - Veen,0,,7523224f-8969-4d4e-b947-35947e34c981,0,0,b5e6a4fb-269a-4618-ad2e-be63b7edbd64
+Li19,614ede23-b009-4de1-9d5b-21d47e2cf469_trip,,Venlo - Steyl,0,,614ede23-b009-4de1-9d5b-21d47e2cf469,0,0,f787949f-be04-45f8-ab98-8835ca146b58
+Ge03 / Ov07,5d6cb7b0-feb6-42ed-bcf1-32ab1bb1d6c5_trip,,Hattem - Zwolle,0,,5d6cb7b0-feb6-42ed-bcf1-32ab1bb1d6c5,0,0,d5dc2d4d-6c80-4e16-bdcf-94329299e61b
+ZH18,46db3d11-440c-4230-bcb4-2f05a5a5c6ca_trip,,Maasland Duifpolder - Vlaardingen Vlietzicht,0,,46db3d11-440c-4230-bcb4-2f05a5a5c6ca,0,0,c5ecf5b9-1449-4d35-be50-2e41856da43e
+Ge01 / Fl03,08a9af01-c62c-46ef-bde8-ffdeaab9d8b1_trip,,Biddinghuizen - Nunspeet,0,,08a9af01-c62c-46ef-bde8-ffdeaab9d8b1,0,0,613857a1-b205-48b5-af96-1c2e00becab0
+Gr03,415b3b6b-c5ed-49d8-82b5-8f0132b8c24a_trip,,Borkum - Emden-Kock - Delfzijl,0,,415b3b6b-c5ed-49d8-82b5-8f0132b8c24a,0,0,28ff051d-139f-47a0-9ba5-ab826ffc369b
+Li15 / Be30,f31ff433-6234-4ba6-b3eb-cc5b170aee23_trip,,Meeswijk - Berg,0,,f31ff433-6234-4ba6-b3eb-cc5b170aee23,0,0,1c46519c-3612-492d-b276-d3bb2d4a0029
+NH55,9d6f0289-0b86-453f-9339-506f0c3f0771_trip,,Amsterdam Siegerpark - Slotervaart,0,,9d6f0289-0b86-453f-9339-506f0c3f0771,0,0,bc39da33-e857-4995-a3e0-4d612d99b57e
+Ge36 / NB18,b993e080-6525-4c2d-8172-cc0333107bca_trip,,LIth- Alphen,0,,b993e080-6525-4c2d-8172-cc0333107bca,0,0,232fcd66-cec9-4268-ba8b-207e6a4d5b3d
+Ov13,9e9ae9c4-d839-4686-b019-7cb84011c172_trip,,Rheeze - Oud-Bergentheim,0,,9e9ae9c4-d839-4686-b019-7cb84011c172,0,0,ca342a5e-8dcb-4a6c-a22a-820540de6924
+Ut18,9c5bfb41-adc1-4ac3-a63d-ebdeaad3d8ef_trip,,Nieuwegein museumwerf - Pr.Hendriklaan,0,,9c5bfb41-adc1-4ac3-a63d-ebdeaad3d8ef,0,0,d5634a3e-cec5-4359-92aa-6dd113c065a9
+Fr11,824c9edd-30f9-4c81-be5d-f8588762ca8d_trip,,Wijns - Britsum,0,,824c9edd-30f9-4c81-be5d-f8588762ca8d,0,0,05724c43-790a-4bd6-9fac-ff400fe9a270
+ZH10,6f9bec15-25b0-4880-9f51-c58152949bb3_trip,,Den Haag Haringkade - Westbroekpark,0,,6f9bec15-25b0-4880-9f51-c58152949bb3,0,0,3f145a39-0150-4cff-ae8e-2c9b8f338e9d
+Ze10,05c90f47-22ec-4035-b810-2c5b2df713b7_trip,,Yerseke - Gorishoek - Wemeldinge,0,,05c90f47-22ec-4035-b810-2c5b2df713b7,0,0,a23e0d24-1608-4abf-846a-1fd173123da8
+ZH49 / NB07,b94b35a3-63cb-4e15-83a5-5a05e4184934_trip,,Gorinchem - Sleeuwijk,0,,b94b35a3-63cb-4e15-83a5-5a05e4184934,0,0,c49a0adb-ba00-427d-afae-c8e4db02ca20
+Li14 / Be29,c06c56a8-83a5-4c91-a52a-5409f65df0c3_trip,,Grevenbicht - Rotem,0,,c06c56a8-83a5-4c91-a52a-5409f65df0c3,0,0,78e14bc6-c6b3-47b9-b696-198e5888ec4e
+Ge24 / ZH52,edb83382-ded0-4d9f-9773-49e6608c95e8_trip,,Heukelum - Galgenwaard,0,,edb83382-ded0-4d9f-9773-49e6608c95e8,0,0,013fa16c-a0ff-496b-8ae9-276e419f0b8c
+Fr21,d01dea73-9b6d-4f69-aba0-7d3e52699ce6_trip,,Tijnje - Nij Beets,0,,d01dea73-9b6d-4f69-aba0-7d3e52699ce6,0,0,df295c63-e4f5-4a6d-95e9-d2255201a904
+Ov01,cf01d27c-32e2-4b98-85c3-964948c8cf16_trip,,Jonen - Blokzijl,0,,cf01d27c-32e2-4b98-85c3-964948c8cf16,0,0,79670d96-91d1-4f33-b186-79ecdd1ed72c
+Ge18,16e20303-3195-48e6-a7fc-ee755f286476_trip,,Driel - Heveadorp,0,,16e20303-3195-48e6-a7fc-ee755f286476,0,0,2b130117-5461-4ec4-9e13-52890a81e53e
+Ze23,8c1aba60-a073-4364-af1b-dc9409844ef6_trip,,Vlissingen koningsweg - centrum - station,0,,8c1aba60-a073-4364-af1b-dc9409844ef6,0,0,05cce5f1-3fa3-4dc9-8160-3703ab13a1a8
+ZH38,7ac5da85-666f-419b-88aa-07ea83ca3a8c_trip,,Bergstoep - Streefkerk,0,,7ac5da85-666f-419b-88aa-07ea83ca3a8c,0,0,ef7fd3bb-a0df-4847-86b9-a407083c3e75
+Ge41 / NB21,7cdb118e-0356-4c10-98d3-893ed605a36e_trip,,Megen - Appeltern,0,,7cdb118e-0356-4c10-98d3-893ed605a36e,0,0,58e9ed41-3fa2-432e-9469-edddaaa25ffa
+Ze21,b1fa611f-73d1-469a-9dab-716d030ce37f_trip,,Veere Wallen oz - Veere Wallen wz,0,,b1fa611f-73d1-469a-9dab-716d030ce37f,0,0,d19109c0-11f9-4567-86ed-59c5477ecd6a
+Ut08,0a544e17-827d-43bb-bef2-35756ce236f5_trip,,Vianen - Nieuwegein,0,,0a544e17-827d-43bb-bef2-35756ce236f5,0,0,32b027f2-1e37-4205-83bc-acf789882693
+ZH56,2981e828-ed6b-471f-8f8a-78598919a970_trip,,Woerdense Verlaat Pietersenpad wz- Woerdense Verlaat Pietersenpad oz,0,,2981e828-ed6b-471f-8f8a-78598919a970,0,0,8a36dc94-d16b-49a7-8219-8460e79353c2
+NH17,6dc0dfc3-5687-4b56-8b6a-c3e29e3254ff_trip,,Ilpendam Jaagweg - Kanaalweg,0,,6dc0dfc3-5687-4b56-8b6a-c3e29e3254ff,0,0,284f7db3-0715-4321-a38b-7b52cf81eca2
+Ut17,6ebbfa2e-f75f-458c-81ac-806fab540509_trip,,De Meern Alendorp,0,,6ebbfa2e-f75f-458c-81ac-806fab540509,0,0,11cd9e67-e62a-47d6-a54f-261210cc0515
+Ov02,837bac0f-3eab-4ba3-939d-040dac66caa2_trip,,Sint Jansklooster Natuurmonumenten - Sint Jansklooster Natuurmonumenten 2,0,,837bac0f-3eab-4ba3-939d-040dac66caa2,0,0,6ce7224f-a3f1-4c35-a509-9c72d9ddddd3
+Ov21,5d86ec62-689e-4106-a1b6-b3aff93b5c32_trip,,Dalfsen - Hessum,0,,5d86ec62-689e-4106-a1b6-b3aff93b5c32,0,0,fbe6b45a-fd57-4e05-bd05-a6f97b6f5a68
+Ut20 / Ge48,66886443-ecbf-4190-828b-2e02748fee86_trip,,Fort Everdingen - Schalkwijk - Werk aan t Spoel,0,,66886443-ecbf-4190-828b-2e02748fee86,0,0,505487a6-2fdf-4da5-85c8-ce7c05870fd9
+ZH30,c4ab5847-67f2-4de9-9d69-283cd0889fec_trip,,Rotterdam Veerhaven - Hotel New York,0,,c4ab5847-67f2-4de9-9d69-283cd0889fec,0,0,b83a6cfe-edfe-430f-b46f-c8bb52c26bbf
+NB12,e6c66456-7391-4b9b-9dc0-5efd86d59a3a_trip,,Sprang-Capelle - Dussen,0,,e6c66456-7391-4b9b-9dc0-5efd86d59a3a,0,0,23f2e9bb-e0bc-4697-92c5-390c4224ba47
+Fr41,eaacdfed-c7e7-472a-b092-0d1499ed20ec_trip,,Keimpetille - Dronrijp Dykshoek,0,,eaacdfed-c7e7-472a-b092-0d1499ed20ec,0,0,a776ae25-824c-40c6-b7a6-b836109d757c
+ZH61,e366556a-3c2b-465b-8419-a96124f0d316_trip,,Nieuwendijk - Tiengemeten - Stad aan t Haringvliet,0,,e366556a-3c2b-465b-8419-a96124f0d316,0,0,c9572011-fc1f-4ec3-aace-c6f500ae4a56
+Ge43,893d9d2c-e14d-45cc-948a-42db34c23604_trip,,Zevenaar - Aerdt,0,,893d9d2c-e14d-45cc-948a-42db34c23604,0,0,b034c711-59c3-46fe-b67c-af1e84cc1c57
+ZH13,d00053d3-3d61-4afb-9393-543ef67f2f97_trip,,Kortenoord - Nieuwerkerk a/d IJssel,0,,d00053d3-3d61-4afb-9393-543ef67f2f97,0,0,5f758136-e9db-4154-bf39-9ceb3ae802a8
+Ge39 / NB20,76fe9569-849b-47d2-bf40-13eaa5770098_trip,,Maasbommel - Megen,0,,76fe9569-849b-47d2-bf40-13eaa5770098,0,0,06adc40c-3785-4158-8413-79b8c645d24e
+Fr21,f687f20b-be56-4466-9e54-4fa5ca5bd5b4_trip,,Nij Beets - Tijnje,0,,f687f20b-be56-4466-9e54-4fa5ca5bd5b4,0,0,dff93aac-8b19-45e6-b860-bf7b9eb6e48e
+Ge58,daa9ee38-9540-4ab5-b891-30123fb341af_trip,,Heukelum Koornwaard (noord) - Heukelum Koornwaard (zuid),0,,daa9ee38-9540-4ab5-b891-30123fb341af,0,0,ae672cc1-a99e-4bca-a1d0-bdffd2f3f2cd
+ZH58,a1227183-5112-4be6-b15d-a33fd3013204_trip,,Strijensas - Esscheplaat,0,,a1227183-5112-4be6-b15d-a33fd3013204,0,0,1119f6e1-a1eb-40d6-9c69-c3ad2cda4692
+Gr06,bd0a5c80-a788-4662-b0b9-7c2099b42714_trip,,Noordlaren Osdijk - Recreatiegebied Meerwijck,0,,bd0a5c80-a788-4662-b0b9-7c2099b42714,0,0,4b8dda7b-938d-4c9e-81db-9efd292332fb
+NH69,752e5d42-a99c-4633-949f-fb63bb235b15_trip,,Amstelveen Bovenkerkerpolder - Amstelveen Nesserlaan,0,,752e5d42-a99c-4633-949f-fb63bb235b15,0,0,022cc4cb-f804-4487-bcde-4cee8f0cee59
+Fr14,ec268fdc-3dbe-41a7-a2b7-6110bd9348e3_trip,,It Wiid - Eernewoude,0,,ec268fdc-3dbe-41a7-a2b7-6110bd9348e3,0,0,190ae463-8ae1-4e58-a30e-a47fbe96d803
+Dr04,0fdabe22-c7e8-43a0-b252-191079016bcb_trip,,Hijken Oranjekanaal Zuid - Noord,0,,0fdabe22-c7e8-43a0-b252-191079016bcb,0,0,afb5ccde-53a6-41f6-8e35-3feaac95fe0c
+NH05 / Fr26,0c0e7d88-a4c3-4c99-b97b-c0f821e7637b_trip,,Stavoren - Enkhuizen,0,,0c0e7d88-a4c3-4c99-b97b-c0f821e7637b,0,0,37cdb201-2a33-4d4c-ad81-448f628e90e5
+Fr29,912dbff9-0ae4-417e-a748-f4139f2fc251_trip,,Oldelamer - Rotstergaast,0,,912dbff9-0ae4-417e-a748-f4139f2fc251,0,0,fcf33656-0d79-40d3-a100-d0ecfeeed64e
+Ze19,467d96b3-fb35-4cb6-b37c-b89be443cab6_trip,,s Gravenpolder - s Heer Abtskerke Zuidweg,0,,467d96b3-fb35-4cb6-b37c-b89be443cab6,0,0,9da250a0-04e0-4f81-8066-813a811da882
+Li02 / NB23,b5d5af40-4137-42b4-8a9c-cd91c2ef74b6_trip,,Sambeek - Afferden,0,,,0,0,f37705ca-84ab-4216-90d3-17a96ac2d624
+NH10,496f7d61-f81d-4c97-acc9-ab74c4c5c753_trip,,Anna Paulowna - Julianadorp,0,,496f7d61-f81d-4c97-acc9-ab74c4c5c753,0,0,0f883ca5-81b5-40ae-ad4b-e5225ce27151
+ZH62,be19a872-5f1d-4750-a84f-575bcd9e0f46_trip,,Ammerstol - Groot-Ammers,0,,be19a872-5f1d-4750-a84f-575bcd9e0f46,0,0,b6fb15cf-a509-4a81-8057-d71a00f88e42
+NH55,0ec235b9-a292-4ecc-8c53-eeaf8f3bcd1b_trip,,Amsterdam Slotervaart-Siegerpark,0,,0ec235b9-a292-4ecc-8c53-eeaf8f3bcd1b,0,0,3f749b19-d5dc-4206-931b-b12932fb20c1
+NH12,7331f841-ac22-4b40-aec6-3e44589e5146_trip,,Akersloot - Schermerdijk,0,,7331f841-ac22-4b40-aec6-3e44589e5146,0,0,81479266-7f0c-4c96-9acb-a3777e20e1a9
+Fr39,0c5024f3-78bd-4248-aac4-00a962543083_trip,,Ameland - Holwerd (watertaxi),0,,0c5024f3-78bd-4248-aac4-00a962543083,0,0,62225abd-3162-4caa-8aef-a387a197746c
+Ut02 / NH56,17cb7412-6bb1-4394-91b1-ea1162a4edc0_trip,,Amersfoort - Huizen,0,,17cb7412-6bb1-4394-91b1-ea1162a4edc0,0,0,9b4c46bf-51ed-4328-acf4-e205d1840749
+Ut05,a2d0fbbf-d0f1-43c7-a809-8c05b2bd6dcc_trip,,Breukelen - Nieuwer ter Aa,0,,a2d0fbbf-d0f1-43c7-a809-8c05b2bd6dcc,0,0,7eb129e0-582f-4e1d-8c12-55518121aa1e
+Fr25,f8728cf4-18d4-4928-b923-989e3d2f4c44_trip,,It Heidenskip - Gaastmeer,0,,f8728cf4-18d4-4928-b923-989e3d2f4c44,0,0,37bd49ef-e8c3-4618-8c13-847a98b6708a
+Gr09,993e27c0-4b17-4547-8fd3-6813d967c803_trip,,Beerta - Blauwe Stad Reiderwolde,0,,993e27c0-4b17-4547-8fd3-6813d967c803,0,0,34d15744-95e4-4bc7-a137-bf2f32753834
+Ze06,f3d919b6-a3ad-49c6-a3db-ddf06aa28d96_trip,,Zierikzee - Sint Annaland,0,,f3d919b6-a3ad-49c6-a3db-ddf06aa28d96,0,0,8e5e3898-f58b-434d-a286-fcb7514a9924
+ZH37,529c77de-8e18-4526-9a14-a7fb351fb7e6_trip,,Nieuw Lekkerland - Lekkerkerk,0,,529c77de-8e18-4526-9a14-a7fb351fb7e6,0,0,65087656-e52f-40ec-a7e1-a19dcc6f2e0d
+Li17 / Be32,7413e699-ecfc-4b81-8f58-f90b984105e9_trip,,Lanaye - Eijsden,0,,7413e699-ecfc-4b81-8f58-f90b984105e9,0,0,b27ce15b-02b4-42b6-ad2a-0a3ec3e593e2
+Ge03 / Ov07,a36fa6a8-a2f3-44d5-8310-ed65cd12933b_trip,,Zwolle - Hattem,0,,a36fa6a8-a2f3-44d5-8310-ed65cd12933b,0,0,6f8aaa2a-e063-4aa6-b903-49b932ea6377
+NH68,1ef0a06e-c9eb-46e7-af2a-c167391a83bc_trip,,Badhoevedorp - Sloten,0,,1ef0a06e-c9eb-46e7-af2a-c167391a83bc,0,0,e0d4d9df-c63c-4108-83fc-715748a78295
+NH11,382ac342-1b43-4a81-9da8-93d2d33de7b0_trip,,Eilandswal - Alkmaar Bierkade,0,,382ac342-1b43-4a81-9da8-93d2d33de7b0,0,0,1754748d-d1e4-4900-a0c1-5333dd99facc
+NH31,c3db9c84-4b24-4e6b-b09b-5b223c9d31ca_trip,,Merwedekanaaldijk - Amsterdam Watergraafsmeer,0,,c3db9c84-4b24-4e6b-b09b-5b223c9d31ca,0,0,6a5e462f-80db-4a17-bfdd-4e48763dac32
+Ov21,1419e0bd-b478-4c18-b792-90a3190b65ce_trip,,Hessum - Dalfsen,0,,1419e0bd-b478-4c18-b792-90a3190b65ce,0,0,00ca8b91-aa4a-43dd-b376-5bed9991fe17
+Ge09,5f04f156-e98e-42f6-80e8-cae59e6a5a87_trip,,Rheden - Rhederlaag,0,,5f04f156-e98e-42f6-80e8-cae59e6a5a87,0,0,3eb38a51-4d09-4441-baee-710e5ce0dae5
+Ge11 / Ut09,b45c3081-1234-4127-a822-55408cb34b33_trip,,Culemborg - Schalkwijk,0,,b45c3081-1234-4127-a822-55408cb34b33,0,0,4c0d14ce-6ee8-4d24-a96f-c2f3aa60d800
+Fr27,293f44c8-02a5-44ea-a22b-f1b80f734640_trip,,Balk - Heeg,0,,293f44c8-02a5-44ea-a22b-f1b80f734640,0,0,56801dcd-3a2a-473b-84c3-c921fa663839
+Ge15 / Ut13,7a45bb6d-d251-4016-9dbb-59e1f8cef2c7_trip,,Elst - Ingen,0,,7a45bb6d-d251-4016-9dbb-59e1f8cef2c7,0,0,4ba263fe-895f-41d9-8fa0-cf78f19d3093
+Ze17,854e9da5-a23c-40a4-9a56-836d59272076_trip,,Groede Cletemspolder,0,,854e9da5-a23c-40a4-9a56-836d59272076,0,0,54c077d1-73c5-4da0-af0e-e083ed1c64da
+Li08,f48ded36-d170-4981-94ef-c8b4a90cbd47_trip,,Velden - Grubbenvorst,0,,f48ded36-d170-4981-94ef-c8b4a90cbd47,0,0,10abd034-2667-4874-90c3-0b330b559ddf
+Ut01,b2db05c6-b09f-455d-9939-b53df8597e77_trip,,Eemnes - Eemdijk,0,,b2db05c6-b09f-455d-9939-b53df8597e77,0,0,7169bda5-c3c8-4557-9581-cb41eac2179e
+Ov06,85e15f93-992b-4e3e-abd4-b4b5a9223b26_trip,,Haerst - Zwolle Agnietenberg,0,,85e15f93-992b-4e3e-abd4-b4b5a9223b26,0,0,f6ce26d0-dbd7-4617-9334-9123f577f563
+Ge14 / Ut12,138dc862-9066-4eca-8601-cd9c281d2243_trip,,Eck en Wiel - Amerongen,0,,,0,0,a3733c1a-e790-4825-808c-9d8b5069bd73
+Li01 / NB22,3e225bd1-a843-4de5-babc-59375be11174_trip,,Cuijk - Middelaar,0,,3e225bd1-a843-4de5-babc-59375be11174,0,0,beb63e6a-9dcb-4055-8ed3-cc9eeb4dc193
+Ze15,304a7511-6ccc-4054-8143-e5c984108018_trip,,Hansweert - Perkpolder,0,,304a7511-6ccc-4054-8143-e5c984108018,0,0,aeaa085e-afde-4226-8724-ddcf86d86270
+NH69,b8921a61-dd68-4835-8a3a-0e59abfcb015_trip,,Amstelveen Nesserlaan - Amstelveen Bovenkerkerpolder,0,,,0,0,6042ec23-361f-409d-be7c-1efef3d315f0
+NH74,faacead0-fcd9-4b15-ad95-af07e3cf9aa4_trip,,Hoofddorp Liniepad - Geniedijk,0,,faacead0-fcd9-4b15-ad95-af07e3cf9aa4,0,0,62d76360-9d15-412b-8359-82775312a757
+Ze20,ed587235-83c3-4940-9cd1-4c535c008192_trip,,Walcheren 1 - 1,0,,ed587235-83c3-4940-9cd1-4c535c008192,0,0,372cc0ad-4d5c-4ae2-ad91-a44cba3f8be1
+Ov05,5b16a923-2e47-434c-b602-7ad0c9a12049_trip,,Zalk - s Heerenbroek,0,,5b16a923-2e47-434c-b602-7ad0c9a12049,0,0,44c0e304-537c-4b5c-881e-ead74270a3cb
+NB09 / Ge31,052a2d56-2d20-45b4-b47c-dcb67aaa5512_trip,,Loevestein - Woudrichem,0,,052a2d56-2d20-45b4-b47c-dcb67aaa5512,0,0,587cd61e-39de-4863-b177-01533c38dd87
+Ov20,13a90ffe-5446-41c7-a66b-ddcacb6f3fc5_trip,,Weerselo - Reutum,0,,13a90ffe-5446-41c7-a66b-ddcacb6f3fc5,0,0,8572e75d-d36f-47e9-b492-fcdafb01f1db
+Gr02,9c758b51-3472-480b-a59f-6017a3f203bd_trip,,Ditzum - Emden - Delfzijl,0,,9c758b51-3472-480b-a59f-6017a3f203bd,0,0,a6772cd0-bd87-4515-8bda-beb1ffe39f2f
+Fr43,1a3b2fdb-b5a5-4a17-85e3-8a875b53f069_trip,,Luinjeberd - De Deelen,0,,1a3b2fdb-b5a5-4a17-85e3-8a875b53f069,0,0,8b721841-fdd0-4b23-bdba-317d4a802dae
+NH68,9ba770f0-0647-4b0b-9cbd-4c8bdb5dc560_trip,,Sloten - Badhoevedorp,0,,9ba770f0-0647-4b0b-9cbd-4c8bdb5dc560,0,0,e5fa0f2b-9feb-4289-a9f0-72f4f92d9d03
+Ov17,49c08bc6-57b7-4c5e-911b-5b8056832384_trip,,Wierden Notter - Rijssen Zuna,0,,49c08bc6-57b7-4c5e-911b-5b8056832384,0,0,4751c408-9e2b-4c30-8db9-dcb81706c865
+NH48,bdb447a5-84b1-4005-847f-4a4c9ef8f645_trip,,Bovenkerker polder - Amstelveen Middenweg,0,,bdb447a5-84b1-4005-847f-4a4c9ef8f645,0,0,29a9fb1e-176f-4edc-b0fa-4f4f0a37581e
+ZH03,55ba88a6-851f-4b1f-a816-f2eb4189242c_trip,,Tengnagel - Koudenhoorn,0,,55ba88a6-851f-4b1f-a816-f2eb4189242c,0,0,35c74f6f-fd07-434f-9d80-fe5958df8655
+Ze21,8762223f-8bc2-44a5-9ca9-8b8d67c0bb82_trip,,Veere Wallen wz- Veere Wallen oz,0,,8762223f-8bc2-44a5-9ca9-8b8d67c0bb82,0,0,aede1025-dbb9-4870-9df5-cfac53d26a82
+NH45,e7992f54-d9ab-4202-8d2c-0d7b1607b289_trip,,Amstelveen Nesserlaan - De Ronde Hoep,0,,e7992f54-d9ab-4202-8d2c-0d7b1607b289,0,0,791daffb-0f1b-471e-a152-3f3f37e6d477
+NH06 / Fl04,b5aa2e1d-3d64-45eb-b90a-9e73b24d5068_trip,,Enkhuizen - Urk,0,,b5aa2e1d-3d64-45eb-b90a-9e73b24d5068,0,0,86a5bb10-ce3b-4f0b-8404-1e07e11c1c08
+Ge57,54c93a01-3fec-424a-af26-96af6039c3cd_trip,,Heteren - Renkum,0,,54c93a01-3fec-424a-af26-96af6039c3cd,0,0,ef45ac5e-94d0-4337-b3de-9fb875e2492e
+Ge19,0ba682b9-bf9f-4331-a53a-8ca24b8dbd5d_trip,,Loo - Huissen,0,,0ba682b9-bf9f-4331-a53a-8ca24b8dbd5d,0,0,13665c42-2327-451e-bdca-caa86cabd142
+NH79,9c98cc19-697f-43bb-b23b-5683dc75ddbc_trip,,Fort Westoever - Handelskade,0,,9c98cc19-697f-43bb-b23b-5683dc75ddbc,0,0,74344d87-b38a-4361-8760-3352443b1149
+ZH02,140f23ac-2abc-4a01-94ab-39e344b04379_trip,,Oud Ade - Kaag,0,,140f23ac-2abc-4a01-94ab-39e344b04379,0,0,cdb36e59-c87e-4ad5-b850-2fc5c21aa310
+Ov10,a40ba094-bc23-4e4b-883e-c035c5d090a1_trip,,Olst - Welsum,0,,a40ba094-bc23-4e4b-883e-c035c5d090a1,0,0,0be40314-e605-4a33-b51a-6b1dade791f9
+Ge20,9de299ed-2401-4a6b-96c0-d861de34a280_trip,,Doornenburg - Pannerden,0,,9de299ed-2401-4a6b-96c0-d861de34a280,0,0,d6db43bd-c200-4bbd-81e4-7395bf396b9f
+Dr01,3d1bf76a-4d2f-4990-ae9e-7b7016ec6931_trip,,Bloemberg - Fort,0,,3d1bf76a-4d2f-4990-ae9e-7b7016ec6931,0,0,be6c8e8c-9835-42ac-975c-f2d556d77a9f
+NH15,ef590cdc-0a4d-4221-abd6-aeda938d1ac1_trip,,Oost Knollendam - Starnmeerpolder,0,,ef590cdc-0a4d-4221-abd6-aeda938d1ac1,0,0,2fd8e08a-2094-4884-9706-51ed363c75d4
+Ov09 / Ge05,704b1d83-72c2-47c8-98d3-24b842ddd0ba_trip,,Fortmond - Veessen,0,,704b1d83-72c2-47c8-98d3-24b842ddd0ba,0,0,6d22b21d-9e2f-491e-b1e0-9f4e46fc4b17
+Li16 / Be31,b38f6d81-cc0b-4c47-8c02-7a646c434b77_trip,,Uikhoven - Geulle,0,,b38f6d81-cc0b-4c47-8c02-7a646c434b77,0,0,e94f083e-d6b0-454d-ad63-bf7bd505d4d4
+ZH05,153dfc09-da23-4f08-9e64-aa6f676c0374_trip,,Warmond Zijldijk - Leiden Merenwijk,0,,153dfc09-da23-4f08-9e64-aa6f676c0374,0,0,efc30a30-f1c2-497d-a4f3-28a06296f66b
+Fr37,0076b4ff-0a23-4c47-8d5a-cfdae22de7f2_trip,,IJlst Ruterpolder -Eegracht,0,,0076b4ff-0a23-4c47-8d5a-cfdae22de7f2,0,0,f489bc1c-fc21-4d18-b55c-12660d1d5dd5
+NB03,114e486b-bc38-4ad5-8687-b8776549952d_trip,,Breda Haagse Beemden - Terheijden,0,,114e486b-bc38-4ad5-8687-b8776549952d,0,0,8a186f21-fa8f-4599-b04b-e58a41527256
+Ze07,6302c0e6-6231-4fef-9632-eb9b00745c32_trip,,Kamperland Sophiahaven - Zierikzee,0,,6302c0e6-6231-4fef-9632-eb9b00745c32,0,0,972b0b52-5558-470c-8f85-9fc9da697445
+Ov01,8fc40b60-17bf-46d2-aecd-e1ace852e2f7_trip,,Blokzijl - Jonen,0,,8fc40b60-17bf-46d2-aecd-e1ace852e2f7,0,0,66845c32-9d3d-44a6-ac05-7c05395de514
+ZH28,89459440-325f-48b0-abee-7d35378fffe4_trip,,Nieuw Beijerland - Hekelingen,0,,89459440-325f-48b0-abee-7d35378fffe4,0,0,bd854209-f38e-4a3d-8d49-50ebb9fecd5f
+Fr19,4abdc240-c55c-4eaa-a01b-9cae79d1cf95_trip,,Hooidammen - Veenhoop,0,,4abdc240-c55c-4eaa-a01b-9cae79d1cf95,0,0,27422252-0c05-4b59-88bc-eae7a0d21781
+Li06,2e2baa5f-581f-4c0e-b940-c5e73b3adf27_trip,,Broekhuizen - Arcen,0,,2e2baa5f-581f-4c0e-b940-c5e73b3adf27,0,0,0fb449d7-a12d-4a9e-82d6-7f64bf996e20
+Ov03,f237e9c3-69a2-409b-8896-3e7e11d4cfda_trip,,Zwartsluis - Genemuiden,0,,f237e9c3-69a2-409b-8896-3e7e11d4cfda,0,0,8582e59a-7ff2-41e3-8b2c-d0e7585406c0
+Ge38,4f4d9eb5-bee9-47cc-9a11-b3c2799b9926_trip,,Maasbommel Loswal - Gouden Ham (recr.gebied),0,,4f4d9eb5-bee9-47cc-9a11-b3c2799b9926,0,0,0c9c875f-2c96-430f-98c5-41dd3522d0b3
+ZH08,848bb7a2-0d9f-415d-9ce7-224eb2490ace_trip,,Meije - Noorden,0,,848bb7a2-0d9f-415d-9ce7-224eb2490ace,0,0,85ee7a6b-7b80-4089-9398-c888e07bd46c
+Gr07,b62105fc-4f62-41e0-81c1-0ae36bd41053_trip,,Sebaldeburen - Boerakker,0,,b62105fc-4f62-41e0-81c1-0ae36bd41053,0,0,5af9b9b0-27ef-4d5c-ba38-46c83417f350
+NH35,0ac33d3b-9229-45fe-a63f-a3ae2a3d6cca_trip,,Amsterdamse Bos - Amsterdamse Oeverlanden,0,,0ac33d3b-9229-45fe-a63f-a3ae2a3d6cca,0,0,b1fc196c-7f1d-46c0-a5ba-b7f7ec9bdbea
+ZH21,049b8e55-54e8-41e1-b5fe-bc4560e8ac70_trip,,Rozenburg - Maassluis,0,,049b8e55-54e8-41e1-b5fe-bc4560e8ac70,0,0,c00d840f-4426-4b08-90ba-9d7745c459c6
+Ut25 / Ge53,fc1a1421-fddb-4783-864f-95e1cd57d27a_trip,,Lienden - Rhenen,0,,fc1a1421-fddb-4783-864f-95e1cd57d27a,0,0,103de8a1-d1fd-4f1c-bfc5-fd28d37d5d38
+Ut19,e1fdc09a-d3db-41a6-b28b-e67f9c8191e4_trip,,Woerden - Kamerik,0,,e1fdc09a-d3db-41a6-b28b-e67f9c8191e4,0,0,49eac574-2f8f-4fae-b7c7-0abbe50ab8a6
+NB14 / Ge34,8d8bc883-d6f3-4883-a41f-d9fbcbe78b1d_trip,,Bern - Herpt,0,,8d8bc883-d6f3-4883-a41f-d9fbcbe78b1d,0,0,62713f4d-cb8a-43be-8958-7ceaa8e77ca2
+Ov09 / Ge05,4ed0ff8a-c461-4a5a-be40-91e2559263d8_trip,,Veessen - Fortmond,0,,4ed0ff8a-c461-4a5a-be40-91e2559263d8,0,0,f39e46c1-7d5f-4e96-8cc9-1cdbd685d607
+Ge51,241c47a5-fa9e-483d-bf49-b231f2729c41_trip,,Acquoy - Leerdam Diefdijk,0,,241c47a5-fa9e-483d-bf49-b231f2729c41,0,0,36d7027d-4dfd-4de3-9681-385a854effd4
+NH63,4425aa02-357b-4b09-bf73-4e118d50a72e_trip,,Amsterdam Schellingwoude (oost) - Amsterdam Schellingwouder park (oost),0,,4425aa02-357b-4b09-bf73-4e118d50a72e,0,0,839f2f1b-0919-4954-89b4-8342e2522926
+Li19,a32c9bbf-f55d-4f1b-9cac-e0f17d74de10_trip,,Steyl - Venlo,0,,a32c9bbf-f55d-4f1b-9cac-e0f17d74de10,0,0,388653fd-981c-4321-9db2-d1014c15a543
+Dr03,86919805-6840-45e7-bedc-bb1c4a61ae23_trip,,Klazienaveen OZ - Klazienaveen WZ,0,,86919805-6840-45e7-bedc-bb1c4a61ae23,0,0,84ea1ddc-7562-44dc-8330-42131d5954e5
+Ut04 / NH39,792ec6e7-e909-44f2-bbd6-e38725c5e3d0_trip,,Nes a/d Amstel - Nessersluis,0,,792ec6e7-e909-44f2-bbd6-e38725c5e3d0,0,0,ccd6ace6-41b3-4f37-977c-d5a7fd76af62
+Li16 / Be31,648ff991-579e-4830-8dc3-8c752179628e_trip,,Geulle - Uikhoven,0,,648ff991-579e-4830-8dc3-8c752179628e,0,0,c7269180-72ff-4cb8-9a32-d638e5003333
+NH14,4bcd93d4-6b7d-448f-9018-7ba6f5601a19_trip,,Spijkerboor - De Rijp,0,,4bcd93d4-6b7d-448f-9018-7ba6f5601a19,0,0,cae53198-e42e-4c47-b008-d49f6ef560d3
+NH52,c36a4ff8-209e-4af8-9cb0-badb6d4db6cc_trip,,Zaandijk - Zaanse Schans Bonte Hen,0,,c36a4ff8-209e-4af8-9cb0-badb6d4db6cc,0,0,ff9b467c-e4b7-4566-aacd-62c53e67514c
+Ge32 / NB10,a1b0719f-88b0-4bca-9bbf-2eda674807ea_trip,,Veen -Aalst,0,,a1b0719f-88b0-4bca-9bbf-2eda674807ea,0,0,cc3fcdad-646f-46bf-bd06-515dfa5fb43d
+Ze08,4a6d6f86-ec46-4773-93b0-75c77ed47fbf_trip,,Veere- Kamperland,0,,4a6d6f86-ec46-4773-93b0-75c77ed47fbf,0,0,20d8fab0-32a7-491c-b007-c225ed882ff4
+Ge35 / NB16,b8ff2ac8-cc60-4432-a032-5a99acb068dc_trip,,Maren / Kessel - Alem,0,,b8ff2ac8-cc60-4432-a032-5a99acb068dc,0,0,84bc443c-ba4f-47fc-a530-4f4d229f8385
+Fr15,23db14cb-e94b-49cd-92a8-4bbdd1fa84eb_trip,,Wartena- Eernewoude,0,,23db14cb-e94b-49cd-92a8-4bbdd1fa84eb,0,0,7aa50b85-aa22-4620-81e9-118816114e0f
+Ge57,8eecaa65-537e-4e55-ae5c-ae2baea14111_trip,,Renkum - Heteren,0,,8eecaa65-537e-4e55-ae5c-ae2baea14111,0,0,238e33c9-26a8-4e06-9130-76ed855f2dfe
+Dr04,b4978806-3b9d-4f8c-8ca6-e53cafb6b9d2_trip,,Hijken Oranjekanaal Noord - Zuid,0,,b4978806-3b9d-4f8c-8ca6-e53cafb6b9d2,0,0,f995e4c1-55d1-40a6-9f7d-40a570f04623
+ZH44 / NB04,895a93c6-cb4a-455f-9b5c-643cacc35481_trip,,Biesbosch Spieringpolder - Kop van t Land,0,,895a93c6-cb4a-455f-9b5c-643cacc35481,0,0,7c73e405-f438-433d-a6d2-394a228b8081
+Fr36,62865b94-37a6-451c-9aeb-29eb8ecf6a26_trip,,Joure Jachthaven - Slachtedijk,0,,62865b94-37a6-451c-9aeb-29eb8ecf6a26,0,0,e322b0c1-4abf-43a2-b723-087c4cb423b2
+Ov10,c46a76b1-e24a-47f2-bb80-1292d29af5bd_trip,,Welsum - Olst,0,,c46a76b1-e24a-47f2-bb80-1292d29af5bd,0,0,f12acd1e-4db2-4eb0-b704-f4900d0d8911
+Ze20,b01f32f3-5188-43ee-85ab-6eef995f9500_trip,,4 - Walcheren 4,0,,b01f32f3-5188-43ee-85ab-6eef995f9500,0,0,30226aa1-3c17-42f5-979d-dd3c257c76ca
+ZH36,510b50eb-369b-4a89-bde7-84d7a0590a42_trip,,Krimpen a/d Lek - Kinderdijk,0,,510b50eb-369b-4a89-bde7-84d7a0590a42,0,0,47316057-03bc-4e68-bd4c-059ec4fad9ef
+Ze08,564bba1c-0543-4d22-b608-3881270141ef_trip,,Kamperland - Veere,0,,564bba1c-0543-4d22-b608-3881270141ef,0,0,b878f53c-7d19-4df1-a9cf-516b0aee4a37
+Ut22,88813db3-1f4d-4ea6-ac76-e87b86a00e2b_trip,,Everdingerwaard - Everdingen,0,,88813db3-1f4d-4ea6-ac76-e87b86a00e2b,0,0,151e09dc-6ab3-42e1-b7e4-9f87983d18b5
+Ut20 / Ge48,8ed608c4-ed1f-4799-82ff-df10d97b8ea7_trip,,Werk aan t Spoel - Schalkwijk - Fort Everdingen,0,,8ed608c4-ed1f-4799-82ff-df10d97b8ea7,0,0,0a308811-467c-4d38-b139-a089337f627a
