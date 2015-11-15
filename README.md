@@ -9,6 +9,7 @@ If you would like to try out the current state, download the zip of the master b
 Ok, it's not that easy, as GitHub decides to add an extra directory in the zip file and GTFS expects no subdirectories to be in there, so after downloading, you still need to re-zip the files again without the sub-directory:
 
 ```
+wget "https://github.com/plannerstack/map-data-issues/archive/master.zip" -O dutch-ferries-master.zip
 unzip dutch-ferries-master.zip
 cd dutch-ferries-master/
 zip gtfs.zip .
