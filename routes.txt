@@ -57,7 +57,7 @@ VV160,Ze18,Fiets-/Voetveer,Bruinisse - Anna Jacobapolder,Fiets-/Voetveer over Zi
 VV17,Ge06,Fiets-/Voetveer,Gorssel - Wilp,Fiets-/Voetveer over IJssel,4,http://www.gorssel.nl/erop-uit/11-erop-uit/17-overkant-ijssel,FFFFFF,000000
 VV135,Ge07,Autoveer,Brummen - Bronkhorst,Autoveer over IJssel,4,http://www.brummen.nl/wonen-en-leven/verkeer/vaartijden-veerpont/,FFFFFF,000000
 VV157,Ge08,Autoveer,Dieren - Olburgen,Autoveer over IJssel,4,http://www.veerpont-dieren.nl,FFFFFF,000000
-VV21,Ge09,Fiets-/Voetveer,Rheden - Rhederlaag,Fiets-/Voetveer over IJssel,4,http://www.veerdienstrheden.nl/,#ff0000,#ff0000
+VV21,Ge09,Fiets-/Voetveer,Rheden - Rhederlaag,Fiets-/Voetveer over IJssel,4,http://www.veerdienstrheden.nl/,ff0000,ff0000
 VV123,Ge10,Voetveer,Lochem Dochterenseweg - Staringkoepel,Voetveer over Berkel,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=247,FFFFFF,000000
 VV9,NH40,Fiets-/Voetveer,Aalsmeer - Rijsenhout,Fiets-/Voetveer over Ringvaart Haarlemmermeer,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=94,FFFFFF,000000
 VV89,NH45,Fiets-/Voetveer,Amstelveen Nesserlaan - De Ronde Hoep,Fiets-/Voetveer over Amstel,4,http://www.groengebied-amstelland.nl,,
@@ -323,7 +323,7 @@ VV45,Li11,Fiets-/Voetveer,Neer - Rijkel,Fiets-/Voetveer over Maas,4,http://www.r
 VV215,Li12,Fiets-/Voetveer,Ool - Marina Oolderhuuske,Fiets-/Voetveer over Maas,4,http://www.oolderhuuske.nl/,FFFFFF,000000
 VV102,Ov13,Fiets-/Voetveer,Rheeze - Oud-Bergentheim,Fiets-/Voetveer over Overijsselse Vecht,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=314,FFFFFF,000000
 VV240,Ov19,Fiets-/Voetveer,Heeten,Fiets-/Voetveer over Overijssels kanaal,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=403,FFFFFF,000000
-VV177,Ov17,Fiets-/Voetveer,Rijssen Zuna - Wierden Notter,Fiets-/Voetveer over Regge,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=398,#ff0000,000000
+VV177,Ov17,Fiets-/Voetveer,Rijssen Zuna - Wierden Notter,Fiets-/Voetveer over Regge,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=398,ff0000,000000
 VV13,Ge46 / NB27,Fiets-/Voetveer,Batenburg - Demen,Fiets-/Voetveer over Maas,4,http://www.uiterwaarde.nl,FFFFFF,000000
 VV92,Ov16,Voetveer,Zwolle Goertjesweg,Voetveer over Zandwetering,4,http://www.voetveren.nl/sub-overzicht/detail.php?nummer=380,FFFFFF,000000
 VV13,Ge24 / ZH52,Fiets-/Voetveer,Heukelum - Galgenwaard,Fiets-/Voetveer over Linge,4,http://www.uiterwaarde.nl,FFFFFF,000000
